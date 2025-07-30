@@ -143,12 +143,21 @@ Calendário das aulas
 
 #### Turma 	TI3P13
 
-| Matrícula | Nome do Aluno                |
-|-----------|------------------------------|
-| XXXXXX-X  | NOME DO ALUNO                |
+| Matrícula |    Nome do aluno   |
+|:---------:|:------------------:|
+| F35GAE8   | LUCAS SOUZA XAVIER |
 
 #### Turma 	TI4P13
 
-| Matrícula | Nome do Aluno                |
-|-----------|------------------------------|
-| XXXXXX-X  | NOME DO ALUNO                |
+| Matrícula |         Nome do aluno         |
+|:---------:|:-----------------------------:|
+| F358542   | ANA JULIA DE O BARBOSA        |
+| R0416B5   | CAUA MARTINS SILVESTRE        |
+| F359549   | ERICA CALO SANTOS             |
+| R063HI0   | FERNANDO ROCHA QUINHOLI       |
+| F359573   | GABRIEL HENRIQUE M TEIXEIRA   |
+| R057BD6   | GUILHERME JACOB M DE MACEDO   |
+| G960CJ8   | GUILHERME RENATO R DE QUEIROZ |
+| G978099   | ISABELA SASS MARTINS DE SOUZA |
+| F3591B9   | JOAO VITOR SILVA SOUZA        |
+| G907582   | KAROLINE VIEIRA ARAGAO        |
