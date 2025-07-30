@@ -117,15 +117,26 @@ Calendário das aulas
 
 #### Turma TI3P40
 
-| Matrícula | Nome do Aluno                |
-|-----------|------------------------------|
-| XXXXXX-X  | NOME DO ALUNO                |
+| Matrícula |         Nome do aluno        |
+|:---------:|:----------------------------:|
+| R191BJ3   | ANDRESSA MARIA DA SILVA      |
+| R194GF6   | JOÃO VICTOR DE JESUS ANDRADE |
+| R1704D1   | PALOMA FERNANDES D GERALDO   |
+| G7946I4   | VINICIUS ALMEIDA SILVA       |
 
 #### Turma 	TI4P40
 
-| Matrícula | Nome do Aluno                |
-|-----------|------------------------------|
-| XXXXXX-X  | NOME DO ALUNO                |
+| Matrícula |          Nome do aluno         |
+|:---------:|:------------------------------:|
+| G958DB5   | AGATHA CALUCIO SANTIAGO        |
+| G03IJD7   | ALESSANDRA ALMEIDA RIBEIRO     |
+| G993FJ5   | ANNA BEATRIZ TEIXEIRA SILVA    |
+| G9699B3   | CAMILA VICTORIA DE SOUZA SANTO |
+| G9787H7   | LEONARDO GONCALVES R FONSECA   |
+| G978JB0   | LIRIEL CHAIANE M OLIVEIRA      |
+| R0958I0   | RENAN HENRIQUE SILVA           |
+| G94GFD1   | VANESSA ALMEIDA SANTOS         |
+| G833EG6   | WESLEY PEREIRA DOS S DE SOUSA  |
 
 
 ## Campus Marquês de São Vicente
