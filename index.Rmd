@@ -1,11 +1,11 @@
---- 
-title: "A Minimal Book Example"
-author: "John Doe"
+---
+title: "ADS - Engenharia de Software 2025 - Anotações de aula"
+author: "Professor Miguel Suez Xve Penteado"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
@@ -15,46 +15,129 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Sobre estas anotações {.unnumbered}
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de ENGENHARIA DE SOFTWARE.
 
-## Usage 
+### ACESSO AO GITBOOK CELULAR
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+### <https://miguel7penteado.github.io/ADS-EngenhariaSoftware2025>
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+![](images/qr-code-disciplina.jpg)
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+### APP EPUB ANDROID
 
-## Render book
+### **Moon+ Reader**
 
-You can render the HTML version of this example book without changing anything:
+![](images/qrcode/leitor_epub/MoonReaderPlus.jpg)
 
-1. Find the **Build** pane in the RStudio IDE, and
+### Livros Texto da Disciplina
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+#### "Engenharia de Software" do autor "Roger S Pressman"
 
-Or build the book from the R console:
+![](images/livros/livro1.jpg)
 
-```{r, eval=FALSE}
-bookdown::render_book()
-```
+|  |  |
+|----|----|
+| **Autor(es)** | [Roger S. Pressman](https://www.indicalivros.com/autores?q=Roger%20S.%20Pressman) |
+| **Editora** | Pearson |
+| **Idioma** | Português |
+| **ISBN** | 8534602379 9788534602372 |
+| **Formato** | Capa comum |
+| **Páginas** | 1056 |
+| **Código Biblioteca** |  |
 
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
+#### "Engenharia de Software" do autor "Ian Sommerville"
 
-## Preview book
+![](images/livros/engenharia_software_sommerville.jpg)
 
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
+|                       |                 |
+|-----------------------|-----------------|
+| **Autor(es)**         | Ian SommerVille |
+| **Editora**           | Pearson         |
+| **Idioma**            | Português       |
+| **ISBN**              | 9788588639072   |
+| **Formato**           | Capa comum      |
+| **Páginas**           | 768             |
+| **Código Biblioteca** |                 |
 
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+Calendário das aulas
+
+##### AGOSTO DE 2025
+
+| Data       | Dia da Semana | Aulas | Conteúdo |
+|------------|---------------|-------|----------|
+| 06/08/2025 | Quarta-Feira  |       |          |
+| 13/08/2025 | Quarta-Feira  |       |          |
+| 20/08/2025 | Quarta-Feira  |       |          |
+| 27/08/2025 | Quarta-Feira  |       |          |
 
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+##### SETEMBRO DE 2025
+
+| Data       | Dia da Semana | Aulas | Conteúdo |
+|------------|---------------|-------|----------|
+| 03/09/2025 | Quarta-Feira  |       |          |
+| 10/09/2025 | Quarta-Feira  |       |          |
+| 17/09/2025 | Quarta-Feira  |       |          |
+| 24/09/2025 | Quarta-Feira  |       |          |
+
+##### OUTUBRO DE 2025
+
+| Data       | Dia da Semana | Aulas | Conteúdo |
+|------------|---------------|-------|----------|
+| 01/10/2025 | Quarta-Feira  |       |          |
+| 08/10/2025 | Quarta-Feira  |       |          |
+| 15/10/2025 | Quarta-Feira  |       |          |
+| 22/10/2025 | Quarta-Feira  |       |          |
+| 29/10/2025 | Quarta-Feira  |       |          |
+
+##### NOVEMBRO DE 2025
+
+| Data       | Dia da Semana | Aulas | Conteúdo |
+|------------|---------------|-------|----------|
+| 05/11/2025 | Quarta-Feira  |       |          |
+| 12/11/2025 | Quarta-Feira  |       |          |
+| 19/11/2025 | Quarta-Feira  |       |          |
+| 26/11/2025 | Quarta-Feira  |       |          |
+
+##### DEZEMBRO DE 2025
+
+| Data       | Dia da Semana | Aulas | Conteúdo |
+|------------|---------------|-------|----------|
+| 03/12/2025 | Quarta-Feira  |       |          |
+| 10/12/2025 | Quarta-Feira  |       |          |
+| 17/12/2025 | Quarta-Feira  |       |          |
+| 24/12/2025 | Quarta-Feira  |       |          |
+| 31/12/2025 | Quarta-Feira  |       |          |
+
+## Campus Chácara Santo Antônio
+
+### Alunos 2025 - 2o Semestre
+
+#### Turma TI3P40
+
+| Matrícula | Nome do Aluno                |
+|-----------|------------------------------|
+| XXXXXX-X  | NOME DO ALUNO                |
+
+#### Turma 	TI4P40
+
+| Matrícula | Nome do Aluno                |
+|-----------|------------------------------|
+| XXXXXX-X  | NOME DO ALUNO                |
+
+
+## Campus Marquês de São Vicente
+
+#### Turma 	TI3P13
+
+| Matrícula | Nome do Aluno                |
+|-----------|------------------------------|
+| XXXXXX-X  | NOME DO ALUNO                |
+
+#### Turma 	TI4P13
+
+| Matrícula | Nome do Aluno                |
+|-----------|------------------------------|
+| XXXXXX-X  | NOME DO ALUNO                |
