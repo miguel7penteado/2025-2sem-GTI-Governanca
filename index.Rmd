@@ -1,67 +1,83 @@
 ---
-title: "ADS - Engenharia de Software 2025 - Anotações de aula"
-author: "Professor Miguel Suez Xve Penteado"
+title: "GTI - Governança da Informação - 2025 - Anotações de aula"
+author: "Professor Miguél Suares"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [book.bib]
 url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  Este livreto reúne anotações, reflexões e conteúdos desenvolvidos ao longo das aulas da  disciplina Governança da Informação, ministrada pelo Professor Miguél Suares. Elaborado com base em experiências práticas, referências acadêmicas e diretrizes atualizadas sobre o tema, o material busca fornecer uma visão crítica e aplicada sobre a governança da informação nas organizações contemporâneas.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: miguel7penteado/2025-2sem-GTI-Governanca
 ---
 
 # Sobre estas anotações {.unnumbered}
 
-Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de ENGENHARIA DE SOFTWARE.
+—————————————————————————————————————————————
 
-### ACESSO AO GITBOOK CELULAR
+Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de Governança da Informação.
 
-### <https://miguel7penteado.github.io/ADS-EngenhariaSoftware2025>
+## ACESSO AO GITBOOK CELULAR
+
+—————————————————————————————————————————————
+
+#### <https://miguel7penteado.github.io/2025-2sem-GTI-Governanca>
 
 ![](images/qr-code-disciplina.jpg)
 
-### APP EPUB ANDROID
+## Leitores de formato de arquivo EPUB para SmartPhone
 
-### **Moon+ Reader**
+—————————————————————————————————————————————
 
-![](images/qrcode/leitor_epub/MoonReaderPlus.jpg)
+### ANDROID
 
-### Livros Texto da Disciplina
+#### **Moon+ Reader**
 
-#### "Engenharia de Software" do autor "Roger S Pressman"
+![](images/qrcode/leitor_epub/MoonReaderPlus.jpg){width="340"}
+
+## Livros Texto da Disciplina
+
+—————————————————————————————————————————————
+
+### "Governança Corporativa" dos autores "**José Paschoal Rossetti e Adriana Andrade**"
 
 ![](images/livros/livro1.jpg)
 
 |  |  |
 |----|----|
-| **Autor(es)** | [Roger S. Pressman](https://www.indicalivros.com/autores?q=Roger%20S.%20Pressman) |
-| **Editora** | Pearson |
+| **Autor(es)** | [**José Paschoal Rossetti**](https://www.fdc.org.br/sobreafdc/professores/rossetti) **e [Adriana Andrade](https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/)** |
+| **Editora** | Atlas |
 | **Idioma** | Português |
-| **ISBN** | 8534602379 9788534602372 |
-| **Formato** | Capa comum |
-| **Páginas** | 1056 |
+| **ISBN** | 9788522493050 |
+| **Formato** | Capa dura |
+| **Páginas** | 608 |
 | **Código Biblioteca** |  |
 
-#### "Engenharia de Software" do autor "Ian Sommerville"
+### "Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços" dos autores "Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu"
 
-![](images/livros/engenharia_software_sommerville.jpg)
+![](images/livros/livro2.jpg)
 
-|                       |                 |
-|-----------------------|-----------------|
-| **Autor(es)**         | Ian SommerVille |
-| **Editora**           | Pearson         |
-| **Idioma**            | Português       |
-| **ISBN**              | 9788588639072   |
-| **Formato**           | Capa comum      |
-| **Páginas**           | 768             |
-| **Código Biblioteca** |                 |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Autor(es)**         | #### [Aguinaldo Aragon Fernandes](https://br.linkedin.com/in/aguinaldo-aragon-fernandes) e [Vladimir Ferraz de Abreu](https://br.linkedin.com/in/vladimirabreu) |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Editora**           | BRASPORT                                                                                                                                                        |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Idioma**            | Português                                                                                                                                                       |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **ISBN-13**           | 978-8574528441                                                                                                                                                  |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Formato**           | Eletrônico                                                                                                                                                      |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Páginas**           | 1198                                                                                                                                                            |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Código Biblioteca** |                                                                                                                                                                 |
++-----------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-Calendário das aulas
+## Calendário das aulas
+
+—————————————————————————————————————————————
 
 ##### AGOSTO DE 2025
 
@@ -71,7 +87,6 @@ Calendário das aulas
 | 13/08/2025 | Quarta-Feira  |       |          |
 | 20/08/2025 | Quarta-Feira  |       |          |
 | 27/08/2025 | Quarta-Feira  |       |          |
-
 
 ##### SETEMBRO DE 2025
 
@@ -111,53 +126,54 @@ Calendário das aulas
 | 24/12/2025 | Quarta-Feira  |       |          |
 | 31/12/2025 | Quarta-Feira  |       |          |
 
-## Campus Chácara Santo Antônio
+## Alunos 2025 - 2o Semestre
 
-### Alunos 2025 - 2o Semestre
+—————————————————————————————————————————————
+
+### Campus Chácara Santo Antônio
 
 #### Turma TI3P40
 
-| Matrícula |         Nome do aluno        |
+| Matrícula |        Nome do aluno         |
 |:---------:|:----------------------------:|
-| R191BJ3   | ANDRESSA MARIA DA SILVA      |
-| R194GF6   | JOÃO VICTOR DE JESUS ANDRADE |
-| R1704D1   | PALOMA FERNANDES D GERALDO   |
-| G7946I4   | VINICIUS ALMEIDA SILVA       |
+|  R191BJ3  |   ANDRESSA MARIA DA SILVA    |
+|  R194GF6  | JOÃO VICTOR DE JESUS ANDRADE |
+|  R1704D1  |  PALOMA FERNANDES D GERALDO  |
+|  G7946I4  |    VINICIUS ALMEIDA SILVA    |
 
-#### Turma 	TI4P40
+#### Turma TI4P40
 
-| Matrícula |          Nome do aluno         |
+| Matrícula |         Nome do aluno          |
 |:---------:|:------------------------------:|
-| G958DB5   | AGATHA CALUCIO SANTIAGO        |
-| G03IJD7   | ALESSANDRA ALMEIDA RIBEIRO     |
-| G993FJ5   | ANNA BEATRIZ TEIXEIRA SILVA    |
-| G9699B3   | CAMILA VICTORIA DE SOUZA SANTO |
-| G9787H7   | LEONARDO GONCALVES R FONSECA   |
-| G978JB0   | LIRIEL CHAIANE M OLIVEIRA      |
-| R0958I0   | RENAN HENRIQUE SILVA           |
-| G94GFD1   | VANESSA ALMEIDA SANTOS         |
-| G833EG6   | WESLEY PEREIRA DOS S DE SOUSA  |
+|  G958DB5  |    AGATHA CALUCIO SANTIAGO     |
+|  G03IJD7  |   ALESSANDRA ALMEIDA RIBEIRO   |
+|  G993FJ5  |  ANNA BEATRIZ TEIXEIRA SILVA   |
+|  G9699B3  | CAMILA VICTORIA DE SOUZA SANTO |
+|  G9787H7  |  LEONARDO GONCALVES R FONSECA  |
+|  G978JB0  |   LIRIEL CHAIANE M OLIVEIRA    |
+|  R0958I0  |      RENAN HENRIQUE SILVA      |
+|  G94GFD1  |     VANESSA ALMEIDA SANTOS     |
+|  G833EG6  | WESLEY PEREIRA DOS S DE SOUSA  |
 
+### Campus Marquês de São Vicente
 
-## Campus Marquês de São Vicente
+#### Turma TI3P13
 
-#### Turma 	TI3P13
-
-| Matrícula |    Nome do aluno   |
+| Matrícula |   Nome do aluno    |
 |:---------:|:------------------:|
-| F35GAE8   | LUCAS SOUZA XAVIER |
+|  F35GAE8  | LUCAS SOUZA XAVIER |
 
-#### Turma 	TI4P13
+#### Turma TI4P13
 
 | Matrícula |         Nome do aluno         |
 |:---------:|:-----------------------------:|
-| F358542   | ANA JULIA DE O BARBOSA        |
-| R0416B5   | CAUA MARTINS SILVESTRE        |
-| F359549   | ERICA CALO SANTOS             |
-| R063HI0   | FERNANDO ROCHA QUINHOLI       |
-| F359573   | GABRIEL HENRIQUE M TEIXEIRA   |
-| R057BD6   | GUILHERME JACOB M DE MACEDO   |
-| G960CJ8   | GUILHERME RENATO R DE QUEIROZ |
-| G978099   | ISABELA SASS MARTINS DE SOUZA |
-| F3591B9   | JOAO VITOR SILVA SOUZA        |
-| G907582   | KAROLINE VIEIRA ARAGAO        |
+|  F358542  |    ANA JULIA DE O BARBOSA     |
+|  R0416B5  |    CAUA MARTINS SILVESTRE     |
+|  F359549  |       ERICA CALO SANTOS       |
+|  R063HI0  |    FERNANDO ROCHA QUINHOLI    |
+|  F359573  |  GABRIEL HENRIQUE M TEIXEIRA  |
+|  R057BD6  |  GUILHERME JACOB M DE MACEDO  |
+|  G960CJ8  | GUILHERME RENATO R DE QUEIROZ |
+|  G978099  | ISABELA SASS MARTINS DE SOUZA |
+|  F3591B9  |    JOAO VITOR SILVA SOUZA     |
+|  G907582  |    KAROLINE VIEIRA ARAGAO     |
