@@ -1,6 +1,7 @@
 fig:nice-fig
 tab:nice-tab
 eq:binom
+thm:tri
 acesso-ao-gitbook-celular
 httpsmiguel7penteado.github.io2025-2sem-gti-governanca
 leitores-de-formato-de-arquivo-epub-para-smartphone
