@@ -1,0 +1,676 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>GTI - Governança da Informação - 2025 - Anotações de aula</title>
+  <meta name="description" content="Este livreto reúne anotações, reflexões e conteúdos desenvolvidos ao longo das aulas da disciplina Governança da Informação, ministrada pelo Professor Miguél Suares. Elaborado com base em experiências práticas, referências acadêmicas e diretrizes atualizadas sobre o tema, o material busca fornecer uma visão crítica e aplicada sobre a governança da informação nas organizações contemporâneas." />
+  <meta name="generator" content="bookdown 0.43 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="GTI - Governança da Informação - 2025 - Anotações de aula" />
+  <meta property="og:type" content="book" />
+  <meta property="og:image" content="your book url like https://bookdown.org/yihui/bookdown/images/cover.jpg" />
+  <meta property="og:description" content="Este livreto reúne anotações, reflexões e conteúdos desenvolvidos ao longo das aulas da disciplina Governança da Informação, ministrada pelo Professor Miguél Suares. Elaborado com base em experiências práticas, referências acadêmicas e diretrizes atualizadas sobre o tema, o material busca fornecer uma visão crítica e aplicada sobre a governança da informação nas organizações contemporâneas." />
+  <meta name="github-repo" content="miguel7penteado/2025-2sem-GTI-Governanca" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="GTI - Governança da Informação - 2025 - Anotações de aula" />
+  
+  <meta name="twitter:description" content="Este livreto reúne anotações, reflexões e conteúdos desenvolvidos ao longo das aulas da disciplina Governança da Informação, ministrada pelo Professor Miguél Suares. Elaborado com base em experiências práticas, referências acadêmicas e diretrizes atualizadas sobre o tema, o material busca fornecer uma visão crítica e aplicada sobre a governança da informação nas organizações contemporâneas." />
+  <meta name="twitter:image" content="your book url like https://bookdown.org/yihui/bookdown/images/cover.jpg" />
+
+<meta name="author" content="Professor Miguél Suares" />
+
+
+<meta name="date" content="2025-07-30" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+<link rel="next" href="governança-corporativa---introdução.html"/>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">2025-GTI- Disciplina de Governança da Informação - Anotações de Aula</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Sobre estas anotações</a>
+<ul>
+<li class="chapter" data-level="0.1" data-path="index.html"><a href="index.html#acesso-ao-gitbook-celular"><i class="fa fa-check"></i><b>0.1</b> ACESSO AO GITBOOK CELULAR</a></li>
+<li class="chapter" data-level="0.2" data-path="index.html"><a href="index.html#leitores-de-formato-de-arquivo-epub-para-smartphone"><i class="fa fa-check"></i><b>0.2</b> Leitores de formato de arquivo EPUB para SmartPhone</a>
+<ul>
+<li class="chapter" data-level="0.2.1" data-path="index.html"><a href="index.html#android"><i class="fa fa-check"></i><b>0.2.1</b> ANDROID</a></li>
+</ul></li>
+<li class="chapter" data-level="0.3" data-path="index.html"><a href="index.html#livros-texto-da-disciplina"><i class="fa fa-check"></i><b>0.3</b> Livros Texto da Disciplina</a>
+<ul>
+<li class="chapter" data-level="0.3.1" data-path="index.html"><a href="index.html#governança-corporativa-dos-autores-josé-paschoal-rossetti-e-adriana-andrade"><i class="fa fa-check"></i><b>0.3.1</b> “Governança Corporativa” dos autores “<strong>José Paschoal Rossetti e Adriana Andrade</strong>”</a></li>
+<li class="chapter" data-level="0.3.2" data-path="index.html"><a href="index.html#implantando-a-governança-de-ti-4ª-edição-da-estratégia-à-gestão-de-processos-e-serviços-dos-autores-aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu"><i class="fa fa-check"></i><b>0.3.2</b> “Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços” dos autores “Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu”</a></li>
+</ul></li>
+<li class="chapter" data-level="0.4" data-path="index.html"><a href="index.html#calendário-das-aulas"><i class="fa fa-check"></i><b>0.4</b> Calendário das aulas</a></li>
+<li class="chapter" data-level="0.5" data-path="index.html"><a href="index.html#alunos-2025---2o-semestre"><i class="fa fa-check"></i><b>0.5</b> Alunos 2025 - 2o Semestre</a>
+<ul>
+<li class="chapter" data-level="0.5.1" data-path="index.html"><a href="index.html#campus-chácara-santo-antônio"><i class="fa fa-check"></i><b>0.5.1</b> Campus Chácara Santo Antônio</a></li>
+<li class="chapter" data-level="0.5.2" data-path="index.html"><a href="index.html#campus-marquês-de-são-vicente"><i class="fa fa-check"></i><b>0.5.2</b> Campus Marquês de São Vicente</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="1" data-path="governança-corporativa---introdução.html"><a href="governança-corporativa---introdução.html"><i class="fa fa-check"></i><b>1</b> Governança Corporativa - Introdução</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="governança-corporativa---introdução.html"><a href="governança-corporativa---introdução.html#a-section"><i class="fa fa-check"></i><b>1.1</b> A section</a>
+<ul>
+<li class="chapter" data-level="" data-path="governança-corporativa---introdução.html"><a href="governança-corporativa---introdução.html#an-unnumbered-section"><i class="fa fa-check"></i>An unnumbered section</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="governança-corporativa---parnorama-geral.html"><a href="governança-corporativa---parnorama-geral.html"><i class="fa fa-check"></i><b>2</b> Governança Corporativa - Parnorama Geral</a></li>
+<li class="chapter" data-level="3" data-path="governança-de-tecnologia-da-informação-e-comunicação.html"><a href="governança-de-tecnologia-da-informação-e-comunicação.html"><i class="fa fa-check"></i><b>3</b> Governança de Tecnologia da Informação e Comunicação</a></li>
+<li class="chapter" data-level="4" data-path="governanca-corporativa-tomada-de-decisão.html"><a href="governanca-corporativa-tomada-de-decisão.html"><i class="fa fa-check"></i><b>4</b> Governanca Corporativa: Tomada de Decisão</a></li>
+<li class="chapter" data-level="5" data-path="governanca-de-tic-modelos-e-práticas.html"><a href="governanca-de-tic-modelos-e-práticas.html"><i class="fa fa-check"></i><b>5</b> Governanca de TIC: Modelos e Práticas</a></li>
+<li class="chapter" data-level="6" data-path="cobit-5.0---parte-i.html"><a href="cobit-5.0---parte-i.html"><i class="fa fa-check"></i><b>6</b> COBIT 5.0 - Parte I</a></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="divider"></li>
+<li><a href="https://github.com/rstudio/bookdown" target="blank">Publicado com Biblioteca R bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">GTI - Governança da Informação - 2025 - Anotações de aula</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="header">
+<h1 class="title">GTI - Governança da Informação - 2025 - Anotações de aula</h1>
+<p class="author"><em>Professor Miguél Suares</em></p>
+<p class="date"><em>2025-07-30</em></p>
+</div>
+<div id="sobre-estas-anotações" class="section level1 unnumbered hasAnchor">
+<h1>Sobre estas anotações<a href="index.html#sobre-estas-anotações" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>—————————————————————————————————————————————</p>
+<p>Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de Governança da Informação.</p>
+<div id="acesso-ao-gitbook-celular" class="section level2 hasAnchor" number="0.1">
+<h2><span class="header-section-number">0.1</span> ACESSO AO GITBOOK CELULAR<a href="index.html#acesso-ao-gitbook-celular" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>—————————————————————————————————————————————</p>
+<div id="httpsmiguel7penteado.github.io2025-2sem-gti-governanca" class="section level4 hasAnchor" number="0.1.0.1">
+<h4><span class="header-section-number">0.1.0.1</span> <a href="https://miguel7penteado.github.io/2025-2sem-GTI-Governanca" class="uri">https://miguel7penteado.github.io/2025-2sem-GTI-Governanca</a><a href="index.html#httpsmiguel7penteado.github.io2025-2sem-gti-governanca" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><img src="images/qr-code-disciplina.jpg" /></p>
+</div>
+</div>
+<div id="leitores-de-formato-de-arquivo-epub-para-smartphone" class="section level2 hasAnchor" number="0.2">
+<h2><span class="header-section-number">0.2</span> Leitores de formato de arquivo EPUB para SmartPhone<a href="index.html#leitores-de-formato-de-arquivo-epub-para-smartphone" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>—————————————————————————————————————————————</p>
+<div id="android" class="section level3 hasAnchor" number="0.2.1">
+<h3><span class="header-section-number">0.2.1</span> ANDROID<a href="index.html#android" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="moon-reader" class="section level4 hasAnchor" number="0.2.1.1">
+<h4><span class="header-section-number">0.2.1.1</span> <strong>Moon+ Reader</strong><a href="index.html#moon-reader" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<p><img src="images/qrcode/leitor_epub/MoonReaderPlus.jpg" width="340" /></p>
+</div>
+</div>
+</div>
+<div id="livros-texto-da-disciplina" class="section level2 hasAnchor" number="0.3">
+<h2><span class="header-section-number">0.3</span> Livros Texto da Disciplina<a href="index.html#livros-texto-da-disciplina" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>—————————————————————————————————————————————</p>
+<div id="governança-corporativa-dos-autores-josé-paschoal-rossetti-e-adriana-andrade" class="section level3 hasAnchor" number="0.3.1">
+<h3><span class="header-section-number">0.3.1</span> “Governança Corporativa” dos autores “<strong>José Paschoal Rossetti e Adriana Andrade</strong>”<a href="index.html#governança-corporativa-dos-autores-josé-paschoal-rossetti-e-adriana-andrade" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><img src="images/livros/livro1.jpg" /></p>
+<table>
+<colgroup>
+<col width="11%" />
+<col width="88%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Autor(es)</strong></td>
+<td><a href="https://www.fdc.org.br/sobreafdc/professores/rossetti"><strong>José Paschoal Rossetti</strong></a> <strong>e <a href="https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/">Adriana Andrade</a></strong></td>
+</tr>
+<tr class="even">
+<td><strong>Editora</strong></td>
+<td>Atlas</td>
+</tr>
+<tr class="odd">
+<td><strong>Idioma</strong></td>
+<td>Português</td>
+</tr>
+<tr class="even">
+<td><strong>ISBN</strong></td>
+<td>9788522493050</td>
+</tr>
+<tr class="odd">
+<td><strong>Formato</strong></td>
+<td>Capa dura</td>
+</tr>
+<tr class="even">
+<td><strong>Páginas</strong></td>
+<td>608</td>
+</tr>
+<tr class="odd">
+<td><strong>Código Biblioteca</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="implantando-a-governança-de-ti-4ª-edição-da-estratégia-à-gestão-de-processos-e-serviços-dos-autores-aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu" class="section level3 hasAnchor" number="0.3.2">
+<h3><span class="header-section-number">0.3.2</span> “Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços” dos autores “Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu”<a href="index.html#implantando-a-governança-de-ti-4ª-edição-da-estratégia-à-gestão-de-processos-e-serviços-dos-autores-aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><img src="images/livros/livro2.jpg" /></p>
+<table>
+<colgroup>
+<col width="12%" />
+<col width="87%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>Autor(es)</strong></td>
+<td><h4 id="aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu" class="hasAnchor"><a href="https://br.linkedin.com/in/aguinaldo-aragon-fernandes">Aguinaldo Aragon Fernandes</a> e <a href="https://br.linkedin.com/in/vladimirabreu">Vladimir Ferraz de Abreu</a><a href="index.html#aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu" class="anchor-section" aria-label="Anchor link to header"></a></h4></td>
+</tr>
+<tr class="even">
+<td><strong>Editora</strong></td>
+<td>BRASPORT</td>
+</tr>
+<tr class="odd">
+<td><strong>Idioma</strong></td>
+<td>Português</td>
+</tr>
+<tr class="even">
+<td><strong>ISBN-13</strong></td>
+<td>978-8574528441</td>
+</tr>
+<tr class="odd">
+<td><strong>Formato</strong></td>
+<td>Eletrônico</td>
+</tr>
+<tr class="even">
+<td><strong>Páginas</strong></td>
+<td>1198</td>
+</tr>
+<tr class="odd">
+<td><strong>Código Biblioteca</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="calendário-das-aulas" class="section level2 hasAnchor" number="0.4">
+<h2><span class="header-section-number">0.4</span> Calendário das aulas<a href="index.html#calendário-das-aulas" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>—————————————————————————————————————————————</p>
+<div id="agosto-de-2025" class="section level5 hasAnchor" number="0.4.0.0.1">
+<h5><span class="header-section-number">0.4.0.0.1</span> AGOSTO DE 2025<a href="index.html#agosto-de-2025" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<table>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Dia da Semana</th>
+<th>Aulas</th>
+<th>Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>06/08/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula Inaugural</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>13/08/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 2</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>20/08/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 3</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>27/08/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 4</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="setembro-de-2025" class="section level5 hasAnchor" number="0.4.0.0.2">
+<h5><span class="header-section-number">0.4.0.0.2</span> SETEMBRO DE 2025<a href="index.html#setembro-de-2025" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<table>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Dia da Semana</th>
+<th>Aulas</th>
+<th>Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>03/09/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 5</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>10/09/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 6</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>17/09/2025</td>
+<td>Quarta-Feira</td>
+<td>NP1</td>
+<td>PROVA</td>
+</tr>
+<tr class="even">
+<td>24/09/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 7</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="outubro-de-2025" class="section level5 hasAnchor" number="0.4.0.0.3">
+<h5><span class="header-section-number">0.4.0.0.3</span> OUTUBRO DE 2025<a href="index.html#outubro-de-2025" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<table>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Dia da Semana</th>
+<th>Aulas</th>
+<th>Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>01/10/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 8</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>08/10/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 9</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>15/10/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 10</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>22/10/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 11</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>29/10/2025</td>
+<td>Quarta-Feira</td>
+<td>Aula 12</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="novembro-de-2025" class="section level5 hasAnchor" number="0.4.0.0.4">
+<h5><span class="header-section-number">0.4.0.0.4</span> NOVEMBRO DE 2025<a href="index.html#novembro-de-2025" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<table>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Dia da Semana</th>
+<th>Aulas</th>
+<th>Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>05/11/2025</td>
+<td>Quarta-Feira</td>
+<td>NP2</td>
+<td>PROVA</td>
+</tr>
+<tr class="even">
+<td>12/11/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>N/A</td>
+</tr>
+<tr class="odd">
+<td>19/11/2025</td>
+<td>Quarta-Feira</td>
+<td>SUB</td>
+<td>PROVA</td>
+</tr>
+<tr class="even">
+<td>26/11/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>N/A</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dezembro-de-2025" class="section level5 hasAnchor" number="0.4.0.0.5">
+<h5><span class="header-section-number">0.4.0.0.5</span> DEZEMBRO DE 2025<a href="index.html#dezembro-de-2025" class="anchor-section" aria-label="Anchor link to header"></a></h5>
+<table>
+<thead>
+<tr class="header">
+<th>Data</th>
+<th>Dia da Semana</th>
+<th>Aulas</th>
+<th>Conteúdo</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>03/12/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>N/A</td>
+</tr>
+<tr class="even">
+<td>10/12/2025</td>
+<td>Quarta-Feira</td>
+<td>EXAME</td>
+<td>PROVA</td>
+</tr>
+<tr class="odd">
+<td>17/12/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>N/A</td>
+</tr>
+<tr class="even">
+<td>24/12/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>NATAL</td>
+</tr>
+<tr class="odd">
+<td>31/12/2025</td>
+<td>Quarta-Feira</td>
+<td></td>
+<td>Confrat</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="alunos-2025---2o-semestre" class="section level2 hasAnchor" number="0.5">
+<h2><span class="header-section-number">0.5</span> Alunos 2025 - 2o Semestre<a href="index.html#alunos-2025---2o-semestre" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>—————————————————————————————————————————————</p>
+<div id="campus-chácara-santo-antônio" class="section level3 hasAnchor" number="0.5.1">
+<h3><span class="header-section-number">0.5.1</span> Campus Chácara Santo Antônio<a href="index.html#campus-chácara-santo-antônio" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="turma-ti3p40" class="section level4 hasAnchor" number="0.5.1.1">
+<h4><span class="header-section-number">0.5.1.1</span> Turma TI3P40<a href="index.html#turma-ti3p40" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Matrícula</th>
+<th align="center">Nome do aluno</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">R191BJ3</td>
+<td align="center">ANDRESSA MARIA DA SILVA</td>
+</tr>
+<tr class="even">
+<td align="center">R194GF6</td>
+<td align="center">JOÃO VICTOR DE JESUS ANDRADE</td>
+</tr>
+<tr class="odd">
+<td align="center">R1704D1</td>
+<td align="center">PALOMA FERNANDES D GERALDO</td>
+</tr>
+<tr class="even">
+<td align="center">G7946I4</td>
+<td align="center">VINICIUS ALMEIDA SILVA</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="turma-ti4p40" class="section level4 hasAnchor" number="0.5.1.2">
+<h4><span class="header-section-number">0.5.1.2</span> Turma TI4P40<a href="index.html#turma-ti4p40" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Matrícula</th>
+<th align="center">Nome do aluno</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">G958DB5</td>
+<td align="center">AGATHA CALUCIO SANTIAGO</td>
+</tr>
+<tr class="even">
+<td align="center">G03IJD7</td>
+<td align="center">ALESSANDRA ALMEIDA RIBEIRO</td>
+</tr>
+<tr class="odd">
+<td align="center">G993FJ5</td>
+<td align="center">ANNA BEATRIZ TEIXEIRA SILVA</td>
+</tr>
+<tr class="even">
+<td align="center">G9699B3</td>
+<td align="center">CAMILA VICTORIA DE SOUZA SANTO</td>
+</tr>
+<tr class="odd">
+<td align="center">G9787H7</td>
+<td align="center">LEONARDO GONCALVES R FONSECA</td>
+</tr>
+<tr class="even">
+<td align="center">G978JB0</td>
+<td align="center">LIRIEL CHAIANE M OLIVEIRA</td>
+</tr>
+<tr class="odd">
+<td align="center">R0958I0</td>
+<td align="center">RENAN HENRIQUE SILVA</td>
+</tr>
+<tr class="even">
+<td align="center">G94GFD1</td>
+<td align="center">VANESSA ALMEIDA SANTOS</td>
+</tr>
+<tr class="odd">
+<td align="center">G833EG6</td>
+<td align="center">WESLEY PEREIRA DOS S DE SOUSA</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="campus-marquês-de-são-vicente" class="section level3 hasAnchor" number="0.5.2">
+<h3><span class="header-section-number">0.5.2</span> Campus Marquês de São Vicente<a href="index.html#campus-marquês-de-são-vicente" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="turma-ti3p13" class="section level4 hasAnchor" number="0.5.2.1">
+<h4><span class="header-section-number">0.5.2.1</span> Turma TI3P13<a href="index.html#turma-ti3p13" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Matrícula</th>
+<th align="center">Nome do aluno</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">F35GAE8</td>
+<td align="center">LUCAS SOUZA XAVIER</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="turma-ti4p13" class="section level4 hasAnchor" number="0.5.2.2">
+<h4><span class="header-section-number">0.5.2.2</span> Turma TI4P13<a href="index.html#turma-ti4p13" class="anchor-section" aria-label="Anchor link to header"></a></h4>
+<table>
+<thead>
+<tr class="header">
+<th align="center">Matrícula</th>
+<th align="center">Nome do aluno</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">F358542</td>
+<td align="center">ANA JULIA DE O BARBOSA</td>
+</tr>
+<tr class="even">
+<td align="center">R0416B5</td>
+<td align="center">CAUA MARTINS SILVESTRE</td>
+</tr>
+<tr class="odd">
+<td align="center">F359549</td>
+<td align="center">ERICA CALO SANTOS</td>
+</tr>
+<tr class="even">
+<td align="center">R063HI0</td>
+<td align="center">FERNANDO ROCHA QUINHOLI</td>
+</tr>
+<tr class="odd">
+<td align="center">F359573</td>
+<td align="center">GABRIEL HENRIQUE M TEIXEIRA</td>
+</tr>
+<tr class="even">
+<td align="center">R057BD6</td>
+<td align="center">GUILHERME JACOB M DE MACEDO</td>
+</tr>
+<tr class="odd">
+<td align="center">G960CJ8</td>
+<td align="center">GUILHERME RENATO R DE QUEIROZ</td>
+</tr>
+<tr class="even">
+<td align="center">G978099</td>
+<td align="center">ISABELA SASS MARTINS DE SOUZA</td>
+</tr>
+<tr class="odd">
+<td align="center">F3591B9</td>
+<td align="center">JOAO VITOR SILVA SOUZA</td>
+</tr>
+<tr class="even">
+<td align="center">G907582</td>
+<td align="center">KAROLINE VIEIRA ARAGAO</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+<a href="governança-corporativa---introdução.html" class="navigation navigation-next navigation-unique" aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/miguel7penteado/2025-2sem-GTI-Governanca/edit/main/index.Rmd",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["2025-GTI-2Sem-GovernancaInformacao.pdf", "2025-GTI-2Sem-GovernancaInformacao.epub", "2025-GTI-2Sem-GovernancaInformacao.word", "2025-GTI-2Sem-GovernancaInformacao.html"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+</body>
+
+</html>

@@ -1,0 +1,353 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={GTI - Governança da Informação - 2025 - Anotações de aula},
+  pdfauthor={Professor Miguél Suares},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{GTI - Governança da Informação - 2025 - Anotações de aula}
+\author{Professor Miguél Suares}
+\date{2025-07-30}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter*{Sobre estas anotações}\label{sobre-estas-anotauxe7uxf5es}
+\addcontentsline{toc}{chapter}{Sobre estas anotações}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de Governança da Informação.
+
+\section{ACESSO AO GITBOOK CELULAR}\label{acesso-ao-gitbook-celular}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsubsection{\texorpdfstring{\url{https://miguel7penteado.github.io/2025-2sem-GTI-Governanca}}{https://miguel7penteado.github.io/2025-2sem-GTI-Governanca}}\label{httpsmiguel7penteado.github.io2025-2sem-gti-governanca}
+
+\includegraphics{images/qr-code-disciplina.jpg}
+
+\section{Leitores de formato de arquivo EPUB para SmartPhone}\label{leitores-de-formato-de-arquivo-epub-para-smartphone}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{ANDROID}\label{android}
+
+\subsubsection{\texorpdfstring{\textbf{Moon+ Reader}}{Moon+ Reader}}\label{moon-reader}
+
+\includegraphics[width=3.54167in,height=\textheight]{images/qrcode/leitor_epub/MoonReaderPlus.jpg}
+
+\section{Livros Texto da Disciplina}\label{livros-texto-da-disciplina}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{\texorpdfstring{``Governança Corporativa'' dos autores ``\textbf{José Paschoal Rossetti e Adriana Andrade}''}{``Governança Corporativa'' dos autores ``José Paschoal Rossetti e Adriana Andrade''}}\label{governanuxe7a-corporativa-dos-autores-josuxe9-paschoal-rossetti-e-adriana-andrade}
+
+\includegraphics{images/livros/livro1.jpg}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1171}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8829}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Autor(es)} & \href{https://www.fdc.org.br/sobreafdc/professores/rossetti}{\textbf{José Paschoal Rossetti}} \textbf{e \href{https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/}{Adriana Andrade}} \\
+\textbf{Editora} & Atlas \\
+\textbf{Idioma} & Português \\
+\textbf{ISBN} & 9788522493050 \\
+\textbf{Formato} & Capa dura \\
+\textbf{Páginas} & 608 \\
+\textbf{Código Biblioteca} & \\
+\end{longtable}
+
+\subsection{``Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços'' dos autores ``Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu''}\label{implantando-a-governanuxe7a-de-ti-4uxaa-ediuxe7uxe3o-da-estratuxe9gia-uxe0-gestuxe3o-de-processos-e-serviuxe7os-dos-autores-aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu}
+
+\includegraphics{images/livros/livro2.jpg}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1290}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8710}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Autor(es)} & \begin{minipage}[t]{\linewidth}\raggedright
+\subsubsection{\texorpdfstring{\href{https://br.linkedin.com/in/aguinaldo-aragon-fernandes}{Aguinaldo Aragon Fernandes} e \href{https://br.linkedin.com/in/vladimirabreu}{Vladimir Ferraz de Abreu}}{Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu}}\label{aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu}
+\end{minipage} \\
+\textbf{Editora} & BRASPORT \\
+\textbf{Idioma} & Português \\
+\textbf{ISBN-13} & 978-8574528441 \\
+\textbf{Formato} & Eletrônico \\
+\textbf{Páginas} & 1198 \\
+\textbf{Código Biblioteca} & \\
+\end{longtable}
+
+\section{Calendário das aulas}\label{calenduxe1rio-das-aulas}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\paragraph{AGOSTO DE 2025}\label{agosto-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+06/08/2025 & Quarta-Feira & Aula Inaugural & \\
+13/08/2025 & Quarta-Feira & Aula 2 & \\
+20/08/2025 & Quarta-Feira & Aula 3 & \\
+27/08/2025 & Quarta-Feira & Aula 4 & \\
+\end{longtable}
+
+\paragraph{SETEMBRO DE 2025}\label{setembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+03/09/2025 & Quarta-Feira & Aula 5 & \\
+10/09/2025 & Quarta-Feira & Aula 6 & \\
+17/09/2025 & Quarta-Feira & NP1 & PROVA \\
+24/09/2025 & Quarta-Feira & Aula 7 & \\
+\end{longtable}
+
+\paragraph{OUTUBRO DE 2025}\label{outubro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+01/10/2025 & Quarta-Feira & Aula 8 & \\
+08/10/2025 & Quarta-Feira & Aula 9 & \\
+15/10/2025 & Quarta-Feira & Aula 10 & \\
+22/10/2025 & Quarta-Feira & Aula 11 & \\
+29/10/2025 & Quarta-Feira & Aula 12 & \\
+\end{longtable}
+
+\paragraph{NOVEMBRO DE 2025}\label{novembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+05/11/2025 & Quarta-Feira & NP2 & PROVA \\
+12/11/2025 & Quarta-Feira & & N/A \\
+19/11/2025 & Quarta-Feira & SUB & PROVA \\
+26/11/2025 & Quarta-Feira & & N/A \\
+\end{longtable}
+
+\paragraph{DEZEMBRO DE 2025}\label{dezembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+03/12/2025 & Quarta-Feira & & N/A \\
+10/12/2025 & Quarta-Feira & EXAME & PROVA \\
+17/12/2025 & Quarta-Feira & & N/A \\
+24/12/2025 & Quarta-Feira & & NATAL \\
+31/12/2025 & Quarta-Feira & & Confrat \\
+\end{longtable}
+
+\section{Alunos 2025 - 2o Semestre}\label{alunos-2025---2o-semestre}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{Campus Chácara Santo Antônio}\label{campus-chuxe1cara-santo-antuxf4nio}
+
+\subsubsection{Turma TI3P40}\label{turma-ti3p40}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+R191BJ3 & ANDRESSA MARIA DA SILVA \\
+R194GF6 & JOÃO VICTOR DE JESUS ANDRADE \\
+R1704D1 & PALOMA FERNANDES D GERALDO \\
+G7946I4 & VINICIUS ALMEIDA SILVA \\
+\end{longtable}
+
+\subsubsection{Turma TI4P40}\label{turma-ti4p40}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+G958DB5 & AGATHA CALUCIO SANTIAGO \\
+G03IJD7 & ALESSANDRA ALMEIDA RIBEIRO \\
+G993FJ5 & ANNA BEATRIZ TEIXEIRA SILVA \\
+G9699B3 & CAMILA VICTORIA DE SOUZA SANTO \\
+G9787H7 & LEONARDO GONCALVES R FONSECA \\
+G978JB0 & LIRIEL CHAIANE M OLIVEIRA \\
+R0958I0 & RENAN HENRIQUE SILVA \\
+G94GFD1 & VANESSA ALMEIDA SANTOS \\
+G833EG6 & WESLEY PEREIRA DOS S DE SOUSA \\
+\end{longtable}
+
+\subsection{Campus Marquês de São Vicente}\label{campus-marquuxeas-de-suxe3o-vicente}
+
+\subsubsection{Turma TI3P13}\label{turma-ti3p13}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+F35GAE8 & LUCAS SOUZA XAVIER \\
+\end{longtable}
+
+\subsubsection{Turma TI4P13}\label{turma-ti4p13}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+F358542 & ANA JULIA DE O BARBOSA \\
+R0416B5 & CAUA MARTINS SILVESTRE \\
+F359549 & ERICA CALO SANTOS \\
+R063HI0 & FERNANDO ROCHA QUINHOLI \\
+F359573 & GABRIEL HENRIQUE M TEIXEIRA \\
+R057BD6 & GUILHERME JACOB M DE MACEDO \\
+G960CJ8 & GUILHERME RENATO R DE QUEIROZ \\
+G978099 & ISABELA SASS MARTINS DE SOUZA \\
+F3591B9 & JOAO VITOR SILVA SOUZA \\
+G907582 & KAROLINE VIEIRA ARAGAO \\
+\end{longtable}
+
+\chapter{Governança Corporativa - Introdução}\label{governanuxe7a-corporativa---introduuxe7uxe3o}
+
+All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (\texttt{\#}) per .Rmd file.
+
+\section{A section}\label{a-section}
+
+All chapter sections start with a second-level (\texttt{\#\#}) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+
+\subsection*{An unnumbered section}\label{an-unnumbered-section}
+\addcontentsline{toc}{subsection}{An unnumbered section}
+
+Chapters and sections are numbered by default. To un-number a heading, add a \texttt{\{.unnumbered\}} or the shorter \texttt{\{-\}} at the end of the heading, like in this section.
+
+\chapter{Governança Corporativa - Parnorama Geral}\label{governanuxe7a-corporativa---parnorama-geral}
+
+Coming soon\ldots{}
+
+\chapter{Governança de Tecnologia da Informação e Comunicação}\label{governanuxe7a-de-tecnologia-da-informauxe7uxe3o-e-comunicauxe7uxe3o}
+
+Coming soon\ldots{}
+
+\chapter{Governanca Corporativa: Tomada de Decisão}\label{governanca-corporativa-tomada-de-decisuxe3o}
+
+Coming soon\ldots{}
+
+\chapter{Governanca de TIC: Modelos e Práticas}\label{governanca-de-tic-modelos-e-pruxe1ticas}
+
+\chapter{COBIT 5.0 - Parte I}\label{cobit-5.0---parte-i}
+
+Coming soon\ldots{}
+
+  \bibliography{book.bib}
+
+\end{document}
