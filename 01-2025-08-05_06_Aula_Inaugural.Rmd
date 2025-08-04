@@ -1,0 +1,155 @@
+# Aula Inaugural
+
+#### 05/08/2025 - Campus Marquês {.unnumbered}
+#### 06/08/2025 - Campus Chácara {.unnumbered}
+
+#### Professor Miguél Suares {.unnumbered}
+
+## Disciplina: **Governança da Informação**
+
+-   Curso: Gestão em Tecnologia da Informação (GTI)\
+-   Período: **Noturno**\
+-   Turma: **4º semestre de 2025**
+-   Campus: **Chácara Santo Antônio**
+-   Campus: **Chácara Marquês de São Vicente**
+
+> "Dados são o novo petróleo." – Clive Humby!
+
+![](images/2025-08-04/Boas_Vindas.jpg){width="300"}
+
+------------------------------------------------------------------------
+
+# 👨‍🏫 Sobre o Professor
+
+-   Nome: Prof. Miguél Suares
+
+-   Formação: Mestre em Engenharia da Computação e Energia da Agricultura
+
+-   Experiência: +10 anos com bancos de dados relacionais e análise de dados
+
+-   Contato: [miguel.penteado\@docente.unip.br](mailto:miguel.penteado@docente.unip.br)
+
+------------------------------------------------------------------------
+
+# 🎯 Objetivos da Disciplina
+
+-   Começar compreendendo os fundamentos de Govarenança Corporativa
+
+-   Compreender modelos de governança de cada área chave da empresa
+
+-   Governança de TIC - Conhecer o COBIT 5.0 - certificação e Prova
+
+-   Governança de TIC - Conhecer o COBIT 5.0 - Princípios e Habilitadores
+
+-   Governança de TIC - Conhecer o COBIT 2019 - mudanças em relação a versão 5.0
+
+    ![](images/2025-08-04/logos.jpg){width="334"}
+
+------------------------------------------------------------------------
+
+# 📅 Calendário da Disciplina - Campus Marquês de São Vicente
+
+| Data       | Aula    | Tema                          |
+|------------|---------|-------------------------------|
+| 05/08/2025 | Aula 1  | Aula Inaugural                |
+| 12/08/2025 | Aula 2  | Fundamentos                   |
+| 19/08/2025 | Aula 3  | Modelagem e Diagramas         |
+| 26/08/2025 | Aula 4  | Administração e Gerenciamento |
+| 02/09/2025 | Aula 5  | Aplicação CRUD                |
+| 09/09/2025 | Aula 6  | MySQL                         |
+| 16/09/2025 | **NP1** | **Prova**                     |
+| 23/09/2025 | Aula 7  | Postgres                      |
+| 30/09/2025 | Aula 8  | QGIS                          |
+| 07/10/2025 | Aula 9  | RStudio                       |
+| 14/10/2025 | Aula 10 | Análise I                     |
+| 21/10/2025 | Aula 11 | Análise II                    |
+| 28/10/2025 | Aula 12 | Análise III                   |
+| 04/11/2025 | **NP2** | **Prova**                     |
+
+------------------------------------------------------------------------
+
+# 📅 Calendário da Disciplina - Campus Chácara Santo Antônio
+
+| Data       | Aula    | Tema                          |
+|------------|---------|-------------------------------|
+| 06/08/2025 | Aula 1  | Aula Inaugural                |
+| 13/08/2025 | Aula 2  | Fundamentos                   |
+| 20/08/2025 | Aula 3  | Modelagem e Diagramas         |
+| 27/08/2025 | Aula 4  | Administração e Gerenciamento |
+| 03/09/2025 | Aula 5  | Aplicação CRUD                |
+| 10/09/2025 | Aula 6  | MySQL                         |
+| 17/09/2025 | **NP1** | **Prova**                     |
+| 24/09/2025 | Aula 7  | Postgres                      |
+| 01/10/2025 | Aula 8  | QGIS                          |
+| 08/10/2025 | Aula 9  | RStudio                       |
+| 15/10/2025 | Aula 10 | Análise I                     |
+| 22/10/2025 | Aula 11 | Análise II                    |
+| 29/10/2025 | Aula 12 | Análise III                   |
+| 05/11/2025 | **NP2** | **Prova**                     |
+
+------------------------------------------------------------------------
+
+# 📚 Ementa Resumida
+
+-   Introdução a bancos de dados relacionais (RDBMS)
+
+-   Modelagem de dados (M.E.R.) e diagramas Entidade Relacionamento (D.E.R.)
+
+-   Linguagem SQL: DDL, DML, DCL
+
+-   Ferramentas: MySQL, PostgreSQL
+
+-   Visualização geoespacial (QGIS)
+
+-   Análise e exploração de dados (R e RStudio)
+
+    ![](images/2025-08-04/modelagem.jpg){width="331"}
+
+------------------------------------------------------------------------
+
+# 📝 Avaliação
+
+-   **Provas (NP1 + NP2)**
+-   **Prova Substitutiva**
+-   **Exame**
+
+------------------------------------------------------------------------
+
+# 🛠️ Ferramentas da Disciplina
+
+-   **Servidores de Banco de Dados**: MySQL, PostgreSQL
+-   **Servidores de Banco de Dados**: pgAdmin, MySQL Workbench, DBeaver\
+-   **Geoprocessamento**: QGIS\
+-   **Análise de Dados**: R + RStudio\
+-   **Versionamento e Organização**: GitHub, Teams
+
+------------------------------------------------------------------------
+
+# 📌 Expectativas e Regras
+
+-   Pontualidade e entrega de atividades no prazo
+-   Trabalhos devem ser originais (sem plágio)
+-   Participação ativa nas discussões e práticas
+-   Uso responsável das ferramentas
+-   Respeito e colaboração entre colegas
+
+------------------------------------------------------------------------
+
+# 💡 Dicas para Mandar Bem
+
+-   Faça os exercícios logo após a aula
+-   Participe das práticas com base real
+-   Mantenha o repositório do projeto atualizado
+-   Refaça consultas SQL até entender
+-   Teste e documente suas soluções
+
+------------------------------------------------------------------------
+
+# 🙌 Encerramento
+
+## Estamos prontos?
+
+📧 Dúvidas? Estou à disposição\
+📊 Vamos construir conhecimento juntos!
+
+> Próxima aula: **Governança da Informação** – 11/08/2025
