@@ -1,0 +1,625 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{plainnat}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={GTI - Governança da Informação - 2025 - Anotações de aula},
+  pdfauthor={Professor Miguél Suares},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{GTI - Governança da Informação - 2025 - Anotações de aula}
+\author{Professor Miguél Suares}
+\date{2025-08-04}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\chapter*{Sobre estas anotações}\label{sobre-estas-anotauxe7uxf5es}
+\addcontentsline{toc}{chapter}{Sobre estas anotações}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+Estas anotações são apenas lembretes das aulas expostas em sala, durante a disciplina de Governança da Informação.
+
+\section{ACESSO AO GITBOOK CELULAR}\label{acesso-ao-gitbook-celular}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsubsection{\texorpdfstring{\url{https://miguel7penteado.github.io/2025-2sem-GTI-Governanca}}{https://miguel7penteado.github.io/2025-2sem-GTI-Governanca}}\label{httpsmiguel7penteado.github.io2025-2sem-gti-governanca}
+
+\includegraphics{images/qr-code-disciplina.jpg}
+
+\section{Leitores de formato de arquivo EPUB para SmartPhone}\label{leitores-de-formato-de-arquivo-epub-para-smartphone}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{ANDROID}\label{android}
+
+\subsubsection{\texorpdfstring{\textbf{Moon+ Reader}}{Moon+ Reader}}\label{moon-reader}
+
+\includegraphics[width=3.54167in,height=\textheight]{images/qrcode/leitor_epub/MoonReaderPlus.jpg}
+
+\section{Livros Texto da Disciplina}\label{livros-texto-da-disciplina}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{\texorpdfstring{``Governança Corporativa'' dos autores ``\textbf{José Paschoal Rossetti e Adriana Andrade}''}{``Governança Corporativa'' dos autores ``José Paschoal Rossetti e Adriana Andrade''}}\label{governanuxe7a-corporativa-dos-autores-josuxe9-paschoal-rossetti-e-adriana-andrade}
+
+\includegraphics{images/livros/livro1.jpg}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1171}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8829}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Autor(es)} & \href{https://www.fdc.org.br/sobreafdc/professores/rossetti}{\textbf{José Paschoal Rossetti}} \textbf{e \href{https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/}{Adriana Andrade}} \\
+\textbf{Editora} & Atlas \\
+\textbf{Idioma} & Português \\
+\textbf{ISBN} & 9788522493050 \\
+\textbf{Formato} & Capa dura \\
+\textbf{Páginas} & 608 \\
+\textbf{Código Biblioteca} & \\
+\end{longtable}
+
+\subsection{``Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços'' dos autores ``Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu''}\label{implantando-a-governanuxe7a-de-ti-4uxaa-ediuxe7uxe3o-da-estratuxe9gia-uxe0-gestuxe3o-de-processos-e-serviuxe7os-dos-autores-aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu}
+
+\includegraphics{images/livros/livro2.jpg}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.1290}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 2\tabcolsep) * \real{0.8710}}@{}}
+\toprule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{Autor(es)} & \begin{minipage}[t]{\linewidth}\raggedright
+\subsubsection{\texorpdfstring{\href{https://br.linkedin.com/in/aguinaldo-aragon-fernandes}{Aguinaldo Aragon Fernandes} e \href{https://br.linkedin.com/in/vladimirabreu}{Vladimir Ferraz de Abreu}}{Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu}}\label{aguinaldo-aragon-fernandes-e-vladimir-ferraz-de-abreu}
+\end{minipage} \\
+\textbf{Editora} & BRASPORT \\
+\textbf{Idioma} & Português \\
+\textbf{ISBN-13} & 978-8574528441 \\
+\textbf{Formato} & Eletrônico \\
+\textbf{Páginas} & 1198 \\
+\textbf{Código Biblioteca} & \\
+\end{longtable}
+
+\section{Calendário das aulas}\label{calenduxe1rio-das-aulas}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\paragraph{AGOSTO DE 2025}\label{agosto-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+06/08/2025 & Quarta-Feira & Aula Inaugural & \\
+13/08/2025 & Quarta-Feira & Aula 2 & \\
+20/08/2025 & Quarta-Feira & Aula 3 & \\
+27/08/2025 & Quarta-Feira & Aula 4 & \\
+\end{longtable}
+
+\paragraph{SETEMBRO DE 2025}\label{setembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+03/09/2025 & Quarta-Feira & Aula 5 & \\
+10/09/2025 & Quarta-Feira & Aula 6 & \\
+17/09/2025 & Quarta-Feira & NP1 & PROVA \\
+24/09/2025 & Quarta-Feira & Aula 7 & \\
+\end{longtable}
+
+\paragraph{OUTUBRO DE 2025}\label{outubro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+01/10/2025 & Quarta-Feira & Aula 8 & \\
+08/10/2025 & Quarta-Feira & Aula 9 & \\
+15/10/2025 & Quarta-Feira & Aula 10 & \\
+22/10/2025 & Quarta-Feira & Aula 11 & \\
+29/10/2025 & Quarta-Feira & Aula 12 & \\
+\end{longtable}
+
+\paragraph{NOVEMBRO DE 2025}\label{novembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+05/11/2025 & Quarta-Feira & NP2 & PROVA \\
+12/11/2025 & Quarta-Feira & & N/A \\
+19/11/2025 & Quarta-Feira & SUB & PROVA \\
+26/11/2025 & Quarta-Feira & & N/A \\
+\end{longtable}
+
+\paragraph{DEZEMBRO DE 2025}\label{dezembro-de-2025}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+Data & Dia da Semana & Aulas & Conteúdo \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+03/12/2025 & Quarta-Feira & & N/A \\
+10/12/2025 & Quarta-Feira & EXAME & PROVA \\
+17/12/2025 & Quarta-Feira & & N/A \\
+24/12/2025 & Quarta-Feira & & NATAL \\
+31/12/2025 & Quarta-Feira & & Confrat \\
+\end{longtable}
+
+\section{Alunos 2025 - 2o Semestre}\label{alunos-2025---2o-semestre}
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+\subsection{Campus Chácara Santo Antônio}\label{campus-chuxe1cara-santo-antuxf4nio}
+
+\subsubsection{Turma TI3P40}\label{turma-ti3p40}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+R191BJ3 & ANDRESSA MARIA DA SILVA \\
+R194GF6 & JOÃO VICTOR DE JESUS ANDRADE \\
+R1704D1 & PALOMA FERNANDES D GERALDO \\
+G7946I4 & VINICIUS ALMEIDA SILVA \\
+\end{longtable}
+
+\subsubsection{Turma TI4P40}\label{turma-ti4p40}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+G958DB5 & AGATHA CALUCIO SANTIAGO \\
+G03IJD7 & ALESSANDRA ALMEIDA RIBEIRO \\
+G993FJ5 & ANNA BEATRIZ TEIXEIRA SILVA \\
+G9699B3 & CAMILA VICTORIA DE SOUZA SANTO \\
+G9787H7 & LEONARDO GONCALVES R FONSECA \\
+G978JB0 & LIRIEL CHAIANE M OLIVEIRA \\
+R0958I0 & RENAN HENRIQUE SILVA \\
+G94GFD1 & VANESSA ALMEIDA SANTOS \\
+G833EG6 & WESLEY PEREIRA DOS S DE SOUSA \\
+\end{longtable}
+
+\subsection{Campus Marquês de São Vicente}\label{campus-marquuxeas-de-suxe3o-vicente}
+
+\subsubsection{Turma TI3P13}\label{turma-ti3p13}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+F35GAE8 & LUCAS SOUZA XAVIER \\
+\end{longtable}
+
+\subsubsection{Turma TI4P13}\label{turma-ti4p13}
+
+\begin{longtable}[]{@{}cc@{}}
+\toprule\noalign{}
+Matrícula & Nome do aluno \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+F358542 & ANA JULIA DE O BARBOSA \\
+R0416B5 & CAUA MARTINS SILVESTRE \\
+F359549 & ERICA CALO SANTOS \\
+R063HI0 & FERNANDO ROCHA QUINHOLI \\
+F359573 & GABRIEL HENRIQUE M TEIXEIRA \\
+R057BD6 & GUILHERME JACOB M DE MACEDO \\
+G960CJ8 & GUILHERME RENATO R DE QUEIROZ \\
+G978099 & ISABELA SASS MARTINS DE SOUZA \\
+F3591B9 & JOAO VITOR SILVA SOUZA \\
+G907582 & KAROLINE VIEIRA ARAGAO \\
+\end{longtable}
+
+\chapter{Aula Inaugural}\label{aula-inaugural}
+
+\subsubsection*{05/08/2025 - Campus Marquês}\label{campus-marquuxeas}
+\addcontentsline{toc}{subsubsection}{05/08/2025 - Campus Marquês}
+
+\subsubsection*{06/08/2025 - Campus Chácara}\label{campus-chuxe1cara}
+\addcontentsline{toc}{subsubsection}{06/08/2025 - Campus Chácara}
+
+\subsubsection*{Professor Miguél Suares}\label{professor-miguuxe9l-suares}
+\addcontentsline{toc}{subsubsection}{Professor Miguél Suares}
+
+\section{\texorpdfstring{Disciplina: \textbf{Governança da Informação}}{Disciplina: Governança da Informação}}\label{disciplina-governanuxe7a-da-informauxe7uxe3o}
+
+\begin{itemize}
+\tightlist
+\item
+  Curso: Gestão em Tecnologia da Informação (GTI)\\
+\item
+  Período: \textbf{Noturno}\\
+\item
+  Turma: \textbf{4º semestre de 2025}
+\item
+  Campus: \textbf{Chácara Santo Antônio}
+\item
+  Campus: \textbf{Chácara Marquês de São Vicente}
+\end{itemize}
+
+\begin{quote}
+``Dados são o novo petróleo.'' -- Clive Humby!
+\end{quote}
+
+\includegraphics[width=3.125in,height=\textheight]{images/2025-08-04/Boas_Vindas.jpg}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{👨‍🏫 Sobre o Professor}\label{sobre-o-professor}
+
+\begin{itemize}
+\item
+  Nome: Prof.~Miguél Suares
+\item
+  Formação: Mestre em Engenharia da Computação e Energia da Agricultura
+\item
+  Experiência: +10 anos com bancos de dados relacionais e análise de dados
+\item
+  Contato: \href{mailto:miguel.penteado@docente.unip.br}{\nolinkurl{miguel.penteado@docente.unip.br}}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{🎯 Objetivos da Disciplina}\label{objetivos-da-disciplina}
+
+\begin{itemize}
+\item
+  Começar compreendendo os fundamentos de Govarenança Corporativa
+\item
+  Compreender modelos de governança de cada área chave da empresa
+\item
+  Governança de TIC - Conhecer o COBIT 5.0 - certificação e Prova
+\item
+  Governança de TIC - Conhecer o COBIT 5.0 - Princípios e Habilitadores
+\item
+  Governança de TIC - Conhecer o COBIT 2019 - mudanças em relação a versão 5.0
+
+  \includegraphics[width=3.47917in,height=\textheight]{images/2025-08-04/logos.jpg}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{📅 Calendário da Disciplina - Campus Marquês de São Vicente}\label{calenduxe1rio-da-disciplina---campus-marquuxeas-de-suxe3o-vicente}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+Data & Aula & Tema \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+05/08/2025 & Aula 1 & Aula Inaugural \\
+12/08/2025 & Aula 2 & Fundamentos \\
+19/08/2025 & Aula 3 & Modelagem e Diagramas \\
+26/08/2025 & Aula 4 & Administração e Gerenciamento \\
+02/09/2025 & Aula 5 & Aplicação CRUD \\
+09/09/2025 & Aula 6 & MySQL \\
+16/09/2025 & \textbf{NP1} & \textbf{Prova} \\
+23/09/2025 & Aula 7 & Postgres \\
+30/09/2025 & Aula 8 & QGIS \\
+07/10/2025 & Aula 9 & RStudio \\
+14/10/2025 & Aula 10 & Análise I \\
+21/10/2025 & Aula 11 & Análise II \\
+28/10/2025 & Aula 12 & Análise III \\
+04/11/2025 & \textbf{NP2} & \textbf{Prova} \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{📅 Calendário da Disciplina - Campus Chácara Santo Antônio}\label{calenduxe1rio-da-disciplina---campus-chuxe1cara-santo-antuxf4nio}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+Data & Aula & Tema \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+06/08/2025 & Aula 1 & Aula Inaugural \\
+13/08/2025 & Aula 2 & Fundamentos \\
+20/08/2025 & Aula 3 & Modelagem e Diagramas \\
+27/08/2025 & Aula 4 & Administração e Gerenciamento \\
+03/09/2025 & Aula 5 & Aplicação CRUD \\
+10/09/2025 & Aula 6 & MySQL \\
+17/09/2025 & \textbf{NP1} & \textbf{Prova} \\
+24/09/2025 & Aula 7 & Postgres \\
+01/10/2025 & Aula 8 & QGIS \\
+08/10/2025 & Aula 9 & RStudio \\
+15/10/2025 & Aula 10 & Análise I \\
+22/10/2025 & Aula 11 & Análise II \\
+29/10/2025 & Aula 12 & Análise III \\
+05/11/2025 & \textbf{NP2} & \textbf{Prova} \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{📚 Ementa Resumida}\label{ementa-resumida}
+
+\begin{itemize}
+\item
+  Introdução a bancos de dados relacionais (RDBMS)
+\item
+  Modelagem de dados (M.E.R.) e diagramas Entidade Relacionamento (D.E.R.)
+\item
+  Linguagem SQL: DDL, DML, DCL
+\item
+  Ferramentas: MySQL, PostgreSQL
+\item
+  Visualização geoespacial (QGIS)
+\item
+  Análise e exploração de dados (R e RStudio)
+
+  \includegraphics[width=3.44792in,height=\textheight]{images/2025-08-04/modelagem.jpg}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{📝 Avaliação}\label{avaliauxe7uxe3o}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Provas (NP1 + NP2)}
+\item
+  \textbf{Prova Substitutiva}
+\item
+  \textbf{Exame}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{🛠️ Ferramentas da Disciplina}\label{ferramentas-da-disciplina}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Servidores de Banco de Dados}: MySQL, PostgreSQL
+\item
+  \textbf{Servidores de Banco de Dados}: pgAdmin, MySQL Workbench, DBeaver\\
+\item
+  \textbf{Geoprocessamento}: QGIS\\
+\item
+  \textbf{Análise de Dados}: R + RStudio\\
+\item
+  \textbf{Versionamento e Organização}: GitHub, Teams
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{📌 Expectativas e Regras}\label{expectativas-e-regras}
+
+\begin{itemize}
+\tightlist
+\item
+  Pontualidade e entrega de atividades no prazo
+\item
+  Trabalhos devem ser originais (sem plágio)
+\item
+  Participação ativa nas discussões e práticas
+\item
+  Uso responsável das ferramentas
+\item
+  Respeito e colaboração entre colegas
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{💡 Dicas para Mandar Bem}\label{dicas-para-mandar-bem}
+
+\begin{itemize}
+\tightlist
+\item
+  Faça os exercícios logo após a aula
+\item
+  Participe das práticas com base real
+\item
+  Mantenha o repositório do projeto atualizado
+\item
+  Refaça consultas SQL até entender
+\item
+  Teste e documente suas soluções
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\chapter{🙌 Encerramento}\label{encerramento}
+
+\section{Estamos prontos?}\label{estamos-prontos}
+
+📧 Dúvidas? Estou à disposição\\
+📊 Vamos construir conhecimento juntos!
+
+\begin{quote}
+Próxima aula: \textbf{Governança da Informação} -- 11/08/2025
+\end{quote}
+
+\chapter{Governança Corporativa - O topo da Pirâmide}\label{governanuxe7a-corporativa---o-topo-da-piruxe2mide}
+
+\subsubsection*{12/08/2025 - Campus Marquês}\label{campus-marquuxeas-1}
+\addcontentsline{toc}{subsubsection}{12/08/2025 - Campus Marquês}
+
+\subsubsection*{13/08/2025 - Campus Chácara}\label{campus-chuxe1cara-1}
+\addcontentsline{toc}{subsubsection}{13/08/2025 - Campus Chácara}
+
+\chapter{Governança Corporativa - Assembléia dos Proprietários}\label{governanuxe7a-corporativa---assembluxe9ia-dos-proprietuxe1rios}
+
+\subsubsection*{19/08/2025 - Campus Marquês}\label{campus-marquuxeas-2}
+\addcontentsline{toc}{subsubsection}{19/08/2025 - Campus Marquês}
+
+\subsubsection*{20/08/2025 - Campus Chácara}\label{campus-chuxe1cara-2}
+\addcontentsline{toc}{subsubsection}{20/08/2025 - Campus Chácara}
+
+\chapter{Governança Corporativa - Conselhos da Empresa}\label{governanuxe7a-corporativa---conselhos-da-empresa}
+
+\subsubsection*{26/08/2025 - Campus Marquês}\label{campus-marquuxeas-3}
+\addcontentsline{toc}{subsubsection}{26/08/2025 - Campus Marquês}
+
+\subsubsection*{27/08/2025 - Campus Chácara}\label{campus-chuxe1cara-3}
+\addcontentsline{toc}{subsubsection}{27/08/2025 - Campus Chácara}
+
+\chapter{Governança Corporativa - C Level e Diretorias}\label{governanuxe7a-corporativa---c-level-e-diretorias}
+
+\subsubsection*{02/09/2025 - Campus Marquês}\label{campus-marquuxeas-4}
+\addcontentsline{toc}{subsubsection}{02/09/2025 - Campus Marquês}
+
+\subsubsection*{03/09/2025 - Campus Chácara}\label{campus-chuxe1cara-4}
+\addcontentsline{toc}{subsubsection}{03/09/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - Diretoria de Informática}\label{governanuxe7a-da-informauxe7uxe3o---diretoria-de-informuxe1tica}
+
+\subsubsection*{09/09/2025 - Campus Marquês}\label{campus-marquuxeas-5}
+\addcontentsline{toc}{subsubsection}{09/09/2025 - Campus Marquês}
+
+\subsubsection*{10/09/2025 - Campus Chácara}\label{campus-chuxe1cara-5}
+\addcontentsline{toc}{subsubsection}{10/09/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - Modelo COBIT 5.0}\label{governanuxe7a-da-informauxe7uxe3o---modelo-cobit-5.0}
+
+\subsubsection*{23/09/2025 - Campus Marquês}\label{campus-marquuxeas-6}
+\addcontentsline{toc}{subsubsection}{23/09/2025 - Campus Marquês}
+
+\subsubsection*{24/09/2025 - Campus Chácara}\label{campus-chuxe1cara-6}
+\addcontentsline{toc}{subsubsection}{24/09/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - COBIT 5.0 - Os 5 Princípios}\label{governanuxe7a-da-informauxe7uxe3o---cobit-5.0---os-5-princuxedpios}
+
+\subsubsection*{30/09/2025 - Campus Marquês}\label{campus-marquuxeas-7}
+\addcontentsline{toc}{subsubsection}{30/09/2025 - Campus Marquês}
+
+\subsubsection*{01/10/2025 - Campus Chácara}\label{campus-chuxe1cara-7}
+\addcontentsline{toc}{subsubsection}{01/10/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - COBIT 5.0 - Os 7 Habilitadores}\label{governanuxe7a-da-informauxe7uxe3o---cobit-5.0---os-7-habilitadores}
+
+\subsubsection*{07/10/2025 - Campus Marquês}\label{campus-marquuxeas-8}
+\addcontentsline{toc}{subsubsection}{07/10/2025 - Campus Marquês}
+
+\subsubsection*{08/10/2025 - Campus Chácara}\label{campus-chuxe1cara-8}
+\addcontentsline{toc}{subsubsection}{08/10/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - COBIT 5.0 - Implantação}\label{governanuxe7a-da-informauxe7uxe3o---cobit-5.0---implantauxe7uxe3o}
+
+\subsubsection*{14/10/2025 - Campus Marquês}\label{campus-marquuxeas-9}
+\addcontentsline{toc}{subsubsection}{14/10/2025 - Campus Marquês}
+
+\subsubsection*{15/10/2025 - Campus Chácara}\label{campus-chuxe1cara-9}
+\addcontentsline{toc}{subsubsection}{15/10/2025 - Campus Chácara}
+
+\chapter{Governança da Informação - COBIT 2019 - O que mudou em relação ao 5.0}\label{governanuxe7a-da-informauxe7uxe3o---cobit-2019---o-que-mudou-em-relauxe7uxe3o-ao-5.0}
+
+\subsubsection*{21/10/2025 - Campus Marquês}\label{campus-marquuxeas-10}
+\addcontentsline{toc}{subsubsection}{21/10/2025 - Campus Marquês}
+
+\subsubsection*{22/10/2025 - Campus Chácara}\label{campus-chuxe1cara-10}
+\addcontentsline{toc}{subsubsection}{22/10/2025 - Campus Chácara}
+
+  \bibliography{book.bib}
+
+\end{document}

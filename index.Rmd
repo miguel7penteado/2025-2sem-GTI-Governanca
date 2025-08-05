@@ -1,5 +1,5 @@
 ---
-title: "GTI - Governança da Informação - 2025 - Anotações de aula"
+title: "GTI - Governança Corporativa (de TIC) - 2025 - Anotações de aula"
 author: "Professor Miguél Suares"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -45,15 +45,21 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 ![](images/livros/livro1.jpg)
 
-|  |  |
-|----|----|
-| **Autor(es)** | [**José Paschoal Rossetti**](https://www.fdc.org.br/sobreafdc/professores/rossetti) **e [Adriana Andrade](https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/)** |
-| **Editora** | Atlas |
-| **Idioma** | Português |
-| **ISBN** | 9788522493050 |
-| **Formato** | Capa dura |
-| **Páginas** | 608 |
-| **Código Biblioteca** |  |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Autor(es)**                    | [**José Paschoal Rossetti**](https://www.fdc.org.br/sobreafdc/professores/rossetti) **e [Adriana Andrade](https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/)** |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Editora**                      | Atlas                                                                                                                                                                              |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Idioma**                       | Português                                                                                                                                                                          |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **ISBN**                         | 9788522493050                                                                                                                                                                      |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Formato**                      | Capa dura                                                                                                                                                                          |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Páginas**                      | 608                                                                                                                                                                                |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Código Biblioteca**            |                                                                                                                                                                                    |
++----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### "Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços" dos autores "Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu"
 
@@ -79,54 +85,70 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 —————————————————————————————————————————————
 
-##### AGOSTO DE 2025
+# 📅 Calendário da Disciplina - Campus Marquês de São Vicente
 
-| Data       | Dia da Semana | Aulas          | Conteúdo |
-|------------|---------------|----------------|----------|
-| 06/08/2025 | Quarta-Feira  | Aula Inaugural |          |
-| 13/08/2025 | Quarta-Feira  | Aula 2         |          |
-| 20/08/2025 | Quarta-Feira  | Aula 3         |          |
-| 27/08/2025 | Quarta-Feira  | Aula 4         |          |
+| Data       | Aula    | Tema                                       |
+|------------|---------|--------------------------------------------|
+| 05/08/2025 | Aula 1  | Aula Inaugural                             |
+| 12/08/2025 | Aula 2  | O topo da Pirâmide                         |
+| 19/08/2025 | Aula 3  | Assembléia dos Proprietários               |
+| 26/08/2025 | Aula 4  | Conselhos da Empresa                       |
+| 02/09/2025 | Aula 5  | C Level e Diretorias                       |
+| 09/09/2025 | Aula 6  | Diretoria de Informática                   |
+| 16/09/2025 | **NP1** | **Prova**                                  |
+| 23/09/2025 | Aula 7  | Modelo COBIT 5.0                           |
+| 30/09/2025 | Aula 8  | COBIT 5.0 - Os 5 Princípios                |
+| 07/10/2025 | Aula 9  | COBIT 5.0 - Os 7 Habilitadores             |
+| 14/10/2025 | Aula 10 | COBIT 5.0 - Implantação                    |
+| 21/10/2025 | Aula 11 | COBIT 2019 - O que mudou em relação ao 5.0 |
+| 28/10/2025 | Aula 12 | Revisão                                    |
+| 04/11/2025 | **NP2** | **Prova**                                  |
 
-##### SETEMBRO DE 2025
+------------------------------------------------------------------------
 
-| Data       | Dia da Semana | Aulas  | Conteúdo |
-|------------|---------------|--------|----------|
-| 03/09/2025 | Quarta-Feira  | Aula 5 |          |
-| 10/09/2025 | Quarta-Feira  | Aula 6 |          |
-| 17/09/2025 | Quarta-Feira  | NP1    | PROVA    |
-| 24/09/2025 | Quarta-Feira  | Aula 7 |          |
+# 📅 Calendário da Disciplina - Campus Chácara Santo Antônio
 
-##### OUTUBRO DE 2025
+| Data       | Aula    | Tema                                       |
+|------------|---------|--------------------------------------------|
+| 06/08/2025 | Aula 1  | Aula Inaugural                             |
+| 13/08/2025 | Aula 2  | O topo da Pirâmide                         |
+| 20/08/2025 | Aula 3  | Assembléia dos Proprietários               |
+| 27/08/2025 | Aula 4  | Conselhos da Empresa                       |
+| 03/09/2025 | Aula 5  | C Level e Diretorias                       |
+| 10/09/2025 | Aula 6  | Diretoria de Informática                   |
+| 17/09/2025 | **NP1** | **Prova**                                  |
+| 24/09/2025 | Aula 7  | Modelo COBIT 5.0                           |
+| 01/10/2025 | Aula 8  | COBIT 5.0 - Os 5 Princípios                |
+| 08/10/2025 | Aula 9  | COBIT 5.0 - Os 7 Habilitadores             |
+| 15/10/2025 | Aula 10 | COBIT 5.0 - Implantação                    |
+| 22/10/2025 | Aula 11 | COBIT 2019 - O que mudou em relação ao 5.0 |
+| 29/10/2025 | Aula 12 | Revisão                                    |
+| 05/11/2025 | **NP2** | **Prova**                                  |
 
-| Data       | Dia da Semana | Aulas   | Conteúdo |
-|------------|---------------|---------|----------|
-| 01/10/2025 | Quarta-Feira  | Aula 8  |          |
-| 08/10/2025 | Quarta-Feira  | Aula 9  |          |
-| 15/10/2025 | Quarta-Feira  | Aula 10 |          |
-| 22/10/2025 | Quarta-Feira  | Aula 11 |          |
-| 29/10/2025 | Quarta-Feira  | Aula 12 |          |
+------------------------------------------------------------------------
 
-##### NOVEMBRO DE 2025
+# 📚 Ementa Resumida
 
-| Data       | Dia da Semana | Aulas | Conteúdo |
-|------------|---------------|-------|----------|
-| 05/11/2025 | Quarta-Feira  | NP2   | PROVA    |
-| 12/11/2025 | Quarta-Feira  |       | N/A      |
-| 19/11/2025 | Quarta-Feira  | SUB   | PROVA    |
-| 26/11/2025 | Quarta-Feira  |       | N/A      |
+-   Conhecer a Governança na Empresa
 
-##### DEZEMBRO DE 2025
+-   Conhecer a Governança de T.I.
 
-| Data       | Dia da Semana | Aulas | Conteúdo |
-|------------|---------------|-------|----------|
-| 03/12/2025 | Quarta-Feira  |       | N/A      |
-| 10/12/2025 | Quarta-Feira  | EXAME | PROVA    |
-| 17/12/2025 | Quarta-Feira  |       | N/A      |
-| 24/12/2025 | Quarta-Feira  |       | NATAL    |
-| 31/12/2025 | Quarta-Feira  |       | Confrat  |
+-   Conhecer o Modelo COBIT 5.0
 
-## Alunos 2025 - 2o Semestre
+-   Vislumbrar o modelo COBIT 2019
+
+    ![](images/2025-08-04/modelagem.jpg){width="331"}
+
+------------------------------------------------------------------------
+
+# 📝 Avaliação
+
+-   **Provas (NP1 + NP2)**
+-   **Prova Substitutiva**
+-   **Exame**
+
+
+## Alunos 2025 - 4o Semestre
 
 —————————————————————————————————————————————
 
