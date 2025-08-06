@@ -45,21 +45,15 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 ![](images/livros/livro1.jpg)
 
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Autor(es)**                    | [**José Paschoal Rossetti**](https://www.fdc.org.br/sobreafdc/professores/rossetti) **e [Adriana Andrade](https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/)** |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Editora**                      | Atlas                                                                                                                                                                              |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Idioma**                       | Português                                                                                                                                                                          |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **ISBN**                         | 9788522493050                                                                                                                                                                      |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Formato**                      | Capa dura                                                                                                                                                                          |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Páginas**                      | 608                                                                                                                                                                                |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Código Biblioteca**            |                                                                                                                                                                                    |
-+----------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|  |  |
+|----|----|
+| **Autor(es)** | [**José Paschoal Rossetti**](https://www.fdc.org.br/sobreafdc/professores/rossetti) **e [Adriana Andrade](https://tradeconbusiness.com.br/nossa-equipe/adriana-de-andrade-sole/)** |
+| **Editora** | Atlas |
+| **Idioma** | Português |
+| **ISBN** | 9788522493050 |
+| **Formato** | Capa dura |
+| **Páginas** | 608 |
+| **Código Biblioteca** |  |
 
 ### "Implantando a Governança de TI (4ª edição): Da estratégia à gestão de processos e serviços" dos autores "Aguinaldo Aragon Fernandes e Vladimir Ferraz de Abreu"
 
@@ -85,7 +79,7 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 —————————————————————————————————————————————
 
-# 📅 Calendário da Disciplina - Campus Marquês de São Vicente
+### 📅 Calendário da Disciplina - Campus Marquês de São Vicente
 
 | Data       | Aula    | Tema                                       |
 |------------|---------|--------------------------------------------|
@@ -106,7 +100,7 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 ------------------------------------------------------------------------
 
-# 📅 Calendário da Disciplina - Campus Chácara Santo Antônio
+### 📅 Calendário da Disciplina - Campus Chácara Santo Antônio
 
 | Data       | Aula    | Tema                                       |
 |------------|---------|--------------------------------------------|
@@ -127,7 +121,7 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 ------------------------------------------------------------------------
 
-# 📚 Ementa Resumida
+## 📚 Ementa Resumida
 
 -   Conhecer a Governança na Empresa
 
@@ -141,12 +135,11 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 
 ------------------------------------------------------------------------
 
-# 📝 Avaliação
+## 📝 Avaliação
 
 -   **Provas (NP1 + NP2)**
 -   **Prova Substitutiva**
 -   **Exame**
-
 
 ## Alunos 2025 - 4o Semestre
 
