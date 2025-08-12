@@ -1,4 +1,172 @@
 # Governança Corporativa - O topo da Pirâmide
 
 #### 12/08/2025 - Campus Marquês {.unnumbered}
+
 #### 13/08/2025 - Campus Chácara {.unnumbered}
+
+------------------------------------------------------------------------
+
+# Quais motivos criam a necessidade de Gov Corp ?
+
+-   Quantidade de funcionários da empresa ?
+-   Tamanho da corporação ?
+-   Ramo de atividade da empresa ?
+-   Faturamento mensal/anual da empresa ?
+
+![](images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg){width="259"} \| ![](images/02-2025-08-12_13/02-Weg.jpg){width="122"}
+
+------------------------------------------------------------------------
+
+# O principal fator é o número efetivo ou potencial de sócios
+
+-   **Efetivo:** NÚMERO DE SÓCIOS
+
+| EFETIVO CASO DE GRANDE NÚMERO DE SÓCIOS |   |
+|:--------------------------------:|--------------------------------------|
+| ***EMPRESA S/A (CAPITAL ABERTO)*** | ![](images/02-2025-08-12_13/00-PetroBras.jpg) |
+
+------------------------------------------------------------------------
+
+# O principal fator é o número efetivo ou potencial de sócios
+
+-   **Potencial:** futuro número de sócios !
+
+    | POTENCIAL CASO DE AUMENTO DE SÓCIOS |   |
+    |:------------------------:|:--------------------------------------------:|
+    | **FUSÕES** | ![](images/02-2025-08-12_13/04-Fusao_Corporativa.jpg){width="237"} |
+    | **AQUISIÇÕES** |  |
+    | **INCORPORAÇÕES** |  |
+    | **SUCESSÃO FAMILIAR** | ![](images/02-2025-08-12_13/03-sucessao_familiar.jpg){width="188"} |
+
+------------------------------------------------------------------------
+
+# Casos que normalmente demandam arquitetura de governança corporativa
+
+-   Sucessão familiar que amplie significativamente o número de sócios\
+    *(filhos – 1ª geração –, netos – 2ª geração – etc.)*
+
+    ![](images/02-2025-08-12_13/05-linha_sucessoria.jpg){width="547"}
+
+-   Fusão ou incorporação que amplie o número de acionistas ou cotistas
+
+-   Sociedade que já nasça com grande número de acionistas ou cotistas
+
+------------------------------------------------------------------------
+
+# Arquitetura de Governança
+
+-   Topo - Assembléia de Acionistas/Cotistas
+
+-   2o Degrau - Conselhos (Administrativo, Fiscal e Consultivo)
+
+-   3o Degrau - CEO
+
+-   4o Degrau - Diretorias
+
+![](images/02-2025-08-12_13/00-topo_piramide.jpg)
+
+------------------------------------------------------------------------
+
+# ARQUÉTIPOS de Governança Corporativa
+
+-   **SEPARAÇÃO DE PROPRIEDADE E GESTÃO**
+
+-   Anglo-Saxão
+
+-   Alemão
+
+-   Francês
+
+-   Japonês
+
+-   Latino-Americano
+
+------------------------------------------------------------------------
+
+# Modelo Anglo-Saxão de Governança Corporativa
+
+![](images/02-2025-08-12_13/06-modelo_anglo-saxao.jpg){width="143"}
+
+### Características definidoras
+
+**Financiamento predominante** - Fonte principal: mercado de capitais - Ações (equity) como base da capitalização - Fundos de pensão com grande parte do patrimônio em ações - Orientação para o mercado
+
+**Propriedade e controle acionário** - Estrutura patrimonial pulverizada - Raros acionistas com mais de 10% do capital nas maiores empresas
+
+**Propriedade e gestão** - Dissociação entre propriedade e gestão
+
+**Conflitos de agência** - Principal conflito: acionistas x gestores - Altos custos de agência
+
+**Proteção legal a minoritários** - Forte, por leis e regulação do mercado
+
+------------------------------------------------------------------------
+
+# Modelo Alemão de Governança Corporativa
+
+![](images/02-2025-08-12_13/07-modelo_alemao.jpg){width="225"}
+
+### Características definidoras
+
+**Financiamento predominante** - Crédito bancário de longo prazo como principal fonte - Relação duradoura com bancos, reduzindo assimetria de informação
+
+**Propriedade e controle acionário** - Estrutura patrimonial concentrada - Bancos e grandes acionistas controlam boa parte do capital
+
+**Propriedade e gestão** - Bancos com grande poder, monitorando interesses dos credores
+
+**Conflitos de agência** - Principal risco: expropriação de minoritários - Conflitos caros são raros
+
+**Proteção legal a minoritários** - Não é prioridade; tendência de fortalecer o mercado de ações
+
+------------------------------------------------------------------------
+
+# Modelo Japonês de Governança Corporativa
+
+![](images/02-2025-08-12_13/09-modelo_japones.jpg){width="205"}
+
+### Características definidoras
+
+**Financiamento predominante** - Bancos financiam via dívida de longo prazo - Relação duradoura entre bancos e empresas
+
+**Propriedade e controle acionário** - Concentração peculiar: keiretsu com posse cruzada de ações
+
+**Propriedade e gestão** - Sobreposição; predominância do consenso
+
+**Conflitos de agência** - Custos e conflitos insignificantes
+
+**Proteção legal a minoritários** - Sustentação de relações de longo prazo - Gestão voltada a múltiplos interesses
+
+------------------------------------------------------------------------
+
+# Modelo Francês de Governança Corporativa
+
+![](images/02-2025-08-12_13/08-modelo_frances.jpg){width="198"}
+
+### Características definidoras
+
+**Financiamento predominante** - Indefinido, mas alavancagem relevante - Forte presença de empresas familiares fechadas
+
+**Propriedade e controle acionário** - Controle concentrado
+
+**Propriedade e gestão** - Sobreposição; gestão fechada - Conselhos com função mais consultiva
+
+**Conflitos de agência** - Baixos conflitos devido à concentração - Risco de expropriação de minoritários
+
+**Proteção legal a minoritários** - Fraca, com baixo enforcement - Mercados de capitais pouco desenvolvidos
+
+------------------------------------------------------------------------
+
+# Modelo Latino-Americano de Governança Corporativa
+
+![](images/02-2025-08-12_13/10-modelo_latino_americano.jpg){width="306"}
+
+### Características definidoras
+
+**Financiamento predominante** - Predomínio da dívida - Mercados de capitais pouco expressivos
+
+**Propriedade e controle acionário** - Propriedade concentrada - Maior participação estrangeira nos últimos anos
+
+**Propriedade e gestão** - Exercida pelos majoritários
+
+**Conflitos de agência** - Entre acionistas majoritários e minoritários
+
+**Proteção legal a minoritários** - Predominantemente fraca - Alta proporção de ações sem voto
