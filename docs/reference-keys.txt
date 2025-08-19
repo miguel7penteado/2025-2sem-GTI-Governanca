@@ -59,6 +59,9 @@ assembleia-geral-ordinária-ago
 assembleia-geral-extraordinária-age
 participação-patromonial-na-empresa-equity
 como-calcular-equity-após-uma-rodada-de-investimentos
+participação-percentual-do-sócio-pós-seção-de-participação-ao-investidor
+participação-percentual-do-investidor-pós-investimento-monetário
+equity---caso-facebook
 exemplos
 resolução
 exercício-2-aporte-venture-capital-série-a

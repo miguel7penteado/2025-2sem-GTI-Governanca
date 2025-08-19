@@ -54,9 +54,39 @@ Como um acionista pode calcular sua participação na empresa após uma rodada d
 
 Basicamente, podemos fazer-lo aplicado a fórmula:
 
-## $$
-ParicipaçãoPós = \frac{ParticipacaoPré}{(1 - ParticipacaoInvestidor)}
+#### Participação percentual do sócio pós-seção de participação ao investidor
+
 $$
+Porcentagem\_Participacao\_Sócio\_Pós\_Investimento = \frac{Porcentagem\_Participacao\_Pré\_Investimento}{(1 - Participacao\_Percentual\_Investidor)}
+$$
+
+#### Participação percentual do investidor pós-investimento monetário
+
+$$
+Participação\_Percentual\_\_Investidor = (\frac{ Dinheiro\_Investido}{ CapitalSocial\_Pós\_Investimento}) * 100%
+$$
+
+## Equity - caso FACEBOOK
+
+![](images/03-2025-08-19_20/05-facebook.png){width="676"}
+
+|  |  |
+|------------------------------------|------------------------------------|
+| ![](images/03-2025-08-19_20/03-mark_zuckenberg.jpg){width="330" height="413"} | ![](images/03-2025-08-19_20/04-eduardo_saverin.jpg){width="380"} |
+
+| Data (Estim) | Evento Chave | Equity Saverin(Estim) | Contexto e Ação |
+|---------------|---------------|---------------|-----------------------------|
+| Fevereiro de 2004 | Fundação do Facebook | 30% a 34% | **Eduardo Saverin** investe **US\$ 15 mil** para ajudar a fundar a empresa. **Sua participação é a maior entre os sócios**, atrás apenas de **Mark Zuckerberg**. |
+| Metade de 2004 | Mudança para Palo Alto | \< 30% | Desentendimentos entre Zuckerberg e Saverin. Zuckerberg começa a buscar novos investidores e a estruturar a empresa legalmente para uma nova rodada de investimento. |
+| Junho de 2004 | Aporte de Peter Thiel | \~20% a 25% | **Peter Thiel** e **Reid Hoffman** (investidores-anjo) injetam **US\$ 500 mil** no Facebook. Esta é a primeira rodada de investimento que causa a diluição da participação dos fundadores. |
+| Final de 2004 | Reestruturação e Exclusão | \< 10% | **Zuckerberg** cria uma **nova entidade legal** ("Thefacebook, Inc."), emite novas ações e, de forma controversa, **dilui a participação de Saverin** a uma porcentagem mínima **sem seu consentimento**. |
+| Maio de 2005 | Rodada de Série A | \~10% | A **Accel Partners** e o co-fundador da PayPal investem **US\$ 12,7 milhões** na empresa. **Ações adicionais são emitidas**, **diluindo ainda mais todos os fundadores**, incluindo **Saverin**. |
+| Setembro de 2005 | Processo Judicial de Saverin | \~10% | **Saverin** processa **Zuckerberg** e o Facebook, alegando que **foi diluído de forma ilegal** e **quebra de contrato**. |
+| 2006 | Rodada de Série B | \< 10% | **Accel Partners**, **Greylock Partners** e outros **investem US\$ 27,5 milhões**. A diluição continua. |
+| 2007 | Rodada da Microsoft | \< 5% | **A Microsoft investe US\$ 240 milhões**, avaliando o **Facebook em US\$ 15 bilhões**. A **emissão de novas ações dilui drasticamente a participação de todos os sócios**. |
+| 2008 | Acordo com Saverin | \~4% | Saverin e Zuckerberg chegam a um acordo extrajudicial. Os termos exatos não são revelados, mas é noticiado que Saverin recebe uma quantia em dinheiro, suas ações são restauradas, e ele é readmitido como cofundador. |
+| Maio de 2012 | IPO do Facebook | \~2% | No momento da **Oferta Pública Inicial (IPO)**, a participação de Saverin é amplamente divulgada como **estando em torno de 2%**. O **valor de sua fatia é estimado em cerca de US\$ 4 bilhões**. |
+|  |  |  |  |
 
 ### Exemplos
 
