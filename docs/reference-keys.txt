@@ -58,6 +58,14 @@ frequência-e-modalidade-das-assembleias
 assembleia-geral-ordinária-ago
 assembleia-geral-extraordinária-age
 participação-patromonial-na-empresa-equity
+como-calcular-equity-após-uma-rodada-de-investimentos
+exemplos
+resolução
+exercício-2-aporte-venture-capital-série-a
+exercício-3-aporte-growth-capital-série-b
+exercício-4-cenário-de-múltiplos-investidores
+exercício-5-protegendo-a-maioria
+respostas-dos-exercícios
 governança-corporativa---conselhos-da-empresa
 governança-corporativa---c-level-e-diretorias
 governança-da-informação---diretoria-de-informática
