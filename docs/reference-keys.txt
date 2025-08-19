@@ -50,6 +50,14 @@ características-definidoras-3
 modelo-latino-americano-de-governança-corporativa
 características-definidoras-4
 governança-corporativa---assembléia-dos-proprietários
+livro-governança-corporativa
+capítulo-a-assembleia-geral-no-processo-de-governança-pág-267
+a-assembleia-geral
+principais-competências-da-assembleia-geral
+frequência-e-modalidade-das-assembleias
+assembleia-geral-ordinária-ago
+assembleia-geral-extraordinária-age
+participação-patromonial-na-empresa-equity
 governança-corporativa---conselhos-da-empresa
 governança-corporativa---c-level-e-diretorias
 governança-da-informação---diretoria-de-informática
