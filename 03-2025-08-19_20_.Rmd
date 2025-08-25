@@ -77,7 +77,7 @@ $$
 | ![](images/03-2025-08-19_20/03-mark_zuckenberg.jpg){width="330" height="413"} | ![](images/03-2025-08-19_20/04-eduardo_saverin.jpg){width="380"} |
 
 | Data (Estim) | Evento Chave | Equity Saverin(Estim) | Contexto e Ação |
-|---------------|---------------|---------------|-----------------------------|
+|------------------|------------------|------------------|------------------|
 | Fevereiro de 2004 | Fundação do Facebook | 30% a 34% | **Eduardo Saverin** investe **US\$ 15 mil** para ajudar a fundar a empresa. **Sua participação é a maior entre os sócios**, atrás apenas de **Mark Zuckerberg**. |
 | Metade de 2004 | Mudança para Palo Alto | \< 30% | Desentendimentos entre Zuckerberg e Saverin. Zuckerberg começa a buscar novos investidores e a estruturar a empresa legalmente para uma nova rodada de investimento. |
 | Junho de 2004 | Aporte de Peter Thiel | \~20% a 25% | **Peter Thiel** e **Reid Hoffman** (investidores-anjo) injetam **US\$ 500 mil** no Facebook. Esta é a primeira rodada de investimento que causa a diluição da participação dos fundadores. |
@@ -90,12 +90,21 @@ $$
 | Maio de 2012 | IPO do Facebook | \~2% | No momento da **Oferta Pública Inicial (IPO)**, a participação de Saverin é amplamente divulgada como **estando em torno de 2%**. O **valor de sua fatia é estimado em cerca de US\$ 4 bilhões**. |
 |  |  |  |  |
 
-### Exemplos
+------------------------------------------------------------------------
 
-(Investimento do tipo Seed Capital)
+## Exemplo
 
+------------------------------------------------------------------------
+
+## Exercício Resolvido 1
+
+(Etapa 2 de Investimento: tipo Seed Capital -\> Investidor "Anjo")
+
+![](images/03-2025-08-19_20/exercicio-01.jpg){width="1026"}
+
+|  |
+|----|
 | EXEMPLO 1 - Você é o único fundador da startup "**Tech-Solve**" e possui 1.000.000 (um mihão) de cotas da empresa, que representam 100% do **EQUITY**. Um investidor anjo (seed capital) se interessa em investir. O valuation (valor da empresa antes do investimento) é de **R\$ 5.000.000,00** . O investidor quer injetar um capital de **R\$ 1.000.000** na empresa. Para **não perder a maioria**, qual o **número máximo de cotas** você pode ceder a ele, considerando que cada cota tem um valor unitário? |
-|------------------------------------------------------------------------|
 | a) 250.000 cotas |
 | b) 200.000 cotas |
 | c) 150.000 cotas |
@@ -179,7 +188,15 @@ Resumo:
 
 Você pode continuar a praticar com os próximos exercícios se quiser! Eles vão aprofundar a sua compreensão sobre como a diluição e o controle de propriedade funcionam ao longo do tempo.
 
-### **Exercício 2: Aporte Venture Capital (Série A)**
+------------------------------------------------------------------------
+
+## Exercícios
+
+### **Exercício 2:** 
+
+### (Investimento do tipo Venture Capital -\> Investidor "profissional" )
+
+![](images/03-2025-08-19_20/exercicio-02.jpg){width="675"}
 
 |  |
 |------------------------------------------------------------------------|
@@ -229,3 +246,7 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 | 3         | a        |
 | 4         | c        |
 | 5         | b        |
+
+## Referências
+
+ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.

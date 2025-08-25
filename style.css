@@ -1,14 +1,101 @@
-p.caption {
-  color: #777;
-  margin-top: 10px;
+/* === Fundo e tipografia === */
+.book {
+  background-color: #fdfdfd;
+  font-family: "Palatino Linotype", "Palatino", "Century Schoolbook", "Baskerville", "Nimbus Roman No9 L", "Times", "Times New Roman",  serif; ;
+  line-height: 1.7;
+  font-size: 17px;
+  color: #333333;
 }
-p code {
-  white-space: inherit;
+
+/* === Links === */
+.book .book-body .page-wrapper a {
+  color: #0056b3;
+  text-decoration: none;
+  border-bottom: 1px dashed #0056b3;
 }
-pre {
-  word-break: normal;
-  word-wrap: normal;
+.book .book-body .page-wrapper a:hover {
+  color: #003366;
+  border-bottom: 1px solid #003366;
 }
+
+/* === Cabeçalhos === */
+.book .book-body h1 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #1a237e;
+  border-bottom: 3px solid #1a237e;
+  padding-bottom: 8px;
+  margin-top: 40px;
+}
+.book .book-body h2 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #3949ab;
+  margin-top: 30px;
+}
+.book .book-body h3 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #5c6bc0;
+}
+
+.book .book-body h4 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #5c6bc0;
+}
+
+.book .book-body h5 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #5c6bc0;
+}
+
+.book .book-body h6 {
+  font-family: "Trebuchet MS", "Futura", "Segoe UI", "Dejavu Sans", "Bitstream Vera Sans", sans-serif;
+  color: #5c6bc0;
+}
+
+/* === Código (SQL, R, etc.) === */
 pre code {
-  white-space: inherit;
+  background-color: #f5f5f5;
+  border-left: 4px solid #3949ab;
+  padding: 10px;
+  display: block;
+  border-radius: 6px;
+  font-family: "Fira Code", monospace;
+  font-size: 15px;
+}
+
+/* === Blocos de citação === */
+blockquote {
+  border-left: 5px solid #3949ab;
+  padding: 10px 20px;
+  background: #f0f4ff;
+  color: #333;
+  font-style: italic;
+}
+
+/* === Tabela === */
+.book .book-body table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+}
+.book .book-body th, 
+.book .book-body td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.book .book-body th {
+  background-color: #3949ab;
+  color: #fff;
+  text-align: center;
+}
+
+/* === Barra lateral (sumário) === */
+.book .book-summary {
+  background: #1a237e;
+  color: #fff;
+}
+.book .book-summary a {
+  color: #bbdefb !important;
+}
+.book .book-summary a:hover {
+  color: #fff !important;
 }

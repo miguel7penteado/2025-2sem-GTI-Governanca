@@ -6,7 +6,15 @@
 
 ------------------------------------------------------------------------
 
-# Quais motivos criam a necessidade de Gov Corp ?
+## O que é Governança Corporativa
+
+No livro "Governança Corporativa", os autores **José Paschoal Rossetti e Adriana Andrade** dão a seguinte definição para Governaça Corporativa:
+
+> **Um sistema pelo qual as sociedades empresárias são dirigidas e monitoradas, envolvendo os relacionamentos entre sócios/cotistas, conselho de administração, diretoria, auditoria independente e conselho fiscal. -** *Rossetti e Andrade -*
+
+a
+
+## Quais motivos criam a necessidade de Governança Corporativa ?
 
 -   Quantidade de funcionários da empresa ?
 -   Tamanho da corporação ?
@@ -17,7 +25,7 @@
 
 ------------------------------------------------------------------------
 
-# O principal fator é o número efetivo ou potencial de sócios
+## O principal fator é o número efetivo ou potencial de sócios
 
 -   **Efetivo:** NÚMERO DE SÓCIOS
 
@@ -27,7 +35,7 @@
 
 ------------------------------------------------------------------------
 
-# O principal fator é o número efetivo ou potencial de sócios
+## O principal fator é o número efetivo ou potencial de sócios
 
 -   **Potencial:** futuro número de sócios !
 
@@ -40,7 +48,7 @@
 
 ------------------------------------------------------------------------
 
-# Casos que normalmente demandam arquitetura de governança corporativa
+## Casos que normalmente demandam arquitetura de governança corporativa
 
 -   Sucessão familiar que amplie significativamente o número de sócios\
     *(filhos – 1ª geração –, netos – 2ª geração – etc.)*
@@ -53,7 +61,7 @@
 
 ------------------------------------------------------------------------
 
-# Arquitetura de Governança
+## Arquitetura de Governança
 
 -   Topo - Assembléia de Acionistas/Cotistas
 
@@ -67,7 +75,7 @@
 
 ------------------------------------------------------------------------
 
-# ARQUÉTIPOS de Governança Corporativa
+### ARQUÉTIPOS de Governança Corporativa
 
 -   **SEPARAÇÃO DE PROPRIEDADE E GESTÃO**
 
@@ -83,7 +91,7 @@
 
 ------------------------------------------------------------------------
 
-# Modelo Anglo-Saxão de Governança Corporativa
+#### Modelo Anglo-Saxão de Governança Corporativa
 
 ![](images/02-2025-08-12_13/06-modelo_anglo-saxao.jpg){width="143"}
 
@@ -101,7 +109,7 @@
 
 ------------------------------------------------------------------------
 
-# Modelo Alemão de Governança Corporativa
+#### Modelo Alemão de Governança Corporativa
 
 ![](images/02-2025-08-12_13/07-modelo_alemao.jpg){width="225"}
 
@@ -119,7 +127,7 @@
 
 ------------------------------------------------------------------------
 
-# Modelo Japonês de Governança Corporativa
+#### Modelo Japonês de Governança Corporativa
 
 ![](images/02-2025-08-12_13/09-modelo_japones.jpg){width="205"}
 
@@ -137,7 +145,7 @@
 
 ------------------------------------------------------------------------
 
-# Modelo Francês de Governança Corporativa
+#### Modelo Francês de Governança Corporativa
 
 ![](images/02-2025-08-12_13/08-modelo_frances.jpg){width="198"}
 
@@ -155,7 +163,7 @@
 
 ------------------------------------------------------------------------
 
-# Modelo Latino-Americano de Governança Corporativa
+#### Modelo Latino-Americano de Governança Corporativa
 
 ![](images/02-2025-08-12_13/10-modelo_latino_americano.jpg){width="306"}
 
@@ -170,3 +178,73 @@
 **Conflitos de agência** - Entre acionistas majoritários e minoritários
 
 **Proteção legal a minoritários** - Predominantemente fraca - Alta proporção de ações sem voto
+
+## Exercícios
+
+### Testes sobre Modelos de Governança Corporativa
+
+| Questão 1: |
+|--------------------------------------------------------------|
+| **Qual dos seguintes modelos de governança corporativa tem como principal fonte de financiamento o mercado de capitais, com as ações sendo a base da capitalização?** |
+| a) Modelo Alemão |
+| b) Modelo Anglo-Saxão |
+| c) Modelo Japonês |
+| d) Modelo Latino-Americano |
+| e) Modelo Francês |
+
+**Questão 2:** A estrutura de propriedade pulverizada, onde são raros os acionistas com mais de 10% do capital, é uma característica definidora de qual modelo?
+
+a)  Modelo Alemão b) Modelo Japonês c) Modelo Francês d) Modelo Anglo-Saxão e) Modelo Latino-Americano
+
+**Questão 3:** Em qual modelo o conflito de agência fundamental ocorre entre acionistas e gestores, devido à separação entre propriedade e gestão?
+
+a)  Modelo Latino-Americano b) Modelo Japonês c) Modelo Anglo-Saxão d) Modelo Alemão e) Modelo Francês
+
+**Questão 4:** O 'keiretsu', um grupo de empresas relacionadas pela posse cruzada de ações, é uma característica do controle acionário de qual modelo?
+
+a)  Modelo Alemão b) Modelo Anglo-Saxão c) Modelo Francês d) Modelo Latino-Americano e) Modelo Japonês
+
+**Questão 5:** Qual modelo é caracterizado por uma fraca proteção legal aos acionistas minoritários, alta proporção de ações sem direito a voto e gestão exercida pelos acionistas majoritários?
+
+a)  Modelo Anglo-Saxão b) Modelo Alemão c) Modelo Japonês d) Modelo Latino-Americano e) Modelo Francês
+
+**Questão 6:** O poder proeminente dos bancos, que monitoram os interesses dos credores e estabelecem relações duradouras com as empresas, é uma marca de qual modelo de governança?
+
+a)  Modelo Alemão b) Modelo Anglo-Saxão c) Modelo Latino-Americano d) Modelo Francês e) Modelo Japonês
+
+**Questão 7:** Em qual dos modelos a sobreposição entre propriedade e gestão é a norma, com conflitos de agência sendo considerados 'insignificantes'?
+
+a)  Modelo Anglo-Saxão b) Modelo Japonês c) Modelo Alemão d) Modelo Francês e) Modelo Latino-Americano
+
+**Questão 8:** A fraca proteção a minoritários, típica do Direito Civil francês e com baixo
+
+*enforcement*, resultando em mercados de capitais pouco desenvolvidos, é a descrição de qual modelo?
+
+a)  Modelo Latino-Americano b) Modelo Anglo-Saxão c) Modelo Alemão d) Modelo Francês e) Modelo Japonês
+
+**Questão 9:** Qual é a principal diferença entre o conflito de agência do modelo Anglo-Saxão e o do modelo Latino-Americano?
+
+a)  No Anglo-Saxão o conflito é entre credores e acionistas; no Latino-Americano é entre gestores e governo. b) Não há diferenças significativas, ambos focam no conflito entre gestores e acionistas. c) No Anglo-Saxão o conflito é entre acionistas e gestores; no Latino-Americano é entre acionistas majoritários e minoritários. d) No Anglo-Saxão o conflito é insignificante; no Latino-Americano é muito alto. e) No Anglo-Saxão o conflito é entre a empresa e os bancos; no Latino-Americano é entre as famílias controladoras.
+
+**Questão 10:** Comparando os modelos Alemão e Japonês, o que eles têm em comum em relação ao financiamento predominante?
+
+a)  Ambos dependem primariamente do mercado de capitais e da emissão de ações. b) Ambos têm um financiamento indefinido, com forte presença de empresas familiares. c) Ambos são financiados predominantemente por dívidas, com os bancos desempenhando um papel central e estabelecendo relações duradouras com as corporações. d) Ambos proíbem o financiamento via dívida, focando apenas em recursos próprios. e) Ambos possuem mercados de capitais muito expressivos, que superam o financiamento bancário.
+
+## Respostas dos exercícios
+
+| Teste | Resposta |
+|-------|----------|
+| 1     | b        |
+| 2     | d        |
+| 3     | c        |
+| 4     | e        |
+| 5     | d        |
+| 6     | a        |
+| 7     | b        |
+| 8     | d        |
+| 9     | c        |
+| 10    | c        |
+
+## Referências
+
+ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
