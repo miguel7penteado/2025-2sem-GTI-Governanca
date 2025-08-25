@@ -4,6 +4,54 @@
 
 #### 27/08/2025 - Campus Chácara {.unnumbered}
 
+## Fisiologia da Governança Corporativa –
+
+### Conselho de Administração
+
+> O **Conselho de Administração** é o órgão de orientação estratégica de uma empresa com governança corporativa.
+
+------------------------------------------------------------------------
+
+#### Competências do Conselho de Administração
+
+![](images/04-2025-08-26_27/01-conselho_administrativo.jpg)
+
+-   Definição da estratégia da empresa\
+-   Eleição e destituição do seu principal executivo\
+-   Aprovação da escolha ou da dispensa dos demais executivos sob proposta do executivo principal (CEO)\
+-   Acompanhamento da gestão\
+-   Monitoramento dos riscos\
+-   Indicação e substituição dos auditores independentes
+
+------------------------------------------------------------------------
+
+#### Boa Prática
+
+Atualmente, é considerada uma boa prática a formação do Conselho de Administração com o maior número possível de **conselheiros independentes**.
+
+------------------------------------------------------------------------
+
+### Conselho Fiscal
+
+> O **Conselho Fiscal** é o órgão de fiscalização dos acionistas/cotistas.
+
+#### Competências do Conselho Fiscal
+
+-   é um órgão **não obrigatório**;
+-   tem como objetivo **fiscalizar os atos da administração**, verificar o *compliance* e dar informações seguras aos sócios;
+-   atua como um **controle independente** para os sócios; e
+-   deve ser visto como um órgão que possui instrumentos que visam **agregar valor à sociedade**.
+
+------------------------------------------------------------------------
+
+### Conselho Consultivo
+
+-   Órgão **não deliberativo**, mas que dá suporte às decisões do Conselho de Administração.
+-   Recomendado para empresas cujo Conselho de Administração seja formado por conselheiros **acionistas/cotistas** (portanto, não independentes) e que necessitem de **competências técnicas** para amparar as suas decisões.
+-   Indicado também para empresas que estejam na **fase inicial de implantação** de uma arquitetura de governança corporativa.
+
+------------------------------------------------------------------------
+
 ## Referências
 
 ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
