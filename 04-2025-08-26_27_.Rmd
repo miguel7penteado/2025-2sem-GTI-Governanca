@@ -33,6 +33,8 @@ Atualmente, é considerada uma boa prática a formação do Conselho de Administ
 
 ### Conselho Fiscal
 
+![](images/04-2025-08-26_27/02-conselho_fiscal.jpg){width="495"}
+
 > O **Conselho Fiscal** é o órgão de fiscalização dos acionistas/cotistas.
 
 #### Competências do Conselho Fiscal
@@ -46,178 +48,333 @@ Atualmente, é considerada uma boa prática a formação do Conselho de Administ
 
 ### Conselho Consultivo
 
+![](images/04-2025-08-26_27/03-conselho_consultivo.jpg){width="797"}
+
 -   Órgão **não deliberativo**, mas que dá suporte às decisões do Conselho de Administração.
 -   Recomendado para empresas cujo Conselho de Administração seja formado por conselheiros **acionistas/cotistas** (portanto, não independentes) e que necessitem de **competências técnicas** para amparar as suas decisões.
 -   Indicado também para empresas que estejam na **fase inicial de implantação** de uma arquitetura de governança corporativa.
 
 ------------------------------------------------------------------------
 
++-------------------------------------------+---------------------------------------------------+---------------------------------------------------------------+
+| Acionista-Fundador gestor (minoritário)   | CEO                                               | Acionista Majoritário                                         |
+|                                           |                                                   |                                                               |
+| Steeve Jobs                               | John Sculley                                      | Arthur Rock                                                   |
++===========================================+===================================================+===============================================================+
+| ![](images/04-2025-08-26_27/10-jobs.webp) | ![](images/04-2025-08-26_27/John_Sculley_III.jpg) | ![](images/04-2025-08-26_27/Rock_Arthur_960.jpg){width="308"} |
++-------------------------------------------+---------------------------------------------------+---------------------------------------------------------------+
+
+### Linha do Tempo: Steve Jobs e a Apple (1976–1997)
+
+#### - 1976 – Steve Jobs e Steve Wozniak fundam a Apple Computer na garagem da família Jobs, em Cupertino.
+
+#### - 1977 – Lançamento do Apple II, primeiro grande sucesso comercial.
+
+#### - 1980 – A Apple abre seu capital na bolsa (IPO), valorizando fortemente a empresa.
+
+#### - 1983 – Jobs convence John Sculley, então CEO da PepsiCo, a assumir como CEO da Apple com a famosa frase:
+
+“Você quer vender água com açúcar pelo resto da sua vida ou quer mudar o mundo comigo?”
+
+#### - 1984 – Lançamento do Macintosh, com a campanha icônica no Super Bowl.
+
+#### - 1985 – Conflito entre Steve Jobs e John Sculley sobre o rumo da empresa.
+
+Jobs perde apoio da diretoria, liderada por Arthur Rock (investidor e presidente do board).
+
+Resultado: Steve Jobs é afastado da Apple.
+
+#### - 1985–1996 – Período fora da Apple:
+
+Jobs funda a NeXT Computer.
+
+Adquire e transforma a Pixar Animation Studios, que em 1995 lança Toy Story, primeiro longa em animação digital.
+
+#### - 1996 – A Apple compra a NeXT por US\$ 429 milhões para obter seu sistema operacional (base do futuro macOS).
+
+#### - 1997 – Steve Jobs retorna à Apple como conselheiro e, pouco depois, CEO interino ("iCEO").
+
+Início do processo de revitalização que levaria ao
+
+#### - iMac (1998)
+
+#### - iPod (2001)
+
+#### - iPhone (2007)
+
+#### - iPad (2010)
+
 ## Exercícios
 
 ------------------------------------------------------------------------
 
-| **Exercício 1:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------+
+| **Exercício 1:**                                                              |
++===============================================================================+
 | **Qual das seguintes competências é atribuída ao Conselho de Administração?** |
-| a) Executar as operações diárias da empresa. |
-| b) Definir a estratégia da empresa. |
-| c) Realizar auditorias financeiras internas detalhadas. |
-| d) Gerenciar o fluxo de caixa da empresa diretamente. |
-| e) Aprovar campanhas de marketing sem proposta do CEO. |
++-------------------------------------------------------------------------------+
+| a) Executar as operações diárias da empresa.                                  |
++-------------------------------------------------------------------------------+
+| b) Definir a estratégia da empresa.                                           |
++-------------------------------------------------------------------------------+
+| c) Realizar auditorias financeiras internas detalhadas.                       |
++-------------------------------------------------------------------------------+
+| d) Gerenciar o fluxo de caixa da empresa diretamente.                         |
++-------------------------------------------------------------------------------+
+| e) Aprovar campanhas de marketing sem proposta do CEO.                        |
++-------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 2:** |
-|------------------------------------------------------------------------|
++---------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 2:**                                                                                                                      |
++=======================================================================================================================================+
 | **De acordo com os documentos, qual é a principal definição do Conselho de Administração em uma empresa com governança corporativa?** |
-| a) É o órgão de fiscalização dos acionistas/cotistas. |
-| b) É responsável pela gestão operacional e tática da empresa. |
-| c) É o órgão de orientação estratégica de uma empresa. |
-| d) Fornece suporte técnico não deliberativo às decisões executivas. |
-| e) Implementa a estratégia definida pelos acionistas minoritários. |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| a) É o órgão de fiscalização dos acionistas/cotistas.                                                                                 |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| b) É responsável pela gestão operacional e tática da empresa.                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| c) É o órgão de orientação estratégica de uma empresa.                                                                                |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| d) Fornece suporte técnico não deliberativo às decisões executivas.                                                                   |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| e) Implementa a estratégia definida pelos acionistas minoritários.                                                                    |
++---------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 3:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------+
+| **Exercício 3:**                                                              |
++===============================================================================+
 | **Uma boa prática atual para a formação do Conselho de Administração é que:** |
-| a) Seja formado exclusivamente por executivos da própria empresa. |
-| b) Tenha o menor número possível de conselheiros independentes. |
-| c) O maior número possível de conselheiros seja independente. |
-| d) Seja composto apenas por acionistas majoritários. |
-| e) Seus membros sejam eleitos para mandatos vitalícios. |
++-------------------------------------------------------------------------------+
+| a) Seja formado exclusivamente por executivos da própria empresa.             |
++-------------------------------------------------------------------------------+
+| b) Tenha o menor número possível de conselheiros independentes.               |
++-------------------------------------------------------------------------------+
+| c) O maior número possível de conselheiros seja independente.                 |
++-------------------------------------------------------------------------------+
+| d) Seja composto apenas por acionistas majoritários.                          |
++-------------------------------------------------------------------------------+
+| e) Seus membros sejam eleitos para mandatos vitalícios.                       |
++-------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 4:** |
-|------------------------------------------------------------------------|
-| **O Conselho Consultivo é caracterizado por ser um órgão:** |
-| a) Deliberativo com poder de veto sobre o Conselho de Administração. |
-| b) Composto obrigatoriamente por auditores independentes. |
++-----------------------------------------------------------------------------------+
+| **Exercício 4:**                                                                  |
++===================================================================================+
+| **O Conselho Consultivo é caracterizado por ser um órgão:**                       |
++-----------------------------------------------------------------------------------+
+| a) Deliberativo com poder de veto sobre o Conselho de Administração.              |
++-----------------------------------------------------------------------------------+
+| b) Composto obrigatoriamente por auditores independentes.                         |
++-----------------------------------------------------------------------------------+
 | c) Não deliberativo, mas que dá suporte às decisões do Conselho de Administração. |
-| d) Exclusivamente responsável pela eleição e destituição do CEO. |
-| e) Mandatório para todas as empresas com governança corporativa. |
++-----------------------------------------------------------------------------------+
+| d) Exclusivamente responsável pela eleição e destituição do CEO.                  |
++-----------------------------------------------------------------------------------+
+| e) Mandatório para todas as empresas com governança corporativa.                  |
++-----------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 5:** |
-|------------------------------------------------------------------------|
-| Em qual das seguintes situações o Conselho Consultivo é recomendado? |
-| a) Para empresas com um Conselho de Administração formado majoritariamente por conselheiros independentes. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 5:**                                                                                                                                                           |
++============================================================================================================================================================================+
+| Em qual das seguintes situações o Conselho Consultivo é recomendado?                                                                                                       |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| a) Para empresas com um Conselho de Administração formado majoritariamente por conselheiros independentes.                                                                 |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | b) Para empresas cujo Conselho de Administração seja formado por conselheiros acionistas/cotistas (portanto, não independentes) e que necessitem de competências técnicas. |
-| c) Apenas para empresas já com uma arquitetura de governança corporativa consolidada. |
-| d) Quando a empresa deseja transferir a responsabilidade pela definição da estratégia. |
-| e) Como substituto do Conselho Fiscal em empresas de grande porte. |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| c) Apenas para empresas já com uma arquitetura de governança corporativa consolidada.                                                                                      |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| d) Quando a empresa deseja transferir a responsabilidade pela definição da estratégia.                                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| e) Como substituto do Conselho Fiscal em empresas de grande porte.                                                                                                         |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 6:** |
-|------------------------------------------------------------------------|
++---------------------------------------------------------------------------------------+
+| **Exercício 6:**                                                                      |
++=======================================================================================+
 | **Qual é uma característica fundamental do Conselho Fiscal, conforme os documentos?** |
-| a) É um órgão obrigatório para todas as sociedades anônimas. |
-| b) Tem como objetivo principal definir a estratégia da empresa. |
-| c) É um órgão não obrigatório. |
-| d) Atua como órgão de orientação estratégica. |
-| e) É o responsável pela aprovação da escolha de todos os executivos da empresa. |
++---------------------------------------------------------------------------------------+
+| a) É um órgão obrigatório para todas as sociedades anônimas.                          |
++---------------------------------------------------------------------------------------+
+| b) Tem como objetivo principal definir a estratégia da empresa.                       |
++---------------------------------------------------------------------------------------+
+| c) É um órgão não obrigatório.                                                        |
++---------------------------------------------------------------------------------------+
+| d) Atua como órgão de orientação estratégica.                                         |
++---------------------------------------------------------------------------------------+
+| e) É o responsável pela aprovação da escolha de todos os executivos da empresa.       |
++---------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 7:** |
-|------------------------------------------------------------------------|
-| **O principal objetivo do Conselho Fiscal é:** |
-| a) Eleger e destituir o principal executivo da empresa. |
-| b) Acompanhar a gestão e monitorar os riscos estratégicos. |
++------------------------------------------------------------------------------------------------------+
+| **Exercício 7:**                                                                                     |
++======================================================================================================+
+| **O principal objetivo do Conselho Fiscal é:**                                                       |
++------------------------------------------------------------------------------------------------------+
+| a) Eleger e destituir o principal executivo da empresa.                                              |
++------------------------------------------------------------------------------------------------------+
+| b) Acompanhar a gestão e monitorar os riscos estratégicos.                                           |
++------------------------------------------------------------------------------------------------------+
 | c) Fiscalizar os atos da administração, verificar o compliance e dar informações seguras aos sócios. |
-| d) Propor a dispensa dos auditores independentes. |
-| e) Aprovar a escolha de novos membros para o Conselho de Administração. |
++------------------------------------------------------------------------------------------------------+
+| d) Propor a dispensa dos auditores independentes.                                                    |
++------------------------------------------------------------------------------------------------------+
+| e) Aprovar a escolha de novos membros para o Conselho de Administração.                              |
++------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 8:** |
-|------------------------------------------------------------------------|
-| **Qual das seguintes afirmações diferencia corretamente o Conselho de Administração do Conselho Consultivo?** |
-| a) O Conselho de Administração é não deliberativo, enquanto o Consultivo define a estratégia. |
-| b) O Conselho de Administração elege o CEO, e o Consultivo aprova a sua dispensa. |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 8:**                                                                                                                          |
++===========================================================================================================================================+
+| **Qual das seguintes afirmações diferencia corretamente o Conselho de Administração do Conselho Consultivo?**                             |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| a) O Conselho de Administração é não deliberativo, enquanto o Consultivo define a estratégia.                                             |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| b) O Conselho de Administração elege o CEO, e o Consultivo aprova a sua dispensa.                                                         |
++-------------------------------------------------------------------------------------------------------------------------------------------+
 | c) O Conselho de Administração é o órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte. |
-| d) O Conselho Consultivo é obrigatório para empresas em fase inicial, enquanto o de Administração é opcional. |
-| e) Ambos os conselhos têm como principal objetivo a fiscalização dos atos da administração. |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| d) O Conselho Consultivo é obrigatório para empresas em fase inicial, enquanto o de Administração é opcional.                             |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| e) Ambos os conselhos têm como principal objetivo a fiscalização dos atos da administração.                                               |
++-------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 9:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 9:**                                                                                                                          |
++===========================================================================================================================================+
 | **Quando se trata da aprovação de outros executivos (além do CEO), qual é o procedimento estabelecido para o Conselho de Administração?** |
-| a) O Conselho de Administração escolhe e aprova diretamente todos os executivos. |
-| b) A aprovação da escolha ou dispensa dos demais executivos ocorre sob proposta do executivo principal (CEO). |
-| c) Apenas o Conselho Fiscal tem competência para aprovar a escolha ou dispensa de outros executivos. |
-| d) É uma responsabilidade exclusiva do Conselho Consultivo. |
-| e) Os acionistas minoritários têm o poder final de aprovação de todos os executivos. |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| a) O Conselho de Administração escolhe e aprova diretamente todos os executivos.                                                          |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| b) A aprovação da escolha ou dispensa dos demais executivos ocorre sob proposta do executivo principal (CEO).                             |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| c) Apenas o Conselho Fiscal tem competência para aprovar a escolha ou dispensa de outros executivos.                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| d) É uma responsabilidade exclusiva do Conselho Consultivo.                                                                               |
++-------------------------------------------------------------------------------------------------------------------------------------------+
+| e) Os acionistas minoritários têm o poder final de aprovação de todos os executivos.                                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 10:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 10:**                                                                                                             |
++===============================================================================================================================+
 | **Além de fiscalizar os atos da administração e verificar o compliance, o Conselho Fiscal deve ser visto como um órgão que:** |
-| a) Define as diretrizes para a política de dividendos. |
-| b) Possui instrumentos que visam agregar valor à sociedade. |
-| c) Realiza a gestão de crises e recuperação judicial. |
-| d) É responsável pela expansão internacional da empresa. |
-| e) Tem a função de negociar fusões e aquisições. |
++-------------------------------------------------------------------------------------------------------------------------------+
+| a) Define as diretrizes para a política de dividendos.                                                                        |
++-------------------------------------------------------------------------------------------------------------------------------+
+| b) Possui instrumentos que visam agregar valor à sociedade.                                                                   |
++-------------------------------------------------------------------------------------------------------------------------------+
+| c) Realiza a gestão de crises e recuperação judicial.                                                                         |
++-------------------------------------------------------------------------------------------------------------------------------+
+| d) É responsável pela expansão internacional da empresa.                                                                      |
++-------------------------------------------------------------------------------------------------------------------------------+
+| e) Tem a função de negociar fusões e aquisições.                                                                              |
++-------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 11:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------+
+| **Exercício 11:**                                                             |
++===============================================================================+
 | **Qual das seguintes competências é atribuída ao Conselho de Administração?** |
-| a) Gerenciar a folha de pagamento da empresa. |
-| b) Desenvolver o plano de marketing de produtos. |
-| c) Realizar auditorias contábeis detalhadas. |
-| d) Indicar e substituir os auditores independentes. |
-| e) Aprovar investimentos sem análise prévia. |
++-------------------------------------------------------------------------------+
+| a) Gerenciar a folha de pagamento da empresa.                                 |
++-------------------------------------------------------------------------------+
+| b) Desenvolver o plano de marketing de produtos.                              |
++-------------------------------------------------------------------------------+
+| c) Realizar auditorias contábeis detalhadas.                                  |
++-------------------------------------------------------------------------------+
+| d) Indicar e substituir os auditores independentes.                           |
++-------------------------------------------------------------------------------+
+| e) Aprovar investimentos sem análise prévia.                                  |
++-------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 12:** |
-|------------------------------------------------------------------------|
++-----------------------------------------------------------------------------------------------------------------------+
+| **Exercício 12:**                                                                                                     |
++=======================================================================================================================+
 | **Quem tem a competência para eleger e destituir o principal executivo de uma empresa, de acordo com os documentos?** |
-| a) O Conselho Fiscal. |
-| b) Os acionistas minoritários. |
-| c) O Conselho de Administração. |
-| d) O Conselho Consultivo. |
-| e) Os próprios executivos da empresa. |
++-----------------------------------------------------------------------------------------------------------------------+
+| a) O Conselho Fiscal.                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------+
+| b) Os acionistas minoritários.                                                                                        |
++-----------------------------------------------------------------------------------------------------------------------+
+| c) O Conselho de Administração.                                                                                       |
++-----------------------------------------------------------------------------------------------------------------------+
+| d) O Conselho Consultivo.                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------+
+| e) Os próprios executivos da empresa.                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 13:** |
-|------------------------------------------------------------------------|
++----------------------------------------------------------------------------------------------------------------------+
+| **Exercício 13:**                                                                                                    |
++======================================================================================================================+
 | **O Conselho Consultivo é recomendado para empresas que necessitam de competências técnicas, especialmente quando:** |
-| a) O Conselho Fiscal é o único órgão de governança existente. |
-| b) O CEO já possui todas as competências necessárias. |
-| c) O Conselho de Administração é formado por conselheiros acionistas/cotistas (portanto, não independentes). |
-| d) A empresa já está em estágio avançado de maturidade de governança. |
-| e) A intenção é transformar o conselho consultivo em deliberativo. |
++----------------------------------------------------------------------------------------------------------------------+
+| a) O Conselho Fiscal é o único órgão de governança existente.                                                        |
++----------------------------------------------------------------------------------------------------------------------+
+| b) O CEO já possui todas as competências necessárias.                                                                |
++----------------------------------------------------------------------------------------------------------------------+
+| c) O Conselho de Administração é formado por conselheiros acionistas/cotistas (portanto, não independentes).         |
++----------------------------------------------------------------------------------------------------------------------+
+| d) A empresa já está em estágio avançado de maturidade de governança.                                                |
++----------------------------------------------------------------------------------------------------------------------+
+| e) A intenção é transformar o conselho consultivo em deliberativo.                                                   |
++----------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 14:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 14:**                                                                                                             |
++===============================================================================================================================+
 | **Além de ser recomendado para empresas com conselheiros acionistas/cotistas, o Conselho Consultivo também é indicado para:** |
-| a) Empresas que buscam reduzir seus custos operacionais. |
-| b) Empresas com estrutura de governança corporativa já completamente implementada. |
-| c) Empresas que estejam na fase inicial de implantação de uma arquitetura de governança corporativa. |
-| d) Empresas que não possuem um Conselho de Administração formal. |
-| e) Empresas que desejam transferir responsabilidades operacionais. |
++-------------------------------------------------------------------------------------------------------------------------------+
+| a) Empresas que buscam reduzir seus custos operacionais.                                                                      |
++-------------------------------------------------------------------------------------------------------------------------------+
+| b) Empresas com estrutura de governança corporativa já completamente implementada.                                            |
++-------------------------------------------------------------------------------------------------------------------------------+
+| c) Empresas que estejam na fase inicial de implantação de uma arquitetura de governança corporativa.                          |
++-------------------------------------------------------------------------------------------------------------------------------+
+| d) Empresas que não possuem um Conselho de Administração formal.                                                              |
++-------------------------------------------------------------------------------------------------------------------------------+
+| e) Empresas que desejam transferir responsabilidades operacionais.                                                            |
++-------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 15:** |
-|------------------------------------------------------------------------|
++-----------------------------------------------------------------------------------------------------------+
+| **Exercício 15:**                                                                                         |
++===========================================================================================================+
 | **Para quem o Conselho Fiscal atua como órgão de fiscalização, de acordo com as informações fornecidas?** |
-| a) Para os credores da empresa. |
-| b) Para os funcionários da empresa. |
-| c) Para a administração executiva. |
-| d) Para os acionistas/cotistas. |
-| e) Para o Conselho de Administração. |
++-----------------------------------------------------------------------------------------------------------+
+| a) Para os credores da empresa.                                                                           |
++-----------------------------------------------------------------------------------------------------------+
+| b) Para os funcionários da empresa.                                                                       |
++-----------------------------------------------------------------------------------------------------------+
+| c) Para a administração executiva.                                                                        |
++-----------------------------------------------------------------------------------------------------------+
+| d) Para os acionistas/cotistas.                                                                           |
++-----------------------------------------------------------------------------------------------------------+
+| e) Para o Conselho de Administração.                                                                      |
++-----------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -232,74 +389,123 @@ Atualmente, é considerada uma boa prática a formação do Conselho de Administ
 
 ------------------------------------------------------------------------
 
-| **Exercício 17:** |
-|------------------------------------------------------------------------|
-| **Como o Conselho Fiscal deve ser visto em relação à sociedade da empresa?** |
-| a) Como um órgão puramente burocrático. |
-| b) Como um controle secundário sem impacto real. |
++-------------------------------------------------------------------------------+
+| **Exercício 17:**                                                             |
++===============================================================================+
+| **Como o Conselho Fiscal deve ser visto em relação à sociedade da empresa?**  |
++-------------------------------------------------------------------------------+
+| a) Como um órgão puramente burocrático.                                       |
++-------------------------------------------------------------------------------+
+| b) Como um controle secundário sem impacto real.                              |
++-------------------------------------------------------------------------------+
 | c) Como um órgão que possui instrumentos que visam agregar valor à sociedade. |
-| d) Como um substituto para a auditoria externa. |
-| e) Como o principal definidor das estratégias de marketing. |
++-------------------------------------------------------------------------------+
+| d) Como um substituto para a auditoria externa.                               |
++-------------------------------------------------------------------------------+
+| e) Como o principal definidor das estratégias de marketing.                   |
++-------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 18:** |
-|------------------------------------------------------------------------|
++------------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício 18:**                                                                                                                        |
++==========================================================================================================================================+
 | **A principal diferença entre o Conselho de Administração e o Conselho Consultivo reside no fato de que o Conselho de Administração é:** |
-| a) Não obrigatório, enquanto o Consultivo é sempre obrigatório. |
-| b) Focado em fiscalizar, enquanto o Consultivo define a estratégia. |
-| c) Um órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte. |
-| d) Composto apenas por independentes, enquanto o Consultivo é de acionistas. |
-| e) Responsável pela gestão diária, enquanto o Consultivo oferece apenas opiniões. |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| a) Não obrigatório, enquanto o Consultivo é sempre obrigatório.                                                                          |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| b) Focado em fiscalizar, enquanto o Consultivo define a estratégia.                                                                      |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| c) Um órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte.                             |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| d) Composto apenas por independentes, enquanto o Consultivo é de acionistas.                                                             |
++------------------------------------------------------------------------------------------------------------------------------------------+
+| e) Responsável pela gestão diária, enquanto o Consultivo oferece apenas opiniões.                                                        |
++------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 19:** |
-|------------------------------------------------------------------------|
++-------------------------------------------------------------------------------------------------+
+| **Exercício 19:**                                                                               |
++=================================================================================================+
 | **Qual órgão é classificado como "não obrigatório" entre os listados, conforme os documentos?** |
-| a) Conselho de Administração. |
-| b) Conselho Fiscal. |
-| c) Conselho Executivo. |
-| d) Conselho de acionistas majoritários. |
-| e) Conselho Estratégico. |
++-------------------------------------------------------------------------------------------------+
+| a) Conselho de Administração.                                                                   |
++-------------------------------------------------------------------------------------------------+
+| b) Conselho Fiscal.                                                                             |
++-------------------------------------------------------------------------------------------------+
+| c) Conselho Executivo.                                                                          |
++-------------------------------------------------------------------------------------------------+
+| d) Conselho de acionistas majoritários.                                                         |
++-------------------------------------------------------------------------------------------------+
+| e) Conselho Estratégico.                                                                        |
++-------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Exercício 20:** |
-|------------------------------------------------------------------------|
++--------------------------------------------------------------------------------------------+
+| **Exercício 20:**                                                                          |
++============================================================================================+
 | **Além de fiscalizar os atos da administração, o Conselho Fiscal também tem a função de:** |
-| a) Acompanhar a gestão de riscos e aprovar investimentos. |
-| b) Indicar e substituir os diretores de área. |
-| c) Atuar como um controle independente para os sócios. |
-| d) Propor a reestruturação da empresa em caso de crise. |
-| e) Determinar a política de remuneração da alta gerência. |
++--------------------------------------------------------------------------------------------+
+| a) Acompanhar a gestão de riscos e aprovar investimentos.                                  |
++--------------------------------------------------------------------------------------------+
+| b) Indicar e substituir os diretores de área.                                              |
++--------------------------------------------------------------------------------------------+
+| c) Atuar como um controle independente para os sócios.                                     |
++--------------------------------------------------------------------------------------------+
+| d) Propor a reestruturação da empresa em caso de crise.                                    |
++--------------------------------------------------------------------------------------------+
+| e) Determinar a política de remuneração da alta gerência.                                  |
++--------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
 ## Respostas
 
-| **Exercício** | **Resposta Correta** |
-|-------------|-----------------------------------------------------------|
-| **1** | b) Definir a estratégia da empresa. |
-| **2** | c) É o órgão de orientação estratégica de uma empresa. |
-| **3** | c) O maior número possível de conselheiros seja independente. |
-| **4** | c) Não deliberativo, mas que dá suporte às decisões do Conselho de Administração. |
-| **5** | b) Para empresas cujo Conselho de Administração seja formado por conselheiros acionistas/cotistas (portanto, não independentes) e que necessitem de competências técnicas. |
-| **6** | c) É um órgão não obrigatório. |
-| **7** | c) Fiscalizar os atos da administração, verificar o compliance e dar informações seguras aos sócios. |
-| **8** | c) O Conselho de Administração é o órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte. |
-| **9** | b) A aprovação da escolha ou dispensa dos demais executivos ocorre sob proposta do executivo principal (CEO). |
-| **10** | b) Possui instrumentos que visam agregar valor à sociedade. |
-| **11** | d) Indicar e substituir os auditores independentes. |
-| **12** | c) O Conselho de Administração. |
-| **13** | c) O Conselho de Administração é formado por conselheiros acionistas/cotistas (portanto, não independentes). |
-| **14** | c) Empresas que estejam na fase inicial de implantação de uma arquitetura de governança corporativa. |
-| **15** | d) Para os acionistas/cotistas. |
-| **16** | c) Verificar o compliance e dar informações seguras aos sócios. |
-| **17** | c) Como um órgão que possui instrumentos que visam agregar valor à sociedade. |
-| **18** | c) Um órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte. |
-| **19** | b) Conselho Fiscal. |
-| **20** | c) Atuar como um controle independente para os sócios. |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Exercício** | **Resposta Correta**                                                                                                                                                       |
++===============+============================================================================================================================================================================+
+| **1**         | b) Definir a estratégia da empresa.                                                                                                                                        |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **2**         | c) É o órgão de orientação estratégica de uma empresa.                                                                                                                     |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **3**         | c) O maior número possível de conselheiros seja independente.                                                                                                              |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **4**         | c) Não deliberativo, mas que dá suporte às decisões do Conselho de Administração.                                                                                          |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **5**         | b) Para empresas cujo Conselho de Administração seja formado por conselheiros acionistas/cotistas (portanto, não independentes) e que necessitem de competências técnicas. |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **6**         | c) É um órgão não obrigatório.                                                                                                                                             |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **7**         | c) Fiscalizar os atos da administração, verificar o compliance e dar informações seguras aos sócios.                                                                       |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **8**         | c) O Conselho de Administração é o órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte.                                  |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **9**         | b) A aprovação da escolha ou dispensa dos demais executivos ocorre sob proposta do executivo principal (CEO).                                                              |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **10**        | b) Possui instrumentos que visam agregar valor à sociedade.                                                                                                                |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **11**        | d) Indicar e substituir os auditores independentes.                                                                                                                        |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **12**        | c) O Conselho de Administração.                                                                                                                                            |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **13**        | c) O Conselho de Administração é formado por conselheiros acionistas/cotistas (portanto, não independentes).                                                               |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **14**        | c) Empresas que estejam na fase inicial de implantação de uma arquitetura de governança corporativa.                                                                       |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **15**        | d) Para os acionistas/cotistas.                                                                                                                                            |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **16**        | c) Verificar o compliance e dar informações seguras aos sócios.                                                                                                            |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **17**        | c) Como um órgão que possui instrumentos que visam agregar valor à sociedade.                                                                                              |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **18**        | c) Um órgão de orientação estratégica e deliberativo, enquanto o Consultivo é não deliberativo e de suporte.                                                               |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **19**        | b) Conselho Fiscal.                                                                                                                                                        |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **20**        | c) Atuar como um controle independente para os sócios.                                                                                                                     |
++---------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Referências
 
