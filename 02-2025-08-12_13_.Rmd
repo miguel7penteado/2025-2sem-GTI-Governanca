@@ -30,7 +30,7 @@ a
 -   **Efetivo:** NÚMERO DE SÓCIOS
 
 | EFETIVO CASO DE GRANDE NÚMERO DE SÓCIOS |   |
-|:--------------------------------:|--------------------------------------|
+|:--:|----|
 | ***EMPRESA S/A (CAPITAL ABERTO)*** | ![](images/02-2025-08-12_13/00-PetroBras.jpg) |
 
 ------------------------------------------------------------------------
@@ -40,7 +40,7 @@ a
 -   **Potencial:** futuro número de sócios !
 
     | POTENCIAL CASO DE AUMENTO DE SÓCIOS |   |
-    |:------------------------:|:--------------------------------------------:|
+    |:--:|:--:|
     | **FUSÕES** | ![](images/02-2025-08-12_13/04-Fusao_Corporativa.jpg){width="237"} |
     | **AQUISIÇÕES** |  |
     | **INCORPORAÇÕES** |  |
@@ -186,7 +186,7 @@ a
 ------------------------------------------------------------------------
 
 | Questão 1: |
-|------------------------------------------------------------------------|
+|----|
 | **Qual dos seguintes modelos de governança corporativa tem como principal fonte de financiamento o mercado de capitais, com as ações sendo a base da capitalização?** |
 | a) Modelo Alemão |
 | b) Modelo Anglo-Saxão |
@@ -197,7 +197,7 @@ a
 ------------------------------------------------------------------------
 
 | Questão 2: |
-|------------------------------------------------------------------------|
+|----|
 | **A estrutura de propriedade pulverizada, onde são raros os acionistas com mais de 10% do capital, é uma característica definidora de qual modelo?** |
 | a) Modelo Alemão |
 | b) Modelo Japonês |
@@ -208,7 +208,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 3:** |
-|------------------------------------------------------------------------|
+|----|
 | **Em qual modelo o conflito de agência fundamental ocorre entre acionistas e gestores, devido à separação entre propriedade e gestão?** |
 | a) Modelo Latino-Americano |
 | b) Modelo Japonês |
@@ -219,7 +219,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 4:** |
-|------------------------------------------------------------------------|
+|----|
 | **O 'keiretsu', um grupo de empresas relacionadas pela posse cruzada de ações, é uma característica do controle acionário de qual modelo?** |
 | a) Modelo Alemão |
 | b) Modelo Anglo-Saxão |
@@ -230,7 +230,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 5:** |
-|------------------------------------------------------------------------|
+|----|
 | **Qual modelo é caracterizado por uma fraca proteção legal aos acionistas minoritários, alta proporção de ações sem direito a voto e gestão exercida pelos acionistas majoritários?** |
 | a) Modelo Anglo-Saxão |
 | b) Modelo Alemão |
@@ -241,7 +241,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 6:** |
-|------------------------------------------------------------------------|
+|----|
 | **O poder proeminente dos bancos, que monitoram os interesses dos credores e estabelecem relações duradouras com as empresas, é uma marca de qual modelo de governança?** |
 | a) Modelo Alemão |
 | b) Modelo Anglo-Saxão |
@@ -252,7 +252,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 7:** |
-|------------------------------------------------------------------------|
+|----|
 | **Em qual dos modelos a sobreposição entre propriedade e gestão é a norma, com conflitos de agência sendo considerados 'insignificantes'?** |
 | a) Modelo Anglo-Saxão |
 | b) Modelo Japonês |
@@ -263,7 +263,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 8:** |
-|------------------------------------------------------------------------|
+|----|
 | **A fraca proteção a minoritários, típica do Direito Civil francês e com baixo *enforcement*, resultando em mercados de capitais pouco desenvolvidos, é a descrição de qual modelo?** |
 | a) Modelo Latino-Americano |
 | b) Modelo Anglo-Saxão |
@@ -274,7 +274,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 9:** |
-|------------------------------------------------------------------------|
+|----|
 | **Qual é a principal diferença entre o conflito de agência do modelo Anglo-Saxão e o do modelo Latino-Americano?** |
 | a) No Anglo-Saxão o conflito é entre credores e acionistas; no Latino-Americano é entre gestores e governo. |
 | b) Não há diferenças significativas, ambos focam no conflito entre gestores e acionistas. |
@@ -285,7 +285,7 @@ a
 ------------------------------------------------------------------------
 
 | **Questão 10:** |
-|------------------------------------------------------------------------|
+|----|
 | **Comparando os modelos Alemão e Japonês, o que eles têm em comum em relação ao financiamento predominante?** |
 | a) Ambos dependem primariamente do mercado de capitais e da emissão de ações. |
 | b) Ambos têm um financiamento indefinido, com forte presença de empresas familiares. |
