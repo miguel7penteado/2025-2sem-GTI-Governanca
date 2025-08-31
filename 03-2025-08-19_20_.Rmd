@@ -10,6 +10,8 @@
 
 ## **A Assembleia Geral**
 
+![](images/03-2025-08-19_20/00-assembleia_cotistas.jpg){width="513"}
+
 ![](images/03-2025-08-19_20/01-assembleia_cotistas.jpg){width="515"}
 
 É definida como a **reunião de acionistas ou cotistas**.
@@ -114,88 +116,144 @@ $$
 
 (Etapa 2 de Investimento: tipo Seed Capital -\> Investidor "Anjo")
 
-![](images/03-2025-08-19_20/exercicio-01.jpg){width="1026"}
+![](images/03-2025-08-19_20/exercicio-01.jpg){width="684"}
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| EXEMPLO 1 - Você é o único fundador da startup "**Tech-Solve**" e possui 1.000.000 (um mihão) de cotas da empresa, que representam 100% do **EQUITY**. Um investidor anjo (seed capital) se interessa em investir. O valuation (valor da empresa antes do investimento) é de **R\$ 5.000.000,00** . O investidor quer injetar um capital de **R\$ 1.000.000** na empresa. Para **não perder a maioria**, qual o **número máximo de cotas** você pode ceder a ele, considerando que cada cota tem um valor unitário? |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| a) 250.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| b) 200.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| c) 150.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| d) 100.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| EXEMPLO 1 - Você é o único fundador da startup "**Tech-Solve**" e possui 1.000.000 (um mihão) de cotas da empresa, que representam 100% do **EQUITY**. Um investidor anjo (seed capital) se interessa em investir. O valuation (valor da empresa antes do investimento) é de **R\$ 5.000.000,00** . O investidor quer injetar um capital de **R\$ 1.000.000** na empresa. Descubra: |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+| I)  Com quantas cotas o fundador original ficou após o aporte (investimento) de R\$ 1.000.000,00 (um milhão de reiais) ?                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+| II) Qual a participação no Capital Social da empresa de cada sócio após o investimento ?                                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+| III) Quantas cotas receberá o investidor ( então novo sócio da **Tech-Solve**) após o seu investimento ?                                                                                                                                                                                                                                                                            |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+| IV) Qual o valor máximo que um investidor poderia aportar (colocar na empresa), sem que o dono original perca a majoridade ?                                                                                                                                                                                                                                                        |
+|                                                                                                                                                                                                                                                                                                                                                                                     |
+| Para **não perder a maioria**, qual o **número máximo de cotas** você pode ceder a ele, considerando que cada cota tem um valor unitário?                                                                                                                                                                                                                                           |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-### Resolução:
+### Resolução do Exercício I:
 
-O primeiro exemplo trata de um conceito fundamental para qualquer fundador de startup: a diluição do equity. O objetivo é calcular quantas cotas o **investidor anjo** deve receber para que ele injete **R\$ 1.000.000** na empresa.
+#### Item I - Com quantas cotas o fundador original ficou após o aporte (investimento) de R\$ 1.000.000,00 (um milhão de reiais) ?
 
-Vamos resolver o exercício passo a passo:
++-------------------+-----------------+------------------------+---------------------------------------+
+| Sócio em Análise  | COTAS ANTES     | INVESTIMENTO           | COTAS DEPOIS                          |
++===================+:===============:+:======================:+:=====================================:+
+| Sócio original    | ***1.000.000*** | N/A                    | ***1.000.000***                       |
+|                   |                 |                        |                                       |
+| (Sócio-Fundador)  |                 |                        |                                       |
++-------------------+-----------------+------------------------+---------------------------------------+
+| Sócio atual       | **0**           | ***R\$ 1.000.000,00*** | (ainda não sabemos) - calcular depois |
+|                   |                 |                        |                                       |
+| (Investidor-Anjo) |                 |                        |                                       |
++-------------------+-----------------+------------------------+---------------------------------------+
 
-**PASSO 1. Identifique o CAPITAL SOCIAL da empresa ANTES E APÓS a entrada do novo proprietário (ivestidor):**
+#### RESPOSTA ITEM I : "O antigo dono continuar com 1.000.000 (um milhão) de cotas".
 
-+------------------------+------------------------+------------------------+
-| CAPITAL SOCIAL ANTES   | INVESTIMENTO           | CAPITAL SOCIAL DEPOIS  |
-+:======================:+:======================:+:======================:+
-| ***R\$ 5.000.000,00*** | ***R\$ 1.000.000,00*** | ***R\$ 6.000.000,00*** |
-+------------------------+------------------------+------------------------+
+------------------------------------------------------------------------
 
-: CAPITAL SOCIAL DA EMPRESA
+#### Item II - Qual a participação no Capital Social da empresa de cada sócio após o investimento ?
 
-**PASSO 2. Calcular a participação do investidor (em percentual):**
+A participação do investidor é a porcentagem que o valor do aporte representa no valor da empresa após o aporte.
 
--   A participação do investidor é a porcentagem que o valor do aporte representa no valor da empresa após o aporte.
++-------------------+------------------------+------------------------+------------------------+
+| Sócio em Análise  | CAPITAL SOCIAL ANTES   | INVESTIMENTO           | CAPITAL SOCIAL DEPOIS  |
++===================+:======================:+:======================:+:======================:+
+| Sócio original    | ***R\$ 5.000.000,00*** | N/A                    | ***R\$ 5.000.000,00*** |
+|                   |                        |                        |                        |
+| (Sócio-Fundador)  |                        |                        |                        |
++-------------------+------------------------+------------------------+------------------------+
+| Sócio atual       | **R\$ 0,00**           | ***R\$ 1.000.000,00*** | ***R\$ 1.000.000,00*** |
+|                   |                        |                        |                        |
+| (Investidor-Anjo) |                        |                        |                        |
++-------------------+------------------------+------------------------+------------------------+
 
-$$
-\text{Se }  \text{ R\$ 6.000.000,00} \rightarrow \text{ 100% } \newline
-\quad \text{e} 
-\newline
-\newline 
-\quad \text{ R\$ 5.000.000,00 } \rightarrow x 
-\newline
-\quad (\text{ Sagrada Regra de 3 }),
-\newline
-\newline
-\qquad\frac{ R\$ 6.000.000,00 }{ R\$ 5.000.000,00}= 
-\frac{ 100 \% }{x}\;\;\Rightarrow\;\; 
-\newline
-\newline
-x=\frac{ [ (R\$ 5.000.000,00) * (100) ] }{ R\$ 6.000.000,00 }
-\newline
-x=\frac{ 5 }{6} * 100
-\newline
-x= (0,833333) * 100
-\newline
-x= 83,33\% \text{ Foi a percentagem de Capital Social restante ao dono original}
-$$
+: CAPITAL SOCIAL DA EMPRESA Total após o investimento: ***R\$ 6.000.000,00.***
 
 $$
-ParticipaçãoInvestidor = (\frac{ R$ 1.000.000}{ R$ 6.000.000}) * 100%
+\textbf{INICIALMENTE} \\
+\text{ } \\
+\text{ Capital Social total ORIGINAL (todo patrimônio do único dono original) } \\ 
+R\$ 5.000.000,00 \quad \rightarrow  100\%
+\text{ } \\
+\text{ } \\
+\textbf{AGORA - APÓS ENTRADA DO NOVO SÓCIO} \\
+\text{ } \\
+\text{Capital Social total FINAL (após o investimento de 1 milhão) } \\ 
+R\$ 6.000.000,00  \quad \rightarrow  100\%
+$$
+
+6 milhões é o dinheiro dos dois sócios somados. Destes R\$ 6 milhões totais, a parte do sócio original continua sendo R\$ 5 milhões.
+
+Assim podemos usar a regra de 3
+
+$$
+\frac{R\$ 6.000.000,00}{R\$ 5.000.000,00} = \frac{100\%}{x}
+$$
+
+Resolvendo:
+
+$$
+\textbf{Calculando a fatia de participação do dono original.} \\
+\text{ } \\
+x = \frac{(R\$ 5.000.000,00) \times 100}{R\$ 6.000.000,00} \\
+x = (\frac{5}{6}) \times 100 \\
+x \quad = \quad (0,8333 \times 100) \quad = \quad 83,33\%  \\
+\textbf{Portanto, 83,33% é agora participação de capital social restante ao dono original.} \\
+\text{ } \\
+ParticipaçãoInvestidor = (\frac{ R$ 1.000.000}{ R$ 6.000.000}) * 100% \\
 $$
 
 $$
-\text{Se }  \text{ R\$ 6.000.000,00} \rightarrow \text{ 100% } \newline
-\quad \text{e} 
-\newline
-\newline 
-\quad \text{ R\$ 1.000.000,00 } \rightarrow x 
-\newline
-\quad (\text{ Sagrada Regra de 3 }),
-\newline
-\newline
-\qquad\frac{ R\$ 6.000.000,00 }{ R\$ 1.000.000,00}= 
-\frac{ 100 \% }{x}\;\;\Rightarrow\;\; 
-\newline
-\newline
-x=\frac{ [ (R\$ 1.000.000,00) * (100) ] }{ R\$ 6.000.000,00 }
-\newline
-x=\frac{ 1 }{6} * 100
-\newline
-x= (0,1666666) * 100
-\newline
-x= 16,67\% \text{ É percentagem de Capital Social restante ao Novo Sócio - Investidor}
+\text{-----------------------------------------} \\
+\text{ CAPITAL SOCIAL DA EMPRESA INICIALMENTE  } \\
+\text{-----------------------------------------} \\
+\text{ } \\
+\text{Capital Social total ORIGINAL todo patrimônio do unico dono original } \rightarrow \text{ R \$ 5.000.000,00 } \rightarrow \text{ 100\% } \\
+\text{ } \\
+\text{-------------------------------------------------------} \\
+\text{ CAPITAL SOCIAL DA EMPRESA  APÓS ENTRADA DO NOVO SÓCIO } \\
+\text{-------------------------------------------------------} \\
+\text{ } \\
+\text{Capital Social total FINAL (após o investimento de 1 MILHÃO ) } \rightarrow \text{ R\$ 6.000.000,00} \rightarrow \text{ 100\% } \\
+\text{ } \\
+\text{6 milhões é o dinheiro dos DOIS SÓCIOS SOMADOS} \\
+\text{ } \\
+\text{ } \\
+\text{----------------------------------------------------------------} \\
+\text{ PARTICIPAÇÃO DO ANTIGO SÓCIO NO NOVO CAPITAL SOCIAL DA EMPRESA } \\
+\text{----------------------------------------------------------------} \\
+\text{ } \\
+\text{ aplicamos Regra de 3 } \\
+\text{ } \\
+\text{----------------} \\
+\qquad\frac{ R\$ 6.000.000,00 }{ R\$ 5.000.000,00}= \frac{ 100 \% }{x} \qquad \Rightarrow \qquad
+x=\frac{ [ (R\$ 5.000.000,00) * (100) ] }{ R\$ 6.000.000,00 } \\
+\text{ } \\
+x=\frac{ 5 }{6} * 100 \\
+\text{ } \\
+x= (0,833333) * 100 \\
+\text{ } \\
+x= 83,33\% \\
+\text{ O antigo dono, agora um sócio-fundador, possui } \quad \textbf{83,33%} \quad \text{de participação na empresa} \\
+\text{ } \\
+\text{----------------------------------------------------------------------------------------------} \\
+\text{ PARTICIPAÇÃO DO NOVO SÓCIO (o que entrou como investidior) NO NOVO CAPITAL SOCIAL DA EMPRESA } \\
+\text{----------------------------------------------------------------------------------------------} \\
+\text{ } \\
+\text{ aplicando novamente Regra de 3 } \\
+\text{ } \\
+\text{----------------} \\
+\qquad\frac{ R\$ 6.000.000,00 }{ R\$ 1.000.000,00}= \frac{ 100 \% }{x} \qquad \Rightarrow \qquad
+x=\frac{ [ (R\$ 1.000.000,00) * (100) ] }{ R\$ 6.000.000,00 } \\
+\text{ } \\
+x=\frac{ 1 }{6} * 100 \\
+\text{ } \\
+x= (0,16666666666) * 100 \\
+\text{ } \\
+x= 16,6666\% \\
+\text{ O novo sócio, agora um sócio-investidor, possui } \quad \textbf{16,66%} \quad \text{de participação na empresa} \\
+\text{ } \\
 $$
 
 +---------------+----------------------------------------------+----------------------------------------------------+
@@ -210,73 +268,89 @@ $$
 
 : Divisão de Percentual de Capital Social
 
-**3. Calcular o total de cotas após o aporte:**
+#### RESPOSTA ITEM II : "O primeiro sócio ficou com 83,33% de participação e o novo sócio (investidor) ficou com 16,66% de participação".
 
-I.  Você, como fundador, tem 1.000.000 de cotas, que representam 100% do valor da empresa antes do aporte.
+------------------------------------------------------------------------
 
-II. Para encontrar o número total de cotas após o aporte, podemos usar a seguinte fórmula:
+#### Item III - Quantas cotas receberá o investidor ( então novo sócio da **Tech-Solve**) após o seu investimento ?
 
-    $$
-    \text{Nova Quantidade de Quotas Totais após entrada de dinheiro} = \frac{ (Total\_Quotas\_Originais)}{(100\% - Participação\_Novo\_Investidor)}
-    \newline
-    \text{Total_Quotas_Originais} \Rightarrow 1.000.000 \text{  quotas }
-    \newline
-    \text{Participação Novo Investidor } \Rightarrow 16,67\%
-    \newline
-    \text{Nova Quantidade de Quotas Totais após entrada de dinheiro} = \frac{1.000.000}{ (100\% - 16,67\%}
-    \newline
-    \text{Nova Quantidade de Quotas Totais após entrada de dinheiro} = \frac{1.000.000}{ 1 - 0,1667}
-    \newline
-    \text{Nova Quantidade de Quotas Totais após entrada de dinheiro} = \frac{1.000.000}{ 0,83}
-    \newline
-    \text{Nova Quantidade de Quotas Totais após entrada de dinheiro} = \text{1.200.000 quotas}
-    $$
+$$
+\text{ } \\
+\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( TOTAL\_COTAS\_ORIGINAIS )}{(100\% - PARTICIPACAO\_NOVO\_INVESTIDOR\%)}
+\text{ } \\
+\text{TOTAL_COTAS_ORIGINAIS} \Rightarrow \quad \textbf{1.000.000} \quad  \text{ (um milhão de cotas) }
+\text{ } \\
+\text{PARTICIPACAO_NOVO_INVESTIDOR } \quad \Rightarrow \quad \textbf{16,67\%}
+\text{ } \\
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ (100\% - 16,67\%}
+\text{ } \\
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ 1 - 0,1667}
+\text{ } \\
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ 0,83}
+\text{ } \\
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \text{1.200.000 quotas}
+\text{ } \\
+\text{ Sabendo que a quantidade de cotas totais é de 1.200.000 (um milhão e duzentas cotas) e } \\
+\text{ } \\
+\text{ a participação do novo investidor é de 16,66% } \\
+\text{ } \\
+\text{ vamos usar a REGRA DE 3 para descobrir a quantidade cotas dele } \\
+\text{ } \\
+\qquad\frac{ 1.200.000 }{ x}= \frac{ 100 \% }{16,6666\%} \qquad \Rightarrow \qquad
+\frac{ [ ( x ) \times (100) ] }{ [ (16,6666 \%) \times (1.200.000) ] } \\
+100*x = (16,6666 ) \times (1.200.000) \\
+100*x = (16,6666 ) \times (1.200.000) \\
+\text{ } \\
+x=\frac{ [(1.200.000) \times (16,6666)] }{100}  \\
+\text{ } \\
+x= \frac{19.999.999,92}{100} \\
+x= 199.999,99 \\
+\text{ arredonda para} \quad \text{ x= 200.000 cotas } \\
+\text{ } \\
+x= 200.000
+\text{ O novo sócio, agora um sócio-investidor, possui } \quad \textbf{ 200.000 } \quad \text{cotas da empresa} \\
+\text{ } \\
+$$
 
-III. Sua nova quantidade de quotas subiu de 1.000.0000 para **1.200.000 quotas**
+#### RESPOSTA ITEM III : "O novo sócio (investidor) recebeu 200.000 (duzentas mil) cotas da empresa."
 
-**4. Calcular o número de cotas a serem cedidas ao investidor:**
+------------------------------------------------------------------------
 
-I.  $$
-    \text{Nova Quantidade de Quotas após entrada de dinheiro} = \text{1.200.000 quotas}
-    \newline
-    \text{Antigo Dono -  83,3% } \Rightarrow 1.000.000 \text{ continua com o mesmo número de quotas}
-    \newline
-    \text{Novo Dono -  Participação atual } \Rightarrow 16,67\%
-    \newline
-    \quad (\text{ Sagrada Regra de 3 }),
-    \newline
-    \newline
-    \qquad\frac{ 1.200.000 }{ x }= 
-    \frac{ 100 \% }{16,67\%}\;\;\Rightarrow\;\; 
-    \newline
-    \text{x} = \frac{(1.200.000) * (16,67) }{100}
-    \newline
-    \text{x} = \text{ 200.000 quotas}
-    \newline
-    \text{Novo Dono possui a seguinte quantidade de Quotas} = \text{ 200.000 quotas}
-    $$
+#### Item IV - Qual o valor máximo que um investidor poderia aportar (colocar na empresa), sem que o dono original perca a majoridade ?
 
-**Resposta correta:**
+$$
+\text{ O INVESTIDOR ORIGINAL SÓ PERDE A MAJORIDADE SE FICAR COM MENOS DE 51% DO CAPITAL SOCIAL} \\
+\text{ } \\
+\text{ COMO VIMOS NO EXERCÍCIO, ELE POSSUI 5 MILHÕES DE PARTICIPAÇÃO NO CAPITAL SOCIAL } \\
+\text{ } \\
+\text{ APÓS O NOVO SÓCIO TER INVESTIDO 1 MILHÃO, A EMPRESA PASSOU A TER 6 MILHÕES DE CAPITAL SOCIAL } \\
+\text{ } \\
+\text{ SENDO QUE DESTES 6 MILHÕES, 5 MILHÕES SÃO DO ANTIGO DONO (5 MILHÕES REPRESENTAM 83,33% DO VALOR TOTAL) } \\
+\text{ } \\
+\text{ A PERGUNTA AGORA SERIA: "QUAL VALOR TOTAL ONDE 5 MILHÕES REPRESENTAM 51% DELE") } \\
+\text{ } \\
+\text{ VAMOS UTILIZAR NOVAMENTE A REGRA DE 3} \\
+\text{ } \\
+\qquad\frac{ x }{ 5.000.000 }= \frac{ 100 \% }{51 \%} \qquad \Rightarrow \qquad
+\frac{ [ ( x ) \times (51) ] }{ [ ( 5.000.000 ) \times (100) ] } \\
+51*x = (5.000.000 ) \times (100) \\
+51*x = (500.000.000) \\
+\text{ } \\
+x=\frac{ 500.000.000 }{51}  \\
+\text{ } \\
+x= 9.803.921,5687 \\
+\text{ R\$ 9.803.921,5687 é o valor total de dinheiro em caixa onde R\$ 5.000.000,00 representam 51% deste valor } \\
+\text{ } \\
+\text{ Assim, sabendo que já tinhamos R\$ 5.000.000,00 em caixa, se o investidor investisse mais 4.803.921,5687 } \\
+\text{ o total em caixa chegava a R\$ 9.803.921,5687 DE CAPITAL SOCIAL , quantidade máxima de capital social total para que os 5 milhões do antigo dono } \\
+\text{ representassem 51% da participação na sociedade. } \\
+\text{ Um investidor pode investir no máximo } \textbf{R\$ 4.803.921,56 } \text{ para que o antigo dono ainda seja mandatário na empresa } \\
+\text{ } \\
+$$
 
-A alternativa **b) 200.000 cotas**.
+#### RESPOSTA ITEM IV : "o novo sócio poderia investir no máximo R\$ 4.803.921,56" para que o antigo sócio ainda continuasse mandatário da empresa.
 
-Resumo:
-
--   **Valor do Aporte:** R\$ 1.000.000
-
--   **Valuation Pré-Aporte:** R\$ 5.000.000
-
--   **Cotas Originais do Fundador:** 1.000.000
-
-1.  **Valuation Pós-Aporte** = R\$ 5.000.000 + R\$ 1.000.000 = **R\$ 6.000.000**
-
-2.  **Participação do Investidor** = (R\$ 1.000.000 / R\$ 6.000.000) \* 100 = **16,67%**
-
-3.  **Participação do Fundador Pós-Aporte** = 100% - 16,67% = **83,33%**
-
-4.  **Total de Cotas Pós-Aporte** = 1.000.000 / 0,8333 = **1.200.000 cotas**
-
-5.  **Cotas Cedidas ao Investidor** = 1.200.000 - 1.000.000 = **200.000 cotas**
+------------------------------------------------------------------------
 
 Você pode continuar a praticar com os próximos exercícios se quiser! Eles vão aprofundar a sua compreensão sobre como a diluição e o controle de propriedade funcionam ao longo do tempo.
 
@@ -290,17 +364,183 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 
 ![](images/03-2025-08-19_20/exercicio-02.jpg){width="675"}
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Exercício 2 - Após o aporte inicial, sua startup "Tech-Solve" tem agora 1.200.000 cotas e um Capital Social (valuation) de R\$ 10.000.000. Você ainda detém 1.000.000 de cotas. Um fundo de Venture Capital se propõe a investir R\$ 3.000.000. Para que você mantenha o controle majoritário da empresa (mais de 50% das cotas após o aporte), qual o número máximo de cotas que você pode ceder neste novo round? |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| a) 500.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| b) 428.571 cotas                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| c) 300.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| d) 250.000 cotas                                                                                                                                                                                                                                                                                                                                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                   | Exercício 2 - Após o aporte inicial, sua startup "Tech-Solve" tem agora 1.200.000 cotas e um Capital Social (valuation) de R\$ 10.000.000. Você ainda detém 1.000.000 de cotas. Um fundo de Venture Capital se propõe a investir R\$ 3.000.000. Para que você mantenha o controle majoritário da empresa (mais de 51% ou mais das cotas após o aporte), qual o número máximo de cotas que você pode ceder neste novo round? |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| a)  500.000 cotas |                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| b)  428.571 cotas |                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| c)  300.000 cotas |                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| d)  250.000 cotas |                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| e\. 760.784 cotas |                                                                                                                                                                                                                                                                                                                                                                                                                             |
++-------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+### Resolução do Exercício II:
+
+A empresa valorizou gerando valor por faturamento. Antes, eu e meu sócio-investidor tinhamos em caixa R\$ 6 milhões de CAPITAL SOCIAL.
+
+Agora, após faturamento de produção e crescimento orgânico, o CAPITAL SOCIAL da empresa aumentou de R\$ 6 milhões para R\$ 10 milhões.
+
+De toda forma, segundo o enunciado do exercício, eu continuo tendo 1.000.000 de cotas (83,333% de participação no CAPITAL SOCIAL), enquanto que o outro sócio (sócio-investidor do exercício anterior) continua tendo 200.000 cotas (que representam os mesmos 16,67% do capital social).
+
+Como o CAPITAL SOCIAL aumentou de R\$ 6 milhões (total do exercício anterior) para R\$ 10 milhões agora, preciso saber quanto destes R\$ 10 mihões são a minha parte ( "em reais" ) e quanto é a parte do meu sócio investidor atualmente.
+
+$$
+\begin{array}{c|c}
+\textbf{Quadro Societário}    & \textbf{Capital Social Original (R\$)} & \textbf{Capital Social Valorizado (R\$)} \\ 
+\hline 
+Sócio-FundadorOriginal        & 5.000.000,00 \quad (83,33\%) & ? \quad (83,33\%) \\
+Sócio-Investidor-1            & 1.000.000,00 \quad (16,67\%) & ? \quad (16,67\%) \\
+\hline
+\textbf{Total} & 6.000.000,00 \quad (100\%) & 10.000.000,00 \quad (100\%)
+\end{array}
+$$
+
+Vamos preencher a tabela
+
+$$
+\text{ 83,33% de R\$ 10.000.000,00 = R\$ 8.333.333,33} \\
+\text{ 16,66% de R\$ 10.000.000,00 = R\$ 1.666.666,66}
+\text{ } \\
+\text{Portanto, a tabela de capital social atual da empresa é a seguinte: } \\
+\text{ } \\
+\begin{array}{c|c}
+\textbf{Quadro Societário}    & \textbf{Capital Social Valorizado (R\$)} & \textbf{Cotas equivalentes} \\ 
+\hline 
+Sócio-FundadorOriginal        & 8.333.333,33 \quad (83,33\%) & 1.000.000 \\
+Sócio-Investidor-1            & 1.666.666,66 \quad (16,67\%) & 200.000 \\
+\hline
+\textbf{Total}  & 10.000.000,00 \quad (100\%) & 1.200.000
+\end{array}
+$$
+
+Agora temos um novo investidor, ou seja, candidato a terceiro sócio. Esse novo sócio quer investir R\$ 3.000.000,00 (três milhões de reais).
+
+$$
+\text{-----------------------------------------------} \\
+\text{ CENÁRIO DA ENTRADA DO TERCEIRO SÓCIO:         } \\
+\text{-----------------------------------------------} \\
+\text{ } \\
+\text{ ? % de R\$ 13.000.000,00 = R\$ 8.333.333,33} \\
+\text{ ? % de R\$ 13.000.000,00 = R\$ 1.666.666,66} \\
+\text{ ? % de R\$ 13.000.000,00 = R\$ 3.000.000,00} \\
+\text{ } \\
+\text{Portanto, a tabela de capital social atual da empresa é a seguinte: } \\
+\text{ } \\
+\begin{array}{c|c}
+\textbf{Quadro Societário}    & \textbf{Capital Social Valorizado (R\$)} & \textbf{Cotas equivalentes} \\ 
+\hline 
+Sócio-FundadorOriginal        & 8.333.333,33 \quad (? \%) & 1.000.000 \\
+Sócio-Investidor-1            & 1.666.666,66 \quad (? \%) & 200.000 \\
+Sócio-Investidor-2            & 3.000.000,00 \quad (? \%) &  ? \\
+\hline
+\textbf{Total}  & 13.000.000,00 \quad (100\%) & ?
+\end{array}
+$$
+
+Vamos descobrir qual a participação do novo sócio no capital social da empresa. Desta forma, em seguida, podemos descobrir quantas cotas iremos emitir para ele.
+
+$$
+\text{ ? % de R\$ 13.000.000,00 = R\$ 8.333.333,33} \\ 
+\text{ ? % de R\$ 13.000.000,00 = R\$ 1.666.666,66} \\ 
+\text{ ? % de R\$ 13.000.000,00 = R\$ 3.000.000,00} \\ 
+\text{ } \\ 
+\text{-----------------------------------------------} \\ 
+\text{ REGRA DE 3:                                   } \\ 
+\text{-----------------------------------------------} \\ 
+\text{ } \\ 
+\frac{13.000.000,00}{3.000.000,00} = \frac{100\%}{x\%} \\ 
+x=\frac{[ (3.000.000,00) \times (100) ]}{13.000.000,00} \\ 
+x=\frac{300.000.000,00}{13.000.000,00} \\ 
+x= 23,07692 \% 
+\text{ } \\ 
+\text{ AGORA, SABENDO DA PARTICIPAÇÃO DO TERCEIRO SÓCIO, PODEMOS SABER QUANTAS COTAS DEVEMOS EMITIR PARA ELE } \\ 
+\text{ } \\
+\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( TOTAL\_COTAS\_ORIGINAIS )}{(100\% - PARTICIPACAO\_NOVO\_INVESTIDOR\%)} 
+\text{ } \\ 
+\text{TOTAL_COTAS_ORIGINAIS} \Rightarrow \quad \textbf{1.200.000} \quad \\ 
+\text{ (um milhão duzentas mil cotas) } \\ 
+\text{ } \\ 
+\text{PARTICIPACAO_NOVO_INVESTIDOR } \quad \Rightarrow \quad \textbf{23,07692\%} \\ 
+\text{ } \\ 
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.200.000}{ (100\% - 23,07692\%} \\ 
+\text{ } \\ 
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.200.000}{ 1 - 0,2307692} \\ 
+\text{ } \\ 
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.200.000}{ 0,7692308} \\ 
+\text{ } \\ 
+\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \text{1.560.000 quotas} \\ 
+\text{ } \\ 
+\text{ Cotas ao novo investidor } = \text{Total de Cotas atuais - Total de cotas anteriores} \\ 
+\text{ } \\ 
+\text{ Cotas ao novo investidor } = \text{ 1.560.000 - 1.200.000 } \\ 
+\text{ } \\ 
+\text{ Cotas ao novo investidor } = \textbf{ 360.000 } \text{cotas.}
+\text{ } \\
+\text{ } \\ 
+\begin{array}{c|c}
+\textbf{Quadro Societário}    & \textbf{Capital Social  (R\$)} & \textbf{Cotas equivalentes} \\ 
+\hline 
+Sócio-FundadorOriginal        & 8.333.333,33 \quad (64,1025 \%) & 1.000.000 \\
+Sócio-Investidor-1            & 1.666.666,66 \quad (12,8205 \%) & 200.000 \\
+Sócio-Investidor-2            & 3.000.000,00 \quad (23,0769 \%) & 360.000 \\
+\hline
+\textbf{Total}  & 13.000.000,00 \quad (100\%) & 1.560.000
+\end{array}
+$$
+
+E para finalizar, a pergunta do exercício:
+
+$$
+\text{ O INVESTIDOR ORIGINAL SÓ PERDE A MAJORIDADE SE FICAR COM MENOS DE 51\% DO CAPITAL SOCIAL} \\ 
+\text{ } \\ \text{ COMO VIMOS neste EXERCÍCIO, ELE POSSUI R\$ 8.333.333,33 MILHÕES DE PARTICIPAÇÃO NO CAPITAL SOCIAL } \\ 
+\text{ } \\ \text{ APÓS O NOVO SÓCIO TER INVESTIDO 3 MILHÃO, A EMPRESA PASSOU A TER 13 MILHÕES DE CAPITAL SOCIAL } \\ 
+\text{ } \\ 
+\text{ SENDO QUE DESTES 13 MILHÕES, R\$ 8.333.333,33 MILHÕES SÃO DO ANTIGO DONO (R\$ 8.333.333,33 MILHÕES REPRESENTAM 64,1025\% DO VALOR TOTAL) } \\ 
+\text{ } \\ 
+\\text{ A PERGUNTA AGORA SERIA: "QUAL VALOR TOTAL ONDE 5 MILHÕES REPRESENTAM 51\% DELE") } \\ 
+\text{ } \\ \text{ VAMOS UTILIZAR NOVAMENTE A REGRA DE 3} \\ 
+\text{ } \\ \qquad\frac{ x }{ 8.333.333,33 }= \frac{ 100 \% }{51 \%} \qquad \Rightarrow \qquad \frac{ [ ( x ) \times (51) ] }{ [ ( R\$ 8.333.333,33 ) \times (100) ] } \\ 
+51*x = (R\$ 8.333.333,33 )* \times (100) \\ 
+51x = (R\$ 8.333.333,33) \\ 
+\text{ } \\ 
+x=\frac{ 833.333.333,00 }{51} \\ 
+\text{ } \\ 
+x= 16.339.869,27451 \\ 
+\text{ R\$ 16.339.869,27451 é o valor total de dinheiro em caixa onde R\$ 8.333.333,33 representam 51\% deste valor } \\ 
+\text{ } \\ 
+\text{ Assim, sabendo que já tinhamos R\$ 10.000.000,00 em caixa, se o investidor investisse mais R\$ 6.339.869,27451 } \\ 
+\text{ o total em caixa chegava a R\$ 16.339.869,27451 DE CAPITAL SOCIAL , quantidade máxima de capital social total para que os 5 milhões do antigo dono } \\ 
+\text{ representassem 51\% da participação na sociedade. } \\ 
+\text{ Um investidor pode investir no máximo } \textbf{R\$ R\$ 6.339.869,27451 } \text{ para que o antigo dono ainda seja mandatário na empresa } \\ 
+\text{ } \\
+$$
+
+Quantas cotas esse ivestimento de R\$ 6.339.869,27451 produziria ao novo investidor ?
+
+$$ 
+\text{-----------------------------------------------} \\ 
+\text{ REGRA DE 3:                                   } \\ 
+\text{-----------------------------------------------} \\ 
+\text{ } \\ 
+\frac{16.339.869,27}{6.339.869,27} = \frac{100\%}{x\%} \\ 
+x=\frac{[ (6.339.869,27) \times (100) ]}{16.339.869,27} \\ 
+x=\frac{633.986.927}{16.339.869,27} \\ 
+x= 38,80 \% \text{ } \\ 
+\text{ } \\
+\text{ AGORA, SABENDO DA PARTICIPAÇÃO HIPOTÉTICA DO TERCEIRO SÓCIO, PODEMOS SABER QUANTAS COTAS DEVEMOS EMITIR PARA ELE } \\ 
+\text{ } \\ 
+\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( TOTAL\_COTAS\_ORIGINAIS )}{(100\% - PARTICIPACAO\_NOVO\_INVESTIDOR\%)}  \\
+\text{ } \\ \text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( 1.200.000 )}{(100\% - 38,8\%)} \\ 
+\text{ } \\ \text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( 1.200.000 )}{(100\% - 38,8\%)} \\ 
+\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( 1.200.000 )}{(0,61)} \\ 
+\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = 1.960.784 \\ 
+\text{ Cotas máximas a emitir sem o sócio-fundados perder os 51\% } = [(1.960.784 ) - (1.200.000)] \\ 
+\text{ Cotas máximas a emitir sem o sócio-fundados perder os 51\% } = 760.784 \quad \text{cotas} 
+$$
 
 ### **Exercício 3:** Aporte Growth Capital (Série B)
 
@@ -309,13 +549,13 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Exercício 3 - "Tech-Solve" cresceu e agora tem um valuation de R\$ 50.000.000, com um total de 1.700.000 cotas. Você, como fundador, tem 1.000.000 cotas. Um novo investidor de Growth Capital quer injetar R\$ 15.000.000. Qual o percentual de diluição que você sofrerá após este novo aporte, assumindo que você ceda cotas suficientes para o investimento? |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| a) 23,08%                                                                                                                                                                                                                                                                                                                                                        |
+| a)  23,08%                                                                                                                                                                                                                                                                                                                                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| b) 18,75%                                                                                                                                                                                                                                                                                                                                                        |
+| b)  18,75%                                                                                                                                                                                                                                                                                                                                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| c) 20,00%                                                                                                                                                                                                                                                                                                                                                        |
+| c)  20,00%                                                                                                                                                                                                                                                                                                                                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| d) 25,00%                                                                                                                                                                                                                                                                                                                                                        |
+| d)  25,00%                                                                                                                                                                                                                                                                                                                                                       |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Exercício 4: Cenário de Múltiplos Investidores
@@ -325,13 +565,13 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Exercício 4 - "Tech-Solve" agora tem 1.000.000 de cotas originais, um investidor A com 200.000 cotas e um investidor B com 500.000 cotas. Sua participação é de 1.000.000 de cotas. A empresa está avaliada em R\$ 20.000.000. Um novo investidor quer comprar 10% da empresa. Quantas cotas ele deve receber, e qual será sua nova participação percentual na empresa? |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| a) 150.000 cotas; 8,8%                                                                                                                                                                                                                                                                                                                                                  |
+| a)  150.000 cotas; 8,8%                                                                                                                                                                                                                                                                                                                                                 |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| b) 200.000 cotas; 10,0%                                                                                                                                                                                                                                                                                                                                                 |
+| b)  200.000 cotas; 10,0%                                                                                                                                                                                                                                                                                                                                                |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| c) 190.000 cotas; 9,5%                                                                                                                                                                                                                                                                                                                                                  |
+| c)  190.000 cotas; 9,5%                                                                                                                                                                                                                                                                                                                                                 |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| d) 170.000 cotas; 8,5%                                                                                                                                                                                                                                                                                                                                                  |
+| d)  170.000 cotas; 8,5%                                                                                                                                                                                                                                                                                                                                                 |
 +-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ### Exercício 5: Protegendo a Maioria
@@ -341,13 +581,13 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | Exercício 5 - Considere que, após todos os aportes (do Exercício 1 ao 4), você ainda deseja manter o controle majoritário da sua startup. O investidor A tem 200.000 cotas e o investidor B tem 500.000 cotas. No último aporte, o investidor C recebeu 190.000 cotas. Você começou com 1.000.000 de cotas. Qual a sua participação percentual atual na empresa, e você ainda tem a maioria? |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| a) 50,0% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                 |
+| a)  50,0% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| b) 51,5% - Tem a maioria                                                                                                                                                                                                                                                                                                                                                                     |
+| b)  51,5% - Tem a maioria                                                                                                                                                                                                                                                                                                                                                                    |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| c) 48,0% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                 |
+| c)  48,0% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| d) 49,5% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                 |
+| d)  49,5% - Não tem a maioria                                                                                                                                                                                                                                                                                                                                                                |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## Respostas dos exercícios
@@ -364,3 +604,5 @@ Você pode continuar a praticar com os próximos exercícios se quiser! Eles vã
 ## Referências
 
 ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
+
+SILVEIRA, Alexandre Di Miceli da. *Governança Corporativa no Brasil e no Mundo: Teoria e Prática*. Rio de Janeiro: Elsevier, 2010.

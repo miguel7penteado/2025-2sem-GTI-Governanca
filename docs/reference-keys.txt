@@ -39,7 +39,7 @@ o-principal-fator-é-o-número-efetivo-ou-potencial-de-sócios
 o-principal-fator-é-o-número-efetivo-ou-potencial-de-sócios-1
 casos-que-normalmente-demandam-arquitetura-de-governança-corporativa
 arquitetura-de-governança
-arquétipos-de-governança-corporativa
+arquétipos-da-governança-corporativa
 modelo-anglo-saxão-de-governança-corporativa
 características-definidoras
 modelo-alemão-de-governança-corporativa
@@ -69,10 +69,19 @@ participação-percentual-do-investidor-pós-investimento-monetário
 equity---caso-facebook
 exemplo
 exercício-resolvido-1
-resolução
+resolução-do-exercício-i
+item-i---com-quantas-cotas-o-fundador-original-ficou-após-o-aporte-investimento-de-r-1.000.00000-um-milhão-de-reiais
+resposta-item-i-o-antigo-dono-continuar-com-1.000.000-um-milhão-de-cotas.
+item-ii---qual-a-participação-no-capital-social-da-empresa-de-cada-sócio-após-o-investimento
+resposta-item-ii-o-primeiro-sócio-ficou-com-8333-de-participação-e-o-novo-sócio-investidor-ficou-com-1666-de-participação.
+item-iii---quantas-cotas-receberá-o-investidor-então-novo-sócio-da-tech-solve-após-o-seu-investimento
+resposta-item-iii-o-novo-sócio-investidor-recebeu-200.000-duzentas-mil-cotas-da-empresa.
+item-iv---qual-o-valor-máximo-que-um-investidor-poderia-aportar-colocar-na-empresa-sem-que-o-dono-original-perca-a-majoridade
+resposta-item-iv-o-novo-sócio-poderia-investir-no-máximo-r-4.803.92156-para-que-o-antigo-sócio-ainda-continuasse-mandatário-da-empresa.
 exercícios-1
 exercício-2
 investimento-do-tipo-venture-capital---investidor-profissional
+resolução-do-exercício-ii
 exercício-3-aporte-growth-capital-série-b
 exercício-4-cenário-de-múltiplos-investidores
 exercício-5-protegendo-a-maioria
@@ -86,6 +95,7 @@ boa-prática
 conselho-fiscal
 competências-do-conselho-fiscal
 conselho-consultivo
+estudo-de-caso-saída-de-steeve-jobs-da-apple
 linha-do-tempo-steve-jobs-e-a-apple-19761997
 steve-jobs-e-steve-wozniak-fundam-a-apple-computer-na-garagem-da-família-jobs-em-cupertino.
 lançamento-do-apple-ii-primeiro-grande-sucesso-comercial.

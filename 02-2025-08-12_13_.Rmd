@@ -8,20 +8,54 @@
 
 ## O que é Governança Corporativa
 
+Governança corporativa lida com o **processo decisório na alta gestão** e com os **relacionamentos** entre os principais personagens das organizações empresariais, notadamente **executivos**, **conselheiros** e **acionistas/cotistas**.
+
 No livro "Governança Corporativa", os autores **José Paschoal Rossetti e Adriana Andrade** dão a seguinte definição para Governaça Corporativa:
 
-> **Um sistema pelo qual as sociedades empresárias são dirigidas e monitoradas, envolvendo os relacionamentos entre sócios/cotistas, conselho de administração, diretoria, auditoria independente e conselho fiscal. -** *Rossetti e Andrade -*
+> ***Um sistema pelo qual as sociedades empresárias são dirigidas e monitoradas, envolvendo os relacionamentos entre sócios/cotistas, conselho de administração, diretoria, auditoria independente e conselho fiscal*****. -** (Rossetti e Andrade - 2014*)*
 
-a
+Instituto Brasileiro de Governança Corporativa , **IBGC,** define governança corporativa como
+
+> “***Sistema no qual as empresas são dirigidas, monitoradas e incentivadas envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas***”. (IBGC, 2015)
+
+No livro "Governança Corporativa no Brasil e no Mundo: Teoria e Prática", o autor **Alexandre Di Miceli da Silveira** fornece a seguinte definição para Governança Corporativa:
+
+> ***"O conjunto de mecanismos que visam a fazer com que as decisões corporativas sejam sempre tomadas com a finalidade de maximizar a perspectiva de geração de valor de longo prazo para o negócio"*** (Di Miceli, Alexandre - 2021)
 
 ## Quais motivos criam a necessidade de Governança Corporativa ?
+
+Os mecanismos de governança devem estar presentes em qualquer companhia em função da existência de três potenciais problemas na cúpula das empresas: conflito de interesses, limitações técnicas individuais e vieses cognitivos.
+
++---------------------------------+
+| Os "3 Problemas" da alta cúpula |
++=================================+
+| -   Conflito de Interesses      |
++---------------------------------+
+| -   Limitações Técnicas         |
++---------------------------------+
+| -   Viés Cognitivo              |
++---------------------------------+
+
+: Mas nem todas as empresas vão apresentar necessidade imediata de implantação de uma estrutura de Governança Corporativa. Existem cenários uma característica torna a necessidade da implantação imediata.
+
+Mas qual seria(m) essa(s) característica(s) ?
 
 -   Quantidade de funcionários da empresa ?
 -   Tamanho da corporação ?
 -   Ramo de atividade da empresa ?
 -   Faturamento mensal/anual da empresa ?
 
-![](images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg){width="259"} \| ![](images/02-2025-08-12_13/02-Weg.jpg){width="122"}
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| CACAU SHOW                                               | WEG                                     | TRAMONTINA                                      |
++:========================================================:+:=======================================:+:===============================================:+
+| MENOS DE 10 SÓCIOS                                       | 3 SÓCIOS FUNDADORES                     | 1 CASAL FUNDADOR - MARIDO SÓCIO ADMINISTRADOR   |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| EMPRESA FAMILIAR                                         | EMPRESA LIVRE INICIATIVA                | EMPRESA FAMILIAR                                |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| CAPITAL FECHADO - 2025                                   | CAPITAL ABERTO DESDE ANOS 1970          | CAPITAL FECHADO                                 |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| ![](images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg) | ![](images/02-2025-08-12_13/02-Weg.jpg) | ![](images/02-2025-08-12_13/022-Tramontina.jpg) |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -29,9 +63,13 @@ a
 
 -   **Efetivo:** NÚMERO DE SÓCIOS
 
-| EFETIVO CASO DE GRANDE NÚMERO DE SÓCIOS |   |
-|:--:|----|
-| ***EMPRESA S/A (CAPITAL ABERTO)*** | ![](images/02-2025-08-12_13/00-PetroBras.jpg) |
+|                                                              |
+|:------------------------------------------------------------:|
+|                        **PETROBRÁS**                         |
+|            MUITOS, MUITOS SÓCIOS - CAPITAL ABERTO            |
+|               EMPRESA SOCIEDADE ANÔNIMA (S/A)                |
+| GOVERNO FEDERAL É O MAIOR ACIONISTA ( MAIS DE 50% DAS AÇÕES) |
+|        ![](images/02-2025-08-12_13/00-PetroBras.jpg)         |
 
 ------------------------------------------------------------------------
 
@@ -39,12 +77,17 @@ a
 
 -   **Potencial:** futuro número de sócios !
 
-    | POTENCIAL CASO DE AUMENTO DE SÓCIOS |   |
-    |:--:|:--:|
-    | **FUSÕES** | ![](images/02-2025-08-12_13/04-Fusao_Corporativa.jpg){width="237"} |
-    | **AQUISIÇÕES** |  |
-    | **INCORPORAÇÕES** |  |
-    | **SUCESSÃO FAMILIAR** | ![](images/02-2025-08-12_13/03-sucessao_familiar.jpg){width="188"} |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | POTENCIAL CASO DE AUMENTO DE SÓCIOS |                                                                    |
+    +:===================================:+:==================================================================:+
+    | **FUSÕES**                          | ![](images/02-2025-08-12_13/04-Fusao_Corporativa.jpg){width="237"} |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **AQUISIÇÕES**                      |                                                                    |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **INCORPORAÇÕES**                   |                                                                    |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **SUCESSÃO FAMILIAR**               | ![](images/02-2025-08-12_13/03-sucessao_familiar.jpg){width="188"} |
+    +-------------------------------------+--------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -75,7 +118,7 @@ a
 
 ------------------------------------------------------------------------
 
-### ARQUÉTIPOS de Governança Corporativa
+## ARQUÉTIPOS DA GOVERNANÇA CORPORATIVA
 
 -   **SEPARAÇÃO DE PROPRIEDADE E GESTÃO**
 
@@ -185,131 +228,218 @@ a
 
 ------------------------------------------------------------------------
 
-| Questão 1: |
-|----|
+Livro [Governança Corporativa no Brasil e no Mundo: Teoria e Prática - Alexandre Di Miceli da SILVEIRA](https://pdfcoffee.com/governana-corporativa-no-brasil-e-no-mundo-pdf-free.html)
+
+Exercícios referentes ao capítulo 1 - Introdução à Governança Corporativa - pág 3 a 6 - Exercícios referentes ao capítulo 2 - Capítulo 2 – Estrutura de Governança Corporativa - pág 37 a 40 -
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Questão 1:                                                                                                                                                            |
++=======================================================================================================================================================================+
 | **Qual dos seguintes modelos de governança corporativa tem como principal fonte de financiamento o mercado de capitais, com as ações sendo a base da capitalização?** |
-| a) Modelo Alemão |
-| b) Modelo Anglo-Saxão |
-| c) Modelo Japonês |
-| d) Modelo Latino-Americano |
-| e) Modelo Francês |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| a)  Reduzir custos operacionais internos.                                                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| b)  Aumentar o valor da sociedade, facilitar acesso ao capital e garantir perenidade. \|                                                                              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| c)  Eliminar a necessidade de auditoria independente.                                                                                                                 |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| d)  Diminuir a participação dos acionistas minoritários.                                                                                                              |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| e)  Facilitar apenas a sucessão familiar.                                                                                                                             |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| Questão 2: |
-|----|
-| **A estrutura de propriedade pulverizada, onde são raros os acionistas com mais de 10% do capital, é uma característica definidora de qual modelo?** |
-| a) Modelo Alemão |
-| b) Modelo Japonês |
-| c) Modelo Francês |
-| d) Modelo Anglo-Saxão |
-| e) Modelo Latino-Americano |
+| **Questão 2**                                               |
+|-------------------------------------------------------------|
+| **A implantação de governança corporativa não depende de:** |
+| a) Tamanho da empresa.                                      |
+| b) Número efetivo ou potencial de sócios.                   |
+| c) Fusões ou incorporações.                                 |
+| d) Sucessão familiar.                                       |
+| e) Aumento de acionistas minoritários.                      |
 
 ------------------------------------------------------------------------
 
-| **Questão 3:** |
-|----|
-| **Em qual modelo o conflito de agência fundamental ocorre entre acionistas e gestores, devido à separação entre propriedade e gestão?** |
-| a) Modelo Latino-Americano |
-| b) Modelo Japonês |
-| c) Modelo Anglo-Saxão |
-| d) Modelo Alemão |
-| e) Modelo Francês |
++-------------------------------------------------------------------------------------------------------+
+| **Questão 3**                                                                                         |
++=======================================================================================================+
+| **Qual é o principal fator para decidir quando implantar uma arquitetura de governança corporativa?** |
++-------------------------------------------------------------------------------------------------------+
+| a)  Lucro líquido.                                                                                    |
++-------------------------------------------------------------------------------------------------------+
+| b)  Valor de mercado da empresa.                                                                      |
++-------------------------------------------------------------------------------------------------------+
+| c)  Número efetivo ou potencial de sócios.                                                            |
++-------------------------------------------------------------------------------------------------------+
+| d)  Estrutura de capital de giro.                                                                     |
++-------------------------------------------------------------------------------------------------------+
+| e)  Taxa de juros do mercado.                                                                         |
++-------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 4:** |
-|----|
-| **O 'keiretsu', um grupo de empresas relacionadas pela posse cruzada de ações, é uma característica do controle acionário de qual modelo?** |
-| a) Modelo Alemão |
-| b) Modelo Anglo-Saxão |
-| c) Modelo Francês |
-| d) Modelo Latino-Americano |
-| e) Modelo Japonês |
++-------------------------------------------------------------------------------------+
+| **Questão 4**                                                                       |
++=====================================================================================+
+| **A sucessão familiar que amplia o número de sócios é um caso típico que demanda:** |
++-------------------------------------------------------------------------------------+
+| a)  Expansão internacional.                                                         |
++-------------------------------------------------------------------------------------+
+| b)  Arquitetura de governança corporativa.                                          |
++-------------------------------------------------------------------------------------+
+| c)  Troca de CEO.                                                                   |
++-------------------------------------------------------------------------------------+
+| d)  Criação de novas subsidiárias.                                                  |
++-------------------------------------------------------------------------------------+
+| e)  Aumento do capital social.                                                      |
++-------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 5:** |
-|----|
-| **Qual modelo é caracterizado por uma fraca proteção legal aos acionistas minoritários, alta proporção de ações sem direito a voto e gestão exercida pelos acionistas majoritários?** |
-| a) Modelo Anglo-Saxão |
-| b) Modelo Alemão |
-| c) Modelo Japonês |
-| d) Modelo Latino-Americano |
-| e) Modelo Francês |
+Livro [Governança Corporativa no Brasil e no Mundo: Teoria e Prática - Alexandre Di Miceli da SILVEIRA](https://pdfcoffee.com/governana-corporativa-no-brasil-e-no-mundo-pdf-free.html)
+
+Exercícios referentes ao Capítulo 3 – Modelos de Governança Corporativa no Mundo - pág 71 a 85 - - Modelo Anglo-Saxão - pág 71 - 74 - Modelo Alemão - pág 74 - 77 - Modelo Japonês - pág 77 - 80 - Modelo Francês - pág 80 - 82 - Modelo Latino-Americano - pág 82 - 85
 
 ------------------------------------------------------------------------
 
-| **Questão 6:** |
-|----|
-| **O poder proeminente dos bancos, que monitoram os interesses dos credores e estabelecem relações duradouras com as empresas, é uma marca de qual modelo de governança?** |
-| a) Modelo Alemão |
-| b) Modelo Anglo-Saxão |
-| c) Modelo Latino-Americano |
-| d) Modelo Francês |
-| e) Modelo Japonês |
++----------------------------------------------------------------------------------+
+| **Questão 5**                                                                    |
++==================================================================================+
+| **No modelo anglo-saxão, a principal fonte de financiamento das corporações é:** |
++----------------------------------------------------------------------------------+
+| a)  Crédito bancário de longo prazo.                                             |
++----------------------------------------------------------------------------------+
+| b)  Mercado de capitais.                                                         |
++----------------------------------------------------------------------------------+
+| c)  Recursos familiares.                                                         |
++----------------------------------------------------------------------------------+
+| d)  Capital estatal.                                                             |
++----------------------------------------------------------------------------------+
+| e)  Dívida de fornecedores.                                                      |
++----------------------------------------------------------------------------------+
+| e)  Aumento do capital social.                                                   |
++----------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 7:** |
-|----|
-| **Em qual dos modelos a sobreposição entre propriedade e gestão é a norma, com conflitos de agência sendo considerados 'insignificantes'?** |
-| a) Modelo Anglo-Saxão |
-| b) Modelo Japonês |
-| c) Modelo Alemão |
-| d) Modelo Francês |
-| e) Modelo Latino-Americano |
++----------------------------------------------------------------------+
+| **Questão 6**                                                        |
++======================================================================+
+| **No modelo alemão, o papel dos bancos é:**                          |
++----------------------------------------------------------------------+
+| a)  Inexistente, pois prevalece a pulverização acionária.            |
++----------------------------------------------------------------------+
+| b)  Secundário em relação aos fundos de pensão.                      |
++----------------------------------------------------------------------+
+| c)  Central, como principais financiadores e monitores das empresas. |
++----------------------------------------------------------------------+
+| d)  Consultivo, apenas assessorando conselhos.                       |
++----------------------------------------------------------------------+
+| e)  Exclusivamente regulatório.                                      |
++----------------------------------------------------------------------+
+|                                                                      |
++----------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 8:** |
-|----|
-| **A fraca proteção a minoritários, típica do Direito Civil francês e com baixo *enforcement*, resultando em mercados de capitais pouco desenvolvidos, é a descrição de qual modelo?** |
-| a) Modelo Latino-Americano |
-| b) Modelo Anglo-Saxão |
-| c) Modelo Alemão |
-| d) Modelo Francês |
-| e) Modelo Japonês |
++------------------------------------------------------------------------+
+| **Questão 7**                                                          |
++========================================================================+
+| **No modelo japonês, a estrutura de propriedade é caracterizada por:** |
++------------------------------------------------------------------------+
+| a)  Total pulverização acionária.                                      |
++------------------------------------------------------------------------+
+| b)  Forte controle estatal.                                            |
++------------------------------------------------------------------------+
+| c)  Grupos keiretsu com posse cruzada de ações.                        |
++------------------------------------------------------------------------+
+| d)  Predomínio de fundos de pensão.                                    |
++------------------------------------------------------------------------+
+| e)  Participação estrangeira majoritária.                              |
++------------------------------------------------------------------------+
+|                                                                        |
++------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 9:** |
-|----|
-| **Qual é a principal diferença entre o conflito de agência do modelo Anglo-Saxão e o do modelo Latino-Americano?** |
-| a) No Anglo-Saxão o conflito é entre credores e acionistas; no Latino-Americano é entre gestores e governo. |
-| b) Não há diferenças significativas, ambos focam no conflito entre gestores e acionistas. |
-| c) No Anglo-Saxão o conflito é entre acionistas e gestores; no Latino-Americano é entre acionistas majoritários e minoritários. |
-| d) No Anglo-Saxão o conflito é insignificante; no Latino-Americano é muito alto. |
-| e) No Anglo-Saxão o conflito é entre a empresa e os bancos; no Latino-Americano é entre as famílias controladoras. |
++---------------------------------------------------------------------------+
+| **QUESTÃO 8**                                                             |
++===========================================================================+
+| **No modelo francês, o conflito de agência é reduzido porque:**           |
++---------------------------------------------------------------------------+
+| a)  A gestão é totalmente terceirizada.                                   |
++---------------------------------------------------------------------------+
+| b)  Há forte proteção aos minoritários.                                   |
++---------------------------------------------------------------------------+
+| c)  A concentração patrimonial gera sobreposição de propriedade e gestão. |
++---------------------------------------------------------------------------+
+| d)  A legislação é baseada no modelo anglo-saxão.                         |
++---------------------------------------------------------------------------+
+| e)  O mercado de capitais é muito desenvolvido.                           |
++---------------------------------------------------------------------------+
+|                                                                           |
++---------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
-| **Questão 10:** |
-|----|
-| **Comparando os modelos Alemão e Japonês, o que eles têm em comum em relação ao financiamento predominante?** |
-| a) Ambos dependem primariamente do mercado de capitais e da emissão de ações. |
-| b) Ambos têm um financiamento indefinido, com forte presença de empresas familiares. |
-| c) Ambos são financiados predominantemente por dívidas, com os bancos desempenhando um papel central e estabelecendo relações duradouras com as corporações. |
-| d) Ambos proíbem o financiamento via dívida, focando apenas em recursos próprios. |
-| e) Ambos possuem mercados de capitais muito expressivos, que superam o financiamento bancário. |
++--------------------------------------------------------------------------------------+
+| **Questão 9**                                                                        |
++======================================================================================+
+| **No modelo latino-americano (brasileiro), qual é o principal conflito de agência?** |
++--------------------------------------------------------------------------------------+
+| a)  Entre acionistas e gestores.                                                     |
++--------------------------------------------------------------------------------------+
+| b)  Entre bancos e credores.                                                         |
++--------------------------------------------------------------------------------------+
+| c)  Entre acionistas majoritários e minoritários.                                    |
++--------------------------------------------------------------------------------------+
+| d)  Entre conselhos e diretoria executiva.                                           |
++--------------------------------------------------------------------------------------+
+| e)  Entre empresas familiares e fundos de pensão.                                    |
++--------------------------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+| **QUESTÃO 10**                                                   |
+|------------------------------------------------------------------|
+| **Em relação à proteção legal dos acionistas minoritários:**     |
+| a) É forte e predominante no modelo latino-americano.            |
+| b) É pouco relevante no modelo japonês.                          |
+| c) É expressiva e garantida por regulação no modelo anglo-saxão. |
+| d) É garantida pela concentração patrimonial no modelo francês.  |
+| e) É inexistente no modelo alemão.                               |
 
 ------------------------------------------------------------------------
 
 ## Respostas dos exercícios
 
-| Teste | Resposta |
-|-------|----------|
-| 1     | b        |
-| 2     | d        |
-| 3     | c        |
-| 4     | e        |
-| 5     | d        |
-| 6     | a        |
-| 7     | b        |
-| 8     | d        |
-| 9     | c        |
-| 10    | c        |
++-----------+--------------------------------------------------------------------------------------+
+| Questão   | Alternativa Correta                                                                  |
++===========+======================================================================================+
+| **1**     | b)  Aumentar o valor da sociedade, facilitar acesso ao capital e garantir perenidade |
++-----------+--------------------------------------------------------------------------------------+
+| **2**     | a)  Tamanho da empresa                                                               |
++-----------+--------------------------------------------------------------------------------------+
+| **3**     | c)  Número efetivo ou potencial de sócios                                            |
++-----------+--------------------------------------------------------------------------------------+
+| **4**     | b)  Arquitetura de governança corporativa                                            |
++-----------+--------------------------------------------------------------------------------------+
+| **5**     | b)  Mercado de capitais                                                              |
++-----------+--------------------------------------------------------------------------------------+
+| **6**     | c)  Central, como principais financiadores e monitores das empresas                  |
++-----------+--------------------------------------------------------------------------------------+
+| **7**     | c)  Grupos keiretsu com posse cruzada de ações                                       |
++-----------+--------------------------------------------------------------------------------------+
+| **8**     | c)  A concentração patrimonial gera sobreposição de propriedade e gestão             |
++-----------+--------------------------------------------------------------------------------------+
+| **9**     | c)  Entre acionistas majoritários e minoritários                                     |
++-----------+--------------------------------------------------------------------------------------+
+| **10**    | c)  É expressiva e garantida por regulação no modelo anglo-saxão                     |
++-----------+--------------------------------------------------------------------------------------+
 
 ## Referências
 
 ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
+
+SILVEIRA, Alexandre Di Miceli da. *Governança Corporativa no Brasil e no Mundo: Teoria e Prática*. Rio de Janeiro: Elsevier, 2010.
