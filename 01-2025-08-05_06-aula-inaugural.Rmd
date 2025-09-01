@@ -1,0 +1,149 @@
+# Aula Inaugural
+
+#### 05/08/2025 - Campus Marquês {.unnumbered}
+
+#### 06/08/2025 - Campus Chácara {.unnumbered}
+
+#### Professor Miguél Suares {.unnumbered}
+
+## Disciplina: **Governança da Informação**
+
+-   Curso: Gestão em Tecnologia da Informação (GTI)\
+-   Período: **Noturno**\
+-   Turma: **4º semestre de 2025**
+-   Campus: **Chácara Santo Antônio**
+-   Campus: **Chácara Marquês de São Vicente**
+
+> “*Reunir-se é um começo; manter-se unido é progresso; trabalhar em conjunto é sucesso.*” — Henry Ford
+
+![](images/Bem_Vindo.jpg){width="350"}
+
+------------------------------------------------------------------------
+
+## 👨‍🏫 Sobre o Professor
+
+-   Nome: Prof. Miguél Suares
+
+-   Formação: Mestre em Engenharia da Computação e Energia da Agricultura
+
+-   Experiência: +13 anos trabalhando e lidando com compliance de TIC no setor público
+
+-   Contato: [miguel.penteado\@docente.unip.br](mailto:miguel.penteado@docente.unip.br)
+
+------------------------------------------------------------------------
+
+## 🎯 Objetivos da Disciplina
+
+-   Começar compreendendo os fundamentos de Govarenança Corporativa
+
+-   Compreender modelos de governança de cada área chave da empresa
+
+-   Governança de TIC - Conhecer o COBIT 5.0 - certificação e Prova
+
+-   Governança de TIC - Conhecer o COBIT 5.0 - Princípios e Habilitadores
+
+-   Governança de TIC - Conhecer o COBIT 2019 - mudanças em relação a versão 5.0
+
+    ![](images/2025-08-04/logos.jpg){width="334"}
+
+------------------------------------------------------------------------
+
+## 📅 Calendário da Disciplina - Campus Marquês de São Vicente
+
+| Data       | Aula    | Tema                                       |
+|------------|---------|--------------------------------------------|
+| 05/08/2025 | Aula 1  | Aula Inaugural                             |
+| 12/08/2025 | Aula 2  | O topo da Pirâmide                         |
+| 19/08/2025 | Aula 3  | Assembléia dos Proprietários               |
+| 26/08/2025 | Aula 4  | Conselhos da Empresa                       |
+| 02/09/2025 | Aula 5  | C Level e Diretorias                       |
+| 09/09/2025 | Aula 6  | Diretoria de Informática                   |
+| 16/09/2025 | **NP1** | **Prova**                                  |
+| 23/09/2025 | Aula 7  | Modelo COBIT 5.0                           |
+| 30/09/2025 | Aula 8  | COBIT 5.0 - Os 5 Princípios                |
+| 07/10/2025 | Aula 9  | COBIT 5.0 - Os 7 Habilitadores             |
+| 14/10/2025 | Aula 10 | COBIT 5.0 - Implantação                    |
+| 21/10/2025 | Aula 11 | COBIT 2019 - O que mudou em relação ao 5.0 |
+| 28/10/2025 | Aula 12 | Revisão                                    |
+| 04/11/2025 | **NP2** | **Prova**                                  |
+
+------------------------------------------------------------------------
+
+## 📅 Calendário da Disciplina - Campus Chácara Santo Antônio
+
+| Data       | Aula    | Tema                                       |
+|------------|---------|--------------------------------------------|
+| 06/08/2025 | Aula 1  | Aula Inaugural                             |
+| 13/08/2025 | Aula 2  | O topo da Pirâmide                         |
+| 20/08/2025 | Aula 3  | Assembléia dos Proprietários               |
+| 27/08/2025 | Aula 4  | Conselhos da Empresa                       |
+| 03/09/2025 | Aula 5  | C Level e Diretorias                       |
+| 10/09/2025 | Aula 6  | Diretoria de Informática                   |
+| 17/09/2025 | **NP1** | **Prova**                                  |
+| 24/09/2025 | Aula 7  | Modelo COBIT 5.0                           |
+| 01/10/2025 | Aula 8  | COBIT 5.0 - Os 5 Princípios                |
+| 08/10/2025 | Aula 9  | COBIT 5.0 - Os 7 Habilitadores             |
+| 15/10/2025 | Aula 10 | COBIT 5.0 - Implantação                    |
+| 22/10/2025 | Aula 11 | COBIT 2019 - O que mudou em relação ao 5.0 |
+| 29/10/2025 | Aula 12 | Revisão                                    |
+| 05/11/2025 | **NP2** | **Prova**                                  |
+
+------------------------------------------------------------------------
+
+## 📚 Ementa Resumida
+
+-   Conhecer a Governança na Empresa
+
+-   Conhecer a Governança de T.I.
+
+-   Conhecer o Modelo COBIT 5.0
+
+-   Vislumbrar o modelo COBIT 2019
+
+    ![](images/2025-08-04/modelagem.jpg){width="331"}
+
+------------------------------------------------------------------------
+
+## 📝 Avaliação
+
+-   **Provas (NP1 + NP2)**
+-   **Prova Substitutiva**
+-   **Exame**
+
+------------------------------------------------------------------------
+
+## 🛠️ Ferramentas da Disciplina
+
+-   Livro texto:
+
+-   Questionários
+
+-   Vídeos Youtube
+
+------------------------------------------------------------------------
+
+## 📌 Expectativas e Regras
+
+-   Pontualidade e entrega de atividades no prazo
+-   Trabalhos devem ser originais (sem plágio)
+-   Participação ativa nas discussões e práticas
+-   Uso responsável das ferramentas
+-   Respeito e colaboração entre colegas
+
+------------------------------------------------------------------------
+
+## 💡 Dicas para Mandar Bem
+
+-   Faça os exercícios logo após a aula
+-   Participe das práticas com base real
+
+------------------------------------------------------------------------
+
+## 🙌 Encerramento
+
+## Estamos prontos?
+
+📧 Dúvidas? Estou à disposição\
+📊 Vamos construir conhecimento juntos!
+
+> Próxima aula: **Governança da Informação** – 11/08/2025

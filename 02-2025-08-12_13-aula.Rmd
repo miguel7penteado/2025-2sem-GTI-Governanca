@@ -1,0 +1,241 @@
+---
+output: 
+  html_document: 
+    toc_depth: 4
+    highlight: tango
+    theme: cerulean
+    #theme: flatly     # tema responsivo do bootstrap
+    #toc: true         # sumário navegável
+    #toc_float: true   # sumário flutuante (se cabe)
+    code_folding: hide
+---
+# Governança Corporativa - O topo da Pirâmide
+
+#### 12/08/2025 - Campus Marquês {.unnumbered}
+
+#### 13/08/2025 - Campus Chácara {.unnumbered}
+
+------------------------------------------------------------------------
+
+## O que é Governança Corporativa
+
+Governança corporativa lida com o **processo decisório na alta gestão** e com os **relacionamentos** entre os principais personagens das organizações empresariais, notadamente **executivos**, **conselheiros** e **acionistas/cotistas**.
+
+No livro "Governança Corporativa", os autores **José Paschoal Rossetti e Adriana Andrade** dão a seguinte definição para Governaça Corporativa:
+
+> ***Um sistema pelo qual as sociedades empresárias são dirigidas e monitoradas, envolvendo os relacionamentos entre sócios/cotistas, conselho de administração, diretoria, auditoria independente e conselho fiscal*****. -** (Rossetti e Andrade - 2014*)*
+
+Instituto Brasileiro de Governança Corporativa , **IBGC,** define governança corporativa como
+
+> “***Sistema no qual as empresas são dirigidas, monitoradas e incentivadas envolvendo os relacionamentos entre sócios, conselho de administração, diretoria, órgãos de fiscalização e controle e demais partes interessadas***”. (IBGC, 2015)
+
+No livro "Governança Corporativa no Brasil e no Mundo: Teoria e Prática", o autor **Alexandre Di Miceli da Silveira** fornece a seguinte definição para Governança Corporativa:
+
+> ***"O conjunto de mecanismos que visam a fazer com que as decisões corporativas sejam sempre tomadas com a finalidade de maximizar a perspectiva de geração de valor de longo prazo para o negócio"*** (Di Miceli, Alexandre - 2021)
+
+## Quais motivos criam a necessidade de Governança Corporativa ?
+
+Os mecanismos de governança devem estar presentes em qualquer companhia em função da existência de três potenciais problemas na cúpula das empresas: conflito de interesses, limitações técnicas individuais e vieses cognitivos.
+
++---------------------------------+
+| Os "3 Problemas" da alta cúpula |
++=================================+
+| -   Conflito de Interesses      |
++---------------------------------+
+| -   Limitações Técnicas         |
++---------------------------------+
+| -   Viés Cognitivo              |
++---------------------------------+
+
+: Mas nem todas as empresas vão apresentar necessidade imediata de implantação de uma estrutura de Governança Corporativa. Existem cenários uma característica torna a necessidade da implantação imediata.
+
+Mas qual seria(m) essa(s) característica(s) ?
+
+-   Quantidade de funcionários da empresa ?
+-   Tamanho da corporação ?
+-   Ramo de atividade da empresa ?
+-   Faturamento mensal/anual da empresa ?
+
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| CACAU SHOW                                               | WEG                                     | TRAMONTINA                                      |
++:========================================================:+:=======================================:+:===============================================:+
+| MENOS DE 10 SÓCIOS                                       | 3 SÓCIOS FUNDADORES                     | 1 CASAL FUNDADOR - MARIDO SÓCIO ADMINISTRADOR   |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| EMPRESA FAMILIAR                                         | EMPRESA LIVRE INICIATIVA                | EMPRESA FAMILIAR                                |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| CAPITAL FECHADO - 2025                                   | CAPITAL ABERTO DESDE ANOS 1970          | CAPITAL FECHADO                                 |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+| ![](images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg) | ![](images/02-2025-08-12_13/02-Weg.jpg) | ![](images/02-2025-08-12_13/022-Tramontina.jpg) |
++----------------------------------------------------------+-----------------------------------------+-------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## O principal fator é o número efetivo ou potencial de sócios
+
+-   **Efetivo:** NÚMERO DE SÓCIOS
+
+|                                                              |
+|:------------------------------------------------------------:|
+|                        **PETROBRÁS**                         |
+|            MUITOS, MUITOS SÓCIOS - CAPITAL ABERTO            |
+|               EMPRESA SOCIEDADE ANÔNIMA (S/A)                |
+| GOVERNO FEDERAL É O MAIOR ACIONISTA ( MAIS DE 50% DAS AÇÕES) |
+|        ![](images/02-2025-08-12_13/00-PetroBras.jpg)         |
+
+------------------------------------------------------------------------
+
+## O principal fator é o número efetivo ou potencial de sócios
+
+-   **Potencial:** futuro número de sócios !
+
+    +-------------------------------------+--------------------------------------------------------------------+
+    | POTENCIAL CASO DE AUMENTO DE SÓCIOS |                                                                    |
+    +:===================================:+:==================================================================:+
+    | **FUSÕES**                          | ![](images/02-2025-08-12_13/04-Fusao_Corporativa.jpg){width="237"} |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **AQUISIÇÕES**                      |                                                                    |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **INCORPORAÇÕES**                   |                                                                    |
+    +-------------------------------------+--------------------------------------------------------------------+
+    | **SUCESSÃO FAMILIAR**               | ![](images/02-2025-08-12_13/03-sucessao_familiar.jpg){width="188"} |
+    +-------------------------------------+--------------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+## Casos que normalmente demandam arquitetura de governança corporativa
+
+-   Sucessão familiar que amplie significativamente o número de sócios\
+    *(filhos – 1ª geração –, netos – 2ª geração – etc.)*
+
+    ![](images/02-2025-08-12_13/05-linha_sucessoria.jpg){width="547"}
+
+-   Fusão ou incorporação que amplie o número de acionistas ou cotistas
+
+-   Sociedade que já nasça com grande número de acionistas ou cotistas
+
+------------------------------------------------------------------------
+
+## Arquitetura de Governança
+
+-   Topo - Assembléia de Acionistas/Cotistas
+
+-   2o Degrau - Conselhos (Administrativo, Fiscal e Consultivo)
+
+-   3o Degrau - CEO
+
+-   4o Degrau - Diretorias
+
+![](images/02-2025-08-12_13/00-topo_piramide.jpg)
+
+------------------------------------------------------------------------
+
+## ARQUÉTIPOS DA GOVERNANÇA CORPORATIVA
+
+-   **SEPARAÇÃO DE PROPRIEDADE E GESTÃO**
+
+-   Anglo-Saxão
+
+-   Alemão
+
+-   Francês
+
+-   Japonês
+
+-   Latino-Americano
+
+------------------------------------------------------------------------
+
+#### Modelo Anglo-Saxão de Governança Corporativa
+
+![](images/02-2025-08-12_13/06-modelo_anglo-saxao.jpg){width="143"}
+
+### Características definidoras
+
+**Financiamento predominante** - Fonte principal: mercado de capitais - Ações (equity) como base da capitalização - Fundos de pensão com grande parte do patrimônio em ações - Orientação para o mercado
+
+**Propriedade e controle acionário** - Estrutura patrimonial pulverizada - Raros acionistas com mais de 10% do capital nas maiores empresas
+
+**Propriedade e gestão** - Dissociação entre propriedade e gestão
+
+**Conflitos de agência** - Principal conflito: acionistas x gestores - Altos custos de agência
+
+**Proteção legal a minoritários** - Forte, por leis e regulação do mercado
+
+------------------------------------------------------------------------
+
+#### Modelo Alemão de Governança Corporativa
+
+![](images/02-2025-08-12_13/07-modelo_alemao.jpg){width="225"}
+
+### Características definidoras
+
+**Financiamento predominante** - Crédito bancário de longo prazo como principal fonte - Relação duradoura com bancos, reduzindo assimetria de informação
+
+**Propriedade e controle acionário** - Estrutura patrimonial concentrada - Bancos e grandes acionistas controlam boa parte do capital
+
+**Propriedade e gestão** - Bancos com grande poder, monitorando interesses dos credores
+
+**Conflitos de agência** - Principal risco: expropriação de minoritários - Conflitos caros são raros
+
+**Proteção legal a minoritários** - Não é prioridade; tendência de fortalecer o mercado de ações
+
+------------------------------------------------------------------------
+
+#### Modelo Japonês de Governança Corporativa
+
+![](images/02-2025-08-12_13/09-modelo_japones.jpg){width="205"}
+
+### Características definidoras
+
+**Financiamento predominante** - Bancos financiam via dívida de longo prazo - Relação duradoura entre bancos e empresas
+
+**Propriedade e controle acionário** - Concentração peculiar: keiretsu com posse cruzada de ações
+
+**Propriedade e gestão** - Sobreposição; predominância do consenso
+
+**Conflitos de agência** - Custos e conflitos insignificantes
+
+**Proteção legal a minoritários** - Sustentação de relações de longo prazo - Gestão voltada a múltiplos interesses
+
+------------------------------------------------------------------------
+
+#### Modelo Francês de Governança Corporativa
+
+![](images/02-2025-08-12_13/08-modelo_frances.jpg){width="198"}
+
+### Características definidoras
+
+**Financiamento predominante** - Indefinido, mas alavancagem relevante - Forte presença de empresas familiares fechadas
+
+**Propriedade e controle acionário** - Controle concentrado
+
+**Propriedade e gestão** - Sobreposição; gestão fechada - Conselhos com função mais consultiva
+
+**Conflitos de agência** - Baixos conflitos devido à concentração - Risco de expropriação de minoritários
+
+**Proteção legal a minoritários** - Fraca, com baixo enforcement - Mercados de capitais pouco desenvolvidos
+
+------------------------------------------------------------------------
+
+#### Modelo Latino-Americano de Governança Corporativa
+
+![](images/02-2025-08-12_13/10-modelo_latino_americano.jpg){width="306"}
+
+### Características definidoras
+
+**Financiamento predominante** - Predomínio da dívida - Mercados de capitais pouco expressivos
+
+**Propriedade e controle acionário** - Propriedade concentrada - Maior participação estrangeira nos últimos anos
+
+**Propriedade e gestão** - Exercida pelos majoritários
+
+**Conflitos de agência** - Entre acionistas majoritários e minoritários
+
+**Proteção legal a minoritários** - Predominantemente fraca - Alta proporção de ações sem voto
+
+
+## Referências
+
+ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
+
+SILVEIRA, Alexandre Di Miceli da. *Governança Corporativa no Brasil e no Mundo: Teoria e Prática*. Rio de Janeiro: Elsevier, 2010.
