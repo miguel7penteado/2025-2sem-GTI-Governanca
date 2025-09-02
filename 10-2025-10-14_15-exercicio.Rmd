@@ -1,4 +1,4 @@
-# Governança da Informação - COBIT 5.0 - Implantação
+## Exercícios
 
 #### 14/10/2025 - Campus Marquês {.unnumbered}
 #### 15/10/2025 - Campus Chácara {.unnumbered}

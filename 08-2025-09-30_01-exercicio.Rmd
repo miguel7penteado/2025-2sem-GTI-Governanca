@@ -1,4 +1,5 @@
-# Governança da Informação - COBIT 5.0 - Os 5 Princípios
+## Exercícios
+
 
 #### 30/09/2025 - Campus Marquês {.unnumbered}
 #### 01/10/2025 - Campus Chácara {.unnumbered}

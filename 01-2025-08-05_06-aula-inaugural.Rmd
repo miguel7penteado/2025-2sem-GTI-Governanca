@@ -43,8 +43,7 @@
 -   Governança de TIC - Conhecer o COBIT 5.0 - Princípios e Habilitadores
 
 -   Governança de TIC - Conhecer o COBIT 2019 - mudanças em relação a versão 5.0
-
-    ![](images/2025-08-04/logos.jpg){width="334"}
+    
 
 ------------------------------------------------------------------------
 
@@ -100,7 +99,7 @@
 
 -   Vislumbrar o modelo COBIT 2019
 
-    ![](images/2025-08-04/modelagem.jpg){width="331"}
+    
 
 ------------------------------------------------------------------------
 

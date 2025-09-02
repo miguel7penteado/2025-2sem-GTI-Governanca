@@ -1,6 +1,11 @@
 output_dir: "docs"
 book_filename: "2025-GTI-2Sem-GovernancaInformacao"
 delete_merged_file: true
+rmd_files: [ "index.Rmd", "01-2025-08-05_06-aula-inaugural.Rmd", "02-2025-08-12_13-aula.Rmd", "02-2025-08-12_13-exercicio.Rmd", "03-2025-08-19_20-aula.Rmd",
+  "03-2025-08-19_20-exercicio.Rmd", "04-2025-08-26_27-aula.Rmd", "04-2025-08-26_27-exercicio.Rmd", "05-2025-09-02_03-aula.Rmd", "05-2025-09-02_03-exercicio.Rmd",
+  "06-2025-09-09_10-aula.Rmd", "06-2025-09-09_10-exercicio.Rmd", "07-2025-09-23_24-aula.Rmd", "07-2025-09-23_24-exercicio.Rmd", "08-2025-09-30_01-aula.Rmd",
+  "08-2025-09-30_01-exercicio.Rmd", "09-2025-10-07_08-aula.Rmd", "09-2025-10-07_08-exercicio.Rmd", "10-2025-10-14_15-aula.Rmd", "10-2025-10-14_15-exercicio.Rmd",
+  "11-2025-10-21_22-aula.Rmd", "11-2025-10-21_22-exercicio.Rmd", "12-2025-10-28_29-aula.Rmd", "12-2025-10-28_29-exercicio.Rmd" ]
 language:
   ui:
     chapter_name: "Slide "

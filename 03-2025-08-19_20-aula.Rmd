@@ -1,15 +1,3 @@
----
-output: 
-  html_document: 
-    toc_depth: 4
-    highlight: tango
-    theme: cerulean
-    #theme: flatly     # tema responsivo do bootstrap
-    #toc: true         # sumário navegável
-    #toc_float: true   # sumário flutuante (se cabe)
-    code_folding: hide
----
-
 # Governança Corporativa - Assembléia dos Proprietários
 
 #### 19/08/2025 - Campus Marquês {.unnumbered}
@@ -88,23 +76,35 @@ $$
 
 ![](images/03-2025-08-19_20/05-facebook.png){width="676"}
 
-|  |  |
-|----|----|
++-------------------------------------------------------------------------------+------------------------------------------------------------------+
 | ![](images/03-2025-08-19_20/03-mark_zuckenberg.jpg){width="330" height="413"} | ![](images/03-2025-08-19_20/04-eduardo_saverin.jpg){width="380"} |
++-------------------------------------------------------------------------------+------------------------------------------------------------------+
 
-| Data (Estim) | Evento Chave | Equity Saverin(Estim) | Contexto e Ação |
-|----|----|----|----|
-| Fevereiro de 2004 | Fundação do Facebook | 30% a 34% | **Eduardo Saverin** investe **US\$ 15 mil** para ajudar a fundar a empresa. **Sua participação é a maior entre os sócios**, atrás apenas de **Mark Zuckerberg**. |
-| Metade de 2004 | Mudança para Palo Alto | \< 30% | Desentendimentos entre Zuckerberg e Saverin. Zuckerberg começa a buscar novos investidores e a estruturar a empresa legalmente para uma nova rodada de investimento. |
-| Junho de 2004 | Aporte de Peter Thiel | \~20% a 25% | **Peter Thiel** e **Reid Hoffman** (investidores-anjo) injetam **US\$ 500 mil** no Facebook. Esta é a primeira rodada de investimento que causa a diluição da participação dos fundadores. |
-| Final de 2004 | Reestruturação e Exclusão | \< 10% | **Zuckerberg** cria uma **nova entidade legal** ("Thefacebook, Inc."), emite novas ações e, de forma controversa, **dilui a participação de Saverin** a uma porcentagem mínima **sem seu consentimento**. |
-| Maio de 2005 | Rodada de Série A | \~10% | A **Accel Partners** e o co-fundador da PayPal investem **US\$ 12,7 milhões** na empresa. **Ações adicionais são emitidas**, **diluindo ainda mais todos os fundadores**, incluindo **Saverin**. |
-| Setembro de 2005 | Processo Judicial de Saverin | \~10% | **Saverin** processa **Zuckerberg** e o Facebook, alegando que **foi diluído de forma ilegal** e **quebra de contrato**. |
-| 2006 | Rodada de Série B | \< 10% | **Accel Partners**, **Greylock Partners** e outros **investem US\$ 27,5 milhões**. A diluição continua. |
-| 2007 | Rodada da Microsoft | \< 5% | **A Microsoft investe US\$ 240 milhões**, avaliando o **Facebook em US\$ 15 bilhões**. A **emissão de novas ações dilui drasticamente a participação de todos os sócios**. |
-| 2008 | Acordo com Saverin | \~4% | Saverin e Zuckerberg chegam a um acordo extrajudicial. Os termos exatos não são revelados, mas é noticiado que Saverin recebe uma quantia em dinheiro, suas ações são restauradas, e ele é readmitido como cofundador. |
-| Maio de 2012 | IPO do Facebook | \~2% | No momento da **Oferta Pública Inicial (IPO)**, a participação de Saverin é amplamente divulgada como **estando em torno de 2%**. O **valor de sua fatia é estimado em cerca de US\$ 4 bilhões**. |
-|  |  |  |  |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Data (Estim)      | Evento Chave                 | Equity Saverin(Estim) | Contexto e Ação                                                                                                                                                                                                        |
++===================+==============================+=======================+========================================================================================================================================================================================================================+
+| Fevereiro de 2004 | Fundação do Facebook         | 30% a 34%             | **Eduardo Saverin** investe **US\$ 15 mil** para ajudar a fundar a empresa. **Sua participação é a maior entre os sócios**, atrás apenas de **Mark Zuckerberg**.                                                       |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Metade de 2004    | Mudança para Palo Alto       | \< 30%                | Desentendimentos entre Zuckerberg e Saverin. Zuckerberg começa a buscar novos investidores e a estruturar a empresa legalmente para uma nova rodada de investimento.                                                   |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Junho de 2004     | Aporte de Peter Thiel        | \~20% a 25%           | **Peter Thiel** e **Reid Hoffman** (investidores-anjo) injetam **US\$ 500 mil** no Facebook. Esta é a primeira rodada de investimento que causa a diluição da participação dos fundadores.                             |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Final de 2004     | Reestruturação e Exclusão    | \< 10%                | **Zuckerberg** cria uma **nova entidade legal** ("Thefacebook, Inc."), emite novas ações e, de forma controversa, **dilui a participação de Saverin** a uma porcentagem mínima **sem seu consentimento**.              |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Maio de 2005      | Rodada de Série A            | \~10%                 | A **Accel Partners** e o co-fundador da PayPal investem **US\$ 12,7 milhões** na empresa. **Ações adicionais são emitidas**, **diluindo ainda mais todos os fundadores**, incluindo **Saverin**.                       |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Setembro de 2005  | Processo Judicial de Saverin | \~10%                 | **Saverin** processa **Zuckerberg** e o Facebook, alegando que **foi diluído de forma ilegal** e **quebra de contrato**.                                                                                               |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2006              | Rodada de Série B            | \< 10%                | **Accel Partners**, **Greylock Partners** e outros **investem US\$ 27,5 milhões**. A diluição continua.                                                                                                                |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2007              | Rodada da Microsoft          | \< 5%                 | **A Microsoft investe US\$ 240 milhões**, avaliando o **Facebook em US\$ 15 bilhões**. A **emissão de novas ações dilui drasticamente a participação de todos os sócios**.                                             |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 2008              | Acordo com Saverin           | \~4%                  | Saverin e Zuckerberg chegam a um acordo extrajudicial. Os termos exatos não são revelados, mas é noticiado que Saverin recebe uma quantia em dinheiro, suas ações são restauradas, e ele é readmitido como cofundador. |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Maio de 2012      | IPO do Facebook              | \~2%                  | No momento da **Oferta Pública Inicial (IPO)**, a participação de Saverin é amplamente divulgada como **estando em torno de 2%**. O **valor de sua fatia é estimado em cerca de US\$ 4 bilhões**.                      |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                   |                              |                       |                                                                                                                                                                                                                        |
++-------------------+------------------------------+-----------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ------------------------------------------------------------------------
 
@@ -199,9 +199,9 @@ $$
 x = \frac{(R\$ 5.000.000,00) \times 100}{R\$ 6.000.000,00} \\
 x = (\frac{5}{6}) \times 100 \\
 x \quad = \quad (0,8333 \times 100) \quad = \quad 83,33\%  \\
-\textbf{Portanto, 83,33% é agora participação de capital social restante ao dono original.} \\
+\textbf{Portanto, 83,33\% é agora participação de capital social restante ao dono original.} \\
 \text{ } \\
-ParticipaçãoInvestidor = (\frac{ R$ 1.000.000}{ R$ 6.000.000}) * 100% \\
+ParticipaçãoInvestidor = (\frac{ R\$ 1.000.000}{ R\$ 6.000.000}) * 100\% 
 $$
 
 $$
@@ -235,7 +235,7 @@ x=\frac{ 5 }{6} * 100 \\
 x= (0,833333) * 100 \\
 \text{ } \\
 x= 83,33\% \\
-\text{ O antigo dono, agora um sócio-fundador, possui } \quad \textbf{83,33%} \quad \text{de participação na empresa} \\
+\text{ O antigo dono, agora um sócio-fundador, possui } \quad \textbf{83,33\%} \quad \text{de participação na empresa} \\
 \text{ } \\
 \text{----------------------------------------------------------------------------------------------} \\
 \text{ PARTICIPAÇÃO DO NOVO SÓCIO (o que entrou como investidior) NO NOVO CAPITAL SOCIAL DA EMPRESA } \\
@@ -252,7 +252,7 @@ x=\frac{ 1 }{6} * 100 \\
 x= (0,16666666666) * 100 \\
 \text{ } \\
 x= 16,6666\% \\
-\text{ O novo sócio, agora um sócio-investidor, possui } \quad \textbf{16,66%} \quad \text{de participação na empresa} \\
+\text{ O novo sócio, agora um sócio-investidor, possui } \quad \textbf{16,66\%} \quad \text{de participação na empresa} \\
 \text{ } \\
 $$
 
@@ -276,23 +276,23 @@ $$
 
 $$
 \text{ } \\
-\text{ TOTAL_COTAS_APOS_INVESTIMENTO } = \frac{ ( TOTAL\_COTAS\_ORIGINAIS )}{(100\% - PARTICIPACAO\_NOVO\_INVESTIDOR\%)}
+\text{ TOTAL\_COTAS\_APOS\_INVESTIMENTO } = \frac{ ( TOTAL\_COTAS\_ORIGINAIS )}{(100\% - PARTICIPACAO\_NOVO\_INVESTIDOR\%)}
 \text{ } \\
-\text{TOTAL_COTAS_ORIGINAIS} \Rightarrow \quad \textbf{1.000.000} \quad  \text{ (um milhão de cotas) }
+\text{TOTAL\_COTAS\_ORIGINAIS} \Rightarrow \quad \textbf{1.000.000} \quad  \text{ (um milhão de cotas) }
 \text{ } \\
-\text{PARTICIPACAO_NOVO_INVESTIDOR } \quad \Rightarrow \quad \textbf{16,67\%}
+\text{PARTICIPACAO\_NOVO\_INVESTIDOR } \quad \Rightarrow \quad \textbf{16,67\%}
 \text{ } \\
-\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ (100\% - 16,67\%}
+\text{TOTAL\_COTAS\_APOS\_INVESTIMENTO} = \frac{1.000.000}{ (100\% - 16,67\%}
 \text{ } \\
-\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ 1 - 0,1667}
+\text{TOTAL\_COTAS\_APOS\_INVESTIMENTO} = \frac{1.000.000}{ 1 - 0,1667}
 \text{ } \\
-\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \frac{1.000.000}{ 0,83}
+\text{TOTAL\_COTAS\_APOS\_INVESTIMENTO} = \frac{1.000.000}{ 0,83}
 \text{ } \\
-\text{TOTAL_COTAS_APOS_INVESTIMENTO} = \text{1.200.000 quotas}
+\text{TOTAL\_COTAS\_APOS\_INVESTIMENTO} = \text{1.200.000 quotas}
 \text{ } \\
 \text{ Sabendo que a quantidade de cotas totais é de 1.200.000 (um milhão e duzentas cotas) e } \\
 \text{ } \\
-\text{ a participação do novo investidor é de 16,66% } \\
+\text{ a participação do novo investidor é de 16,66\% } \\
 \text{ } \\
 \text{ vamos usar a REGRA DE 3 para descobrir a quantidade cotas dele } \\
 \text{ } \\
@@ -309,7 +309,7 @@ x= 199.999,99 \\
 \text{ } \\
 x= 200.000
 \text{ O novo sócio, agora um sócio-investidor, possui } \quad \textbf{ 200.000 } \quad \text{cotas da empresa} \\
-\text{ } \\
+\text{ } 
 $$
 
 #### RESPOSTA ITEM III : "O novo sócio (investidor) recebeu 200.000 (duzentas mil) cotas da empresa."
@@ -319,15 +319,15 @@ $$
 #### Item IV - Qual o valor máximo que um investidor poderia aportar (colocar na empresa), sem que o dono original perca a majoridade ?
 
 $$
-\text{ O INVESTIDOR ORIGINAL SÓ PERDE A MAJORIDADE SE FICAR COM MENOS DE 51% DO CAPITAL SOCIAL} \\
+\text{ O INVESTIDOR ORIGINAL SÓ PERDE A MAJORIDADE SE FICAR COM MENOS DE 51\% DO CAPITAL SOCIAL} \\
 \text{ } \\
 \text{ COMO VIMOS NO EXERCÍCIO, ELE POSSUI 5 MILHÕES DE PARTICIPAÇÃO NO CAPITAL SOCIAL } \\
 \text{ } \\
 \text{ APÓS O NOVO SÓCIO TER INVESTIDO 1 MILHÃO, A EMPRESA PASSOU A TER 6 MILHÕES DE CAPITAL SOCIAL } \\
 \text{ } \\
-\text{ SENDO QUE DESTES 6 MILHÕES, 5 MILHÕES SÃO DO ANTIGO DONO (5 MILHÕES REPRESENTAM 83,33% DO VALOR TOTAL) } \\
+\text{ SENDO QUE DESTES 6 MILHÕES, 5 MILHÕES SÃO DO ANTIGO DONO (5 MILHÕES REPRESENTAM 83,33\% DO VALOR TOTAL) } \\
 \text{ } \\
-\text{ A PERGUNTA AGORA SERIA: "QUAL VALOR TOTAL ONDE 5 MILHÕES REPRESENTAM 51% DELE") } \\
+\text{ A PERGUNTA AGORA SERIA: "QUAL VALOR TOTAL ONDE 5 MILHÕES REPRESENTAM 51\% DELE") } \\
 \text{ } \\
 \text{ VAMOS UTILIZAR NOVAMENTE A REGRA DE 3} \\
 \text{ } \\
@@ -343,7 +343,7 @@ x= 9.803.921,5687 \\
 \text{ } \\
 \text{ Assim, sabendo que já tinhamos R\$ 5.000.000,00 em caixa, se o investidor investisse mais 4.803.921,5687 } \\
 \text{ o total em caixa chegava a R\$ 9.803.921,5687 DE CAPITAL SOCIAL , quantidade máxima de capital social total para que os 5 milhões do antigo dono } \\
-\text{ representassem 51% da participação na sociedade. } \\
+\text{ representassem 51\% da participação na sociedade. } \\
 \text{ Um investidor pode investir no máximo } \textbf{R\$ 4.803.921,56 } \text{ para que o antigo dono ainda seja mandatário na empresa } \\
 \text{ } \\
 $$

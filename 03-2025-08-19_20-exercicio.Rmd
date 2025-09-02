@@ -1,19 +1,4 @@
----
-output: 
-  html_document: 
-    toc_depth: 4
-    highlight: tango
-    theme: cerulean
-    #theme: flatly     # tema responsivo do bootstrap
-    #toc: true         # sumário navegável
-    #toc_float: true   # sumário flutuante (se cabe)
-    code_folding: hide
----
-# Governança Corporativa - Assembléia dos Proprietários
-
-#### 19/08/2025 - Campus Marquês {.unnumbered}
-
-#### 20/08/2025 - Campus Chácara {.unnumbered}
+## Exercícios
 
 ### **Exercício 3:** Aporte Growth Capital (Série B)
 

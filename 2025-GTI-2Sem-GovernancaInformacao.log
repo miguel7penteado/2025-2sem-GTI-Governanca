@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.23)  31 AUG 2025 10:45
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.23)  2 SEP 2025 01:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -967,24 +967,573 @@ Missing character: There is no 🏫 (U+1F3EB) in font [lmroman12-bold]:mapping=t
 
 ]
 Missing character: There is no 🎯 (U+1F3AF) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 📅 (U+1F4C5) in font [lmroman12-bold]:mapping=tex-text;!
 
-LaTeX Warning: File `images/2025-08-04/logos.jpg' not found on input line 384.
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.1 on input line 410.
 
-! Unable to load picture or PDF file 'images/2025-08-04/logos.jpg'.
+[14]
+Missing character: There is no 📅 (U+1F4C5) in font [lmroman12-bold]:mapping=tex-text;!
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1.2 on input line 437.
+
+Missing character: There is no 📚 (U+1F4DA) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 📝 (U+1F4DD) in font [lmroman12-bold]:mapping=tex-text;!
+
+
+Missing character: There is no 📅 (U+1F4C5) in font [lmromanslant10-regular]:mapping=tex-text;!
+
+Overfull \hbox (33.52342pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 1.5.  📅 CALENDÁRIO DA DISCIPLINA - CAMPUS CHÁCARA SANTO ANTÔNIO \TU/lmr/m/n/10 15
+ []
+
+[15]
+Missing character: There is no 🛠 (U+1F6E0) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no ️ (U+FE0F) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 📌 (U+1F4CC) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 💡 (U+1F4A1) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 🙌 (U+1F64C) in font [lmroman12-bold]:mapping=tex-text;!
+Missing character: There is no 📧 (U+1F4E7) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 📊 (U+1F4CA) in font [lmroman10-regular]:mapping=tex-text;!
+
+
+[16]
+
+Missing character: There is no 🙌 (U+1F64C) in font [lmromanslant10-regular]:mapping=tex-text;!
+[17]
+
+[18
+
+]
+Chapter 2.
+
+
+[19]
+File: images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/01-Ale_costa_Cacau_Show.jpg>
+File: images/02-2025-08-12_13/02-Weg.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/02-Weg.jpg>
+File: images/02-2025-08-12_13/022-Tramontina.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/022-Tramontina.jpg>
+
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 20 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[20]
+File: images/02-2025-08-12_13/00-PetroBras.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/00-PetroBras.jpg>
+
+Overfull \hbox (20.64003pt too wide) in alignment at lines 650--656
+ [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2.3 on input line 656.
+
+
+Overfull \hbox (68.74123pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 2.2.  QUAIS MOTIVOS CRIAM A NECESSIDADE DE GOVERNANÇA CORPORATIVA ? \TU/lmr/m/n/10 21
+ []
+
+[21]
+File: images/02-2025-08-12_13/04-Fusao_Corporativa.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/04-Fusao_Corporativa.jpg>
+File: images/02-2025-08-12_13/03-sucessao_familiar.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/03-sucessao_familiar.jpg>
+
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 22 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[22]
+File: images/02-2025-08-12_13/05-linha_sucessoria.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/05-linha_sucessoria.jpg>
+
+Overfull \hbox (91.78741pt too wide) in paragraph at lines 694--696
+[][] 
+ []
+
+
+
+
+Overfull \hbox (145.28233pt too wide) has occurred while \output is active
+\TU/lmr/m/sl/10 2.5.  CASOS QUE NORMALMENTE DEMANDAM ARQUITETURA DE GOVERNANÇA CORPORATIVA \TU/lmr/m/n/10 23
+ []
+
+[23]
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 24 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[24]
+File: images/02-2025-08-12_13/00-topo_piramide.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/00-topo_piramide.jpg>
+
+
+[25]
+File: images/02-2025-08-12_13/06-modelo_anglo-saxao.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/06-modelo_anglo-saxao.jpg>
+File: images/02-2025-08-12_13/07-modelo_alemao.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/07-modelo_alemao.jpg>
+
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 26 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[26]
+File: images/02-2025-08-12_13/09-modelo_japones.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/09-modelo_japones.jpg>
+File: images/02-2025-08-12_13/08-modelo_frances.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/08-modelo_frances.jpg>
+
+
+[27]
+File: images/02-2025-08-12_13/10-modelo_latino_americano.jpg Graphic file (type bmp)
+<images/02-2025-08-12_13/10-modelo_latino_americano.jpg>
+
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 28 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[28]
+Overfull \hbox (2.06886pt too wide) in alignment at lines 844--850
+ [] 
+ []
+
+
+Overfull \hbox (2.06886pt too wide) in alignment at lines 850--852
+ [] 
+ []
+
+
+Overfull \hbox (2.06886pt too wide) in alignment at lines 852--898
+ [] 
+ []
+
+[29]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2.6 on input line 915.
+
+
+Overfull \hbox (3.34808pt too wide) in alignment at lines 920--926
+ [] 
+ []
+
+
+Overfull \hbox (3.34808pt too wide) in alignment at lines 926--928
+ [] 
+ []
+
+
+Overfull \hbox (3.34808pt too wide) in alignment at lines 928--974
+ [] 
+ []
+
+
+Overfull \hbox (4.06929pt too wide) in alignment at lines 979--985
+ [] 
+ []
+
+
+Overfull \hbox (4.06929pt too wide) in alignment at lines 985--987
+ [] 
+ []
+
+
+Overfull \hbox (4.06929pt too wide) in alignment at lines 987--1033
+ [] 
+ []
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[30]
+Overfull \hbox (4.21143pt too wide) in alignment at lines 1044--1050
+ [] 
+ []
+
+
+Overfull \hbox (4.21143pt too wide) in alignment at lines 1050--1052
+ [] 
+ []
+
+
+Overfull \hbox (4.21143pt too wide) in alignment at lines 1052--1107
+ [] 
+ []
+
+[31]
+Overfull \hbox (4.79576pt too wide) in alignment at lines 1172--1178
+ [] 
+ []
+
+
+Overfull \hbox (4.79576pt too wide) in alignment at lines 1178--1180
+ [] 
+ []
+
+
+Overfull \hbox (4.79576pt too wide) in alignment at lines 1180--1227
+ [] 
+ []
+
+
+Overfull \hbox (4.59045pt too wide) in alignment at lines 1232--1238
+ [] 
+ []
+
+
+Overfull \hbox (4.59045pt too wide) in alignment at lines 1238--1240
+ [] 
+ []
+
+
+Overfull \hbox (4.59045pt too wide) in alignment at lines 1240--1287
+ [] 
+ []
+
+
+Overfull \hbox (4.00085pt too wide) in alignment at lines 1292--1298
+ [] 
+ []
+
+
+Overfull \hbox (4.00085pt too wide) in alignment at lines 1298--1300
+ [] 
+ []
+
+
+Overfull \hbox (4.00085pt too wide) in alignment at lines 1300--1346
+ [] 
+ []
+
+
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 32 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[32]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 2.14 on input line 1363.
+
+[33]
+
+
+Overfull \hbox (3.03452pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 34 \TU/lmr/m/sl/10 CHAPTER 2.  GOVERNANÇA CORPORATIVA - O TOPO DA PIRÂMIDE
+ []
+
+[34]
+Chapter 3.
+File: images/03-2025-08-19_20/00-assembleia_cotistas.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/00-assembleia_cotistas.jpg>
+
+Overfull \hbox (41.19186pt too wide) in paragraph at lines 1487--1488
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[35
+
+]
+Overfull \vbox (229.46434pt too high) has occurred while \output is active []
+
+
+
+
+Overfull \hbox (67.36563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 36 \TU/lmr/m/sl/10 CHAPTER 3.  GOVERNANÇA CORPORATIVA - ASSEMBLÉIA DOS PROPRIETÁRIOS
+ []
+
+[36]
+File: images/03-2025-08-19_20/01-assembleia_cotistas.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/01-assembleia_cotistas.jpg>
+
+Overfull \hbox (42.69748pt too wide) in paragraph at lines 1489--1490
+[][] 
+ []
+
+
+Underfull \hbox (badness 4366) in paragraph at lines 1495--1495
+[]\TU/lmr/bx/n/14.4 Principais Competências da Assembleia
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 1501--1503
+[]\TU/lmr/bx/n/10 Aumentar ou reduzir o capital social \TU/lmr/m/n/10 e \TU/lmr/bx/n/10 reformar o es-
+ []
+
+
+
+[37]
+File: images/03-2025-08-19_20/02-assembleia_cotistas-equity.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/02-assembleia_cotistas-equity.jpg>
+
+Underfull \vbox (badness 4765) has occurred while \output is active []
+
+
+
+
+Overfull \hbox (67.36563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 38 \TU/lmr/m/sl/10 CHAPTER 3.  GOVERNANÇA CORPORATIVA - ASSEMBLÉIA DOS PROPRIETÁRIOS
+ []
+
+[38]
+Missing character: There is no ó ("F3) in font lmmi10!
+Missing character: There is no ó ("F3) in font lmmi10!
+Missing character: There is no é ("E9) in font lmmi10!
+
+Overfull \hbox (125.57597pt too wide) detected at line 1542
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] []
+ []
+
+Missing character: There is no ç ("E7) in font lmmi10!
+Missing character: There is no ã ("E3) in font lmmi10!
+Missing character: There is no ó ("F3) in font lmmi10!
+
+Overfull \hbox (16.75597pt too wide) detected at line 1548
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][]
+ []
+
+File: images/03-2025-08-19_20/05-facebook.png Graphic file (type bmp)
+<images/03-2025-08-19_20/05-facebook.png>
+
+Overfull \hbox (163.89218pt too wide) in paragraph at lines 1554--1555
+[][] 
+ []
+
+File: images/03-2025-08-19_20/03-mark_zuckenberg.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/03-mark_zuckenberg.jpg>
+
+Overfull \hbox (26.0527pt too wide) in paragraph at lines 1563--1563
+[]|[]|  
+ []
+
+File: images/03-2025-08-19_20/04-eduardo_saverin.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/04-eduardo_saverin.jpg>
+
+Overfull \hbox (134.28455pt too wide) in paragraph at lines 1563--1564
+[]|[]|  
+ []
+
+
+
+[39]
+
+
+Overfull \hbox (67.36563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 40 \TU/lmr/m/sl/10 CHAPTER 3.  GOVERNANÇA CORPORATIVA - ASSEMBLÉIA DOS PROPRIETÁRIOS
+ []
+
+[40]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 3.1 on input line 1564.
+
+
+Overfull \hbox (0.52011pt too wide) in paragraph at lines 1573--1574
+[]\TU/lmr/m/n/10 Data 
+ []
+
+
+Overfull \hbox (4.10437pt too wide) in paragraph at lines 1577--1578
+[]\TU/lmr/m/n/10 Equity 
+ []
+
+
+Overfull \hbox (40.29437pt too wide) in paragraph at lines 1577--1578
+\TU/lmr/m/n/10 Saverin(Estim)  
+ []
+
+
+Overfull \hbox (18.63011pt too wide) in paragraph at lines 1585--1585
+[]|\TU/lmr/m/n/10 Fevereiro 
+ []
+
+
+Overfull \hbox (9.25374pt too wide) in paragraph at lines 1585--1585
+[]|\TU/lmr/m/n/10 Fundação 
+ []
+
+
+Overfull \hbox (11.49011pt too wide) in paragraph at lines 1586--1586
+[]|\TU/lmr/m/n/10 Metade 
+ []
+
+
+Overfull \hbox (7.72374pt too wide) in paragraph at lines 1586--1586
+[]|\TU/lmr/m/n/10 Mudança 
+ []
+
+
+Overfull \hbox (5.81012pt too wide) in paragraph at lines 1587--1587
+[]|\TU/lmr/m/n/10 Junho 
+ []
+
+
+Overfull \hbox (1.6401pt too wide) in paragraph at lines 1588--1588
+[]|\TU/lmr/m/n/10 Final 
+ []
+
+
+Overfull \hbox (33.79373pt too wide) in paragraph at lines 1588--1588
+[]|\TU/lmr/m/n/10 Reestruturação 
+ []
+
+
+Overfull \hbox (0.94011pt too wide) in paragraph at lines 1589--1589
+[]|\TU/lmr/m/n/10 Maio 
+ []
+
+
+Overfull \hbox (1.19373pt too wide) in paragraph at lines 1589--1589
+[]|\TU/lmr/m/n/10 Rodada 
+ []
+
+
+Overfull \hbox (19.85011pt too wide) in paragraph at lines 1590--1590
+[]|\TU/lmr/m/n/10 Setembro 
+ []
+
+
+Overfull \hbox (5.20374pt too wide) in paragraph at lines 1590--1590
+[]|\TU/lmr/m/n/10 Processo 
+ []
+
+
+Overfull \hbox (1.19373pt too wide) in paragraph at lines 1591--1591
+[]|\TU/lmr/m/n/10 Rodada 
+ []
+
+
+Overfull \hbox (1.19373pt too wide) in paragraph at lines 1592--1592
+[]|\TU/lmr/m/n/10 Rodada 
+ []
+
+
+Overfull \hbox (0.94011pt too wide) in paragraph at lines 1594--1594
+[]|\TU/lmr/m/n/10 Maio 
+ []
+
+[41]
+
+
+Overfull \hbox (67.36563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 42 \TU/lmr/m/sl/10 CHAPTER 3.  GOVERNANÇA CORPORATIVA - ASSEMBLÉIA DOS PROPRIETÁRIOS
+ []
+
+[42]
+File: images/03-2025-08-19_20/exercicio-01.jpg Graphic file (type bmp)
+<images/03-2025-08-19_20/exercicio-01.jpg>
+
+Overfull \hbox (169.92245pt too wide) in paragraph at lines 1608--1609
+[][] 
+ []
+
+
+Overfull \hbox (0.93178pt too wide) in alignment at lines 1615--1633
+ [] 
+ []
+
+
+
+[43]
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 3.3 on input line 1633.
+
+
+Overfull \hbox (6.71768pt too wide) in paragraph at lines 1650--1651
+ []\TU/lmr/m/n/10 INVESTIMENTO 
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 1666--1666
+[]\TU/lmr/bx/n/10 RESPOSTA ITEM I : “O antigo dono continuar com
+ []
+
+
+Overfull \hbox (0.65895pt too wide) in paragraph at lines 1686--1687
+ []\TU/lmr/m/n/10 INVESTIMENTO 
+ []
+
+
+Overfull \hbox (0.65895pt too wide) in paragraph at lines 1698--1699
+ []\TU/lmr/m/n/10 INVESTIMENTO 
+ []
+
+
+
+
+Overfull \hbox (67.36563pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 44 \TU/lmr/m/sl/10 CHAPTER 3.  GOVERNANÇA CORPORATIVA - ASSEMBLÉIA DOS PROPRIETÁRIOS
+ []
+
+[44]
+Overfull \hbox (845.03574pt too wide) detected at line 1725
+[][] [][] [][] [][][][][][][][][][][][] [][]  [] [][][][][][] [][] [][] [][] [][] [][][][][][][][][][][][] [][]  [] [][][][]
+ []
+
+Missing character: There is no ç ("E7) in font lmmi10!
+Missing character: There is no ã ("E3) in font lmmi10!
+
+Overfull \hbox (879.32541pt too wide) detected at line 1746
+[][] [][] [] [] [][] [] [] [][][] [] [][][][] []  []  [][][] [][][][] [] [][][][]  []  [][][] [][][][] [][] [][] [][][][][][][][][][][][][][][][][][][][] [] [][][] [] [][][][]
+ []
+
+
+Overfull \hbox (6210.07072pt too wide) detected at line 1798
+[][] [][] [][] [][] [] [] [] [] [][] [][] [][] [][] [][] [][] [] [] [] [] [][] [][] [][] [][] [][] [][] [][] [][] [][] [][] [][] [][]  [] [] []  []  [] [] [][] [][] [] [] [] [] [][][][] [][] [] [] [][][] [][][][][][][] [] [][][][] [][] [] [] [][][] [][][][] [] [] [][] [][] [][] [][] [][] [][] [][] [][] [][]  [] [] []  []  [] [] [][] [][] [] [] [] [] [][][][] [][] [] [] [][][] [][][][][][][][][][][][] [] [][][][] [][] [] [] [][][] [][][][][][] [] [] [][] [][] 
+ []
+
+
+
+[45]
+Overfull \hbox (4182.4559pt too wide) detected at line 1881
+[][] [] [] [][][] [] []  [] [][][] []  []  [][][] [] [] [][][] [] [] [][][] [] [] [][][] [] [] [][][] [][] [][] [][] [][] [][] [][]  [] [] []  []  [][] [][][] [] [] [] [][][][] [][][][][] [] [][][][][][][][][][][][] [][][] [] [] [] [][][][] [][][][][] [] [][][][][][][][][][][][] [][] [] [] [][] [][] [] [] [][] [] [] [][][][][][][][] [][][] [] [][] [][] [] [] [][][][][][][][] [] [][] []
+ []
+
+Runaway argument?
+{ R\$ 9.803.921,5687 é o valor total de dinheiro em caixa onde R\$ 5\ETC.
+! Paragraph ended before \text@ was complete.
 <to be read again> 
-                   }
-l.384 ...\textheight]{images/2025-08-04/logos.jpg}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
+                   \par 
+l.1918 
+       
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
 
  
 Here is how much of TeX's memory you used:
- 16934 strings out of 470456
- 312065 string characters out of 5489228
- 855101 words of memory out of 5000000
- 45050 multiletter control sequences out of 15000+600000
- 633276 words of font info for 93 fonts, out of 8000000 for 9000
+ 17140 strings out of 470456
+ 320056 string characters out of 5489228
+ 872101 words of memory out of 5000000
+ 45223 multiletter control sequences out of 15000+600000
+ 633324 words of font info for 99 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,7n,114p,450b,491s stack positions out of 10000i,1000n,20000p,200000b,200000s
-Output written on 2025-GTI-2Sem-GovernancaInformacao.pdf (13 pages).
+ 90i,8n,114p,465b,511s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on 2025-GTI-2Sem-GovernancaInformacao.pdf (45 pages).

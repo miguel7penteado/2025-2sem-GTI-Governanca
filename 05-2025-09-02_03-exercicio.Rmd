@@ -1,11 +1,197 @@
-# Governança Corporativa - C Level e Diretorias
+## Exercícios
 
-#### 02/09/2025 - Campus Marquês {.unnumbered}
+## Exercícios de Governança Corporativa — C-Level
 
-#### 03/09/2025 - Campus Chácara {.unnumbered}
 
-## Referências
+| Questão 1 |
+|-----------|
+| Comitês de suporte à decisão têm como principal objetivo: |
+| a) Executar a estratégia definida pelo CEO |
+| b) Reduzir o número de conselheiros independentes |
+| c) Apoiar tecnicamente as deliberações do Conselho de Administração |
+| d) Substituir o Conselho Consultivo em decisões estratégicas |
+| e) Realizar auditorias externas de forma independente |
 
-ROSSETTI, José Paschoal; ANDRADE, Adriana. *Governança Corporativa: Fundamentos, Desenvolvimento e Tendências*. São Paulo: Atlas, 7. ed., 2014. p. s.p.
+---
 
-SILVEIRA, Alexandre Di Miceli da. *Governança Corporativa no Brasil e no Mundo: Teoria e Prática*. Rio de Janeiro: Elsevier, 2010.
+| Questão 2 |
+|-----------|
+| De acordo com Silveira (2010), quais são os três comitês considerados mais importantes? |
+| a) Ética, Estratégia e Novos Negócios |
+| b) Auditoria, Remuneração/Recursos Humanos e Nomeação/Governança |
+| c) Crises, Marketing e Operações |
+| d) Inovação, Digitalização e Sustentabilidade |
+| e) Planejamento, Comunicação e TI |
+
+---
+
+| Questão 3 |
+|-----------|
+| Qual característica distingue os Comitês de Suporte à Decisão? |
+| a) Sempre possuem caráter permanente |
+| b) Atuam sem vínculo com o Conselho de Administração |
+| c) Possuem natureza técnica e foco especializado em determinados temas |
+| d) São obrigatoriamente formados por membros externos à empresa |
+| e) Substituem a diretoria executiva em crises |
+
+---
+
+| Questão 4 |
+|-----------|
+| O papel principal do **C-Level** é: |
+| a) Garantir a visão de longo prazo da empresa |
+| b) Liderar a operação e executar a estratégia |
+| c) Representar os acionistas perante o mercado |
+| d) Criar políticas de governança corporativa |
+| e) Aprovar a remuneração de conselheiros |
+
+---
+
+| Questão 5 |
+|-----------|
+| O **CEO** (Chief Executive Officer) é responsável por: |
+| a) Definir visão e estratégia da organização |
+| b) Supervisionar a auditoria externa |
+| c) Elaborar o sistema de remuneração dos executivos |
+| d) Administrar unicamente operações financeiras |
+| e) Gerenciar infraestrutura de TI |
+
+---
+
+| Questão 6 |
+|-----------|
+| Qual é o papel principal do **COO**? |
+| a) Redefinir estratégias de longo prazo |
+| b) Administrar operações diárias e garantir a execução da estratégia |
+| c) Controlar os riscos financeiros da organização |
+| d) Supervisionar diretamente o Conselho de Administração |
+| e) Conduzir políticas de comunicação e marca |
+
+---
+
+| Questão 7 |
+|-----------|
+| Entre as funções do **CFO** estão: |
+| a) Gestão da comunicação externa |
+| b) Planejamento financeiro, orçamento e controle de riscos |
+| c) Coordenação da seleção do CEO |
+| d) Desenvolvimento de novos produtos e serviços |
+| e) Criação de métricas de performance de TI |
+
+---
+
+| Questão 8 |
+|-----------|
+| O **CMO** é responsável principalmente por: |
+| a) Controlar o orçamento anual da organização |
+| b) Criar campanhas de marketing e gerenciar a imagem da marca |
+| c) Liderar auditorias independentes |
+| d) Supervisionar conselhos consultivos |
+| e) Implementar políticas de remuneração de executivos |
+
+---
+
+| Questão 9 |
+|-----------|
+| O **CTO** (Chief Technology Officer) tem como papel central: |
+| a) Planejar a sucessão do CEO |
+| b) Representar os acionistas em assembleias |
+| c) Definir visão tecnológica e impulsionar inovação alinhada aos objetivos do negócio |
+| d) Elaborar políticas de remuneração |
+| e) Conduzir comitês de ética |
+
+---
+
+| Questão 10 |
+|------------|
+| Na relação entre Conselho de Administração e C-Level: |
+| a) O Conselho define diretrizes e o C-Level executa e operacionaliza |
+| b) O Conselho executa operações diárias e o C-Level define estratégias |
+| c) Ambos têm papéis idênticos e intercambiáveis |
+| d) O Conselho atua apenas em crises e o C-Level em operações rotineiras |
+| e) O Conselho supervisiona apenas o marketing e o C-Level o financeiro |
+
+---
+
+### Gabarito em Tabela
+
+| Gabarito |
+|----------|
+| 1. c) Apoiar tecnicamente as deliberações do Conselho de Administração |
+| 2. b) Auditoria, Remuneração/Recursos Humanos e Nomeação/Governança |
+| 3. c) Possuem natureza técnica e foco especializado em determinados temas |
+| 4. b) Liderar a operação e executar a estratégia |
+| 5. a) Definir visão e estratégia da organização |
+| 6. b) Administrar operações diárias e garantir a execução da estratégia |
+| 7. b) Planejamento financeiro, orçamento e controle de riscos |
+| 8. b) Criar campanhas de marketing e gerenciar a imagem da marca |
+| 9. c) Definir visão tecnológica e impulsionar inovação alinhada aos objetivos do negócio |
+| 10. a) O Conselho define diretrizes e o C-Level executa e operacionaliza |
+
+
+
+
+## Exercícios de Governança Corporativa — Comitês de Suporte a Decisão
+
+| |
+|---|
+| **Questão 1** |
+| Qual é a função primordial dos Comitês de Suporte à Decisão, de acordo com o documento? |
+| A) Executar e operacionalizar as diretrizes definidas pelo C-Level da empresa. |
+| B) Substituir o Conselho de Administração em deliberações estratégicas complexas. |
+| C) Amparar tecnicamente as decisões e deliberações do conselho de administração.  |
+| D) Gerenciar as operações diárias e garantir a execução da estratégia da empresa. |
+| E) Representar a empresa externamente e supervisionar os demais executivos. |
+
+| |
+|---|
+| **Questão 2** |
+| Segundo Alexandre Di Miceli Silveira, citado no texto, quais são os 3 Comitês de Suporte à Decisão considerados os mais importantes? |
+| A) Comitê de Riscos e Crises, Comitê de Ética e Comitê de Estratégia. |
+| B) Comitê de Auditoria, Comitê de Remuneração/Recursos Humanos e Comitê de Nomeação/Governança Corporativa. |
+| C) Comitê de Estratégia, Comitê de Novos Negócios e Comitê de Marketing. |
+| D) Comitê de Tecnologia, Comitê de Segurança da Informação e Comitê de Dados. |
+| E) Comitê de Auditoria, Comitê de Finanças e Comitê de Operações. |
+
+| |
+|---|
+| **Questão 3** |
+| Uma das características dos Comitês de Suporte à Decisão é a "Flexibilidade de Duração". O que isso significa? |
+| A) Que os comitês devem se reunir em horários flexíveis para acomodar os membros. |
+| B) Que as decisões dos comitês podem ser alteradas a qualquer momento pelo C-Level. |
+|  C) Que os comitês podem ser permanentes ou temporários, adaptando-se às necessidades da organização.  |
+| D) Que os comitês possuem foco em diversos temas simultaneamente. |
+| E) Que a composição dos membros do comitê é alterada constantemente. |
+
+| |
+|---|
+| **Questão 4** |
+| Qual das seguintes atribuições pertence ao Comitê de Auditoria? |
+| A) Coordenar o processo de seleção e indicação do diretor-presidente.  |
+| B) Avaliar a independência de consultorias de remuneração de executivos.  |
+| C) Analisar novas oportunidades de mercado e parcerias estratégicas.  |
+| D) Avaliar a efetividade dos controles internos e gerenciamento de riscos.  |
+| E) Auxiliar na formulação e revisão das estratégias da empresa.  |
+
+| |
+|---|
+| **Questão 5** |
+| O que significa a característica "Foco Ad Hoc" dos comitês de suporte? |
+| A) Significa que eles possuem foco em um determinado tema de análise.  |
+| B) Significa que eles são sempre temporários e criados para crises. |
+| C) Significa que não possuem natureza técnica, mas sim consultiva. |
+| D) Significa que atuam de forma independente do Conselho de Administração. |
+| E) Significa que são compostos por membros externos à organização. |
+
+
+### Gabarito - Comitês de Suporte a Decisão
+
+| |
+|---|
+| **Gabarito** |
+| Resposta da Questão 1: C |
+| Resposta da Questão 2: B |
+| Resposta da Questão 3: C |
+| Resposta da Questão 4: D |
+| Resposta da Questão 5: A |
+
