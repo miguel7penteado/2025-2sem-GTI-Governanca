@@ -183,3 +183,9 @@ Estas anotações são apenas lembretes das aulas expostas em sala, durante a di
 |  G978099  | ISABELA SASS MARTINS DE SOUZA |
 |  F3591B9  |    JOAO VITOR SILVA SOUZA     |
 |  G907582  |    KAROLINE VIEIRA ARAGAO     |
+
+
+```{r imprimir-01, eval=FALSE, include=FALSE}
+rmarkdown::render("03-2025-08-19_20_.Rmd", output_dir="docs", output_file ="temporario.html" , output_format = "html_document") ; utils::browseURL("docs/temporario.html")
+```
+
