@@ -29,6 +29,8 @@ O COBIT 5 é um modelo de negócio, desenvolvido pela ISACA, voltado para a **Go
 
 ### O que é ISACA ?
 
+![](images/07-2025-09-23_24/02-isaca.jpg){width="651"}
+
 O COBIT 5 foi desenvolvido pela ISACA (Information Systems Audit and Control Association):
 
 -   É uma **associação global sem fins lucrativos** (embora as publicações sejam pagas).
@@ -41,6 +43,8 @@ O COBIT 5 foi desenvolvido pela ISACA (Information Systems Audit and Control Ass
 Originalmente, o COBIT era um acrônimo para **Control Objective for Information and related Technology** (Objetivos de Controle para a Informação e sua Tecnologia Relacionada). Atualmente, COBIT é apenas uma marca que identifica o *framework* da ISACA.
 
 **Trajetória de Evolução**:
+
+![](images/07-2025-09-23_24/02-evolucao.jpg){width="251"}
 
 | Versão | Ano | Foco Principal |
 |:-----------------------|:-----------------------|:-----------------------|
