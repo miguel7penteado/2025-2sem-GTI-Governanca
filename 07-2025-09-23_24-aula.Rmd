@@ -47,7 +47,7 @@ Originalmente, o COBIT era um acrônimo para **Control Objective for Information
 ![](images/07-2025-09-23_24/02-evolucao.jpg){width="251"}
 
 | Versão | Ano | Foco Principal |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **COBIT 1** | 1996 | Auditoria (COBIT 1 era como um "Excelzinho" de controles). |
 | **COBIT 2** | 1998 | Controle. |
 | **COBIT 3** | 2000 | Gerenciamento (passou a ter processos). |
@@ -73,7 +73,7 @@ O COBIT 5 foi desenvolvido para cobrir as responsabilidades da empresa em relaç
 Os principais motivadores relacionados às necessidades das organizações incluem a pressão constante para:
 
 | Motivador | Detalhe | Imagem |
-|:----------------|:--------------------------------|:--------------------:|
+|:---|:---|:--:|
 | **Cobrir de Ponta a Ponta** | Cobrir responsabilidades do negócio e TI de ponta a ponta, entendendo que a **TI é responsabilidade de todos na empresa**. | ![](images/07-2025-09-23_24/01-motivadores-ti_responsabilidade_todos.jpg) |
 | **Criação de Valor** | Assegurar a criação de mais valor e o aumento do retorno da governança sobre a TI corporativa. | ![](images/07-2025-09-23_24/02-motivadores-geracao_mais_valor.jpg) |
 | **Satisfação e Relacionamento** | Obter a satisfação dos usuários de negócio e **melhorar a relação entre negócios e TI**, que é uma relação viva e complexa. | ![](images/07-2025-09-23_24/03-motivadores-melhorar_relacao_negocios_tic.jpg) |
@@ -131,7 +131,7 @@ O COBIT 5 atua como um **guarda-chuva** para outros *frameworks* e normas. Eles 
 A relação entre modelos pode ser vista em camadas:
 
 | Nível | Modelos | Função |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | **Governança Corporativa** | **COSO**, **Balanced Scorecard (BSC)** | Modelos de alto nível que olham a empresa inteira. O COBIT **particulariza** o COSO para a TI. |
 | **Governança de TI** | **COBIT 5** | Define **o quê** precisa ser feito em termos de governança e gestão de TI. Ele estabelece os requisitos de controle. |
 | **Padrões e Boas Práticas (O *Como*)** | **ITIL, PMBOK, PRINCE2, TOGAF, CMMI** | *Frameworks* que definem **como** os requisitos de controle do COBIT podem ser atendidos. Por exemplo, a ITIL detalha o gerenciamento de serviços (incidente, mudança). |
