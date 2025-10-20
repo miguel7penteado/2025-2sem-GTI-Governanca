@@ -1,6 +1,132 @@
-## Exercícios
+## 10 Questões de Múltipla Escolha
 
 #### 14/10/2025 - Campus Marquês {.unnumbered}
+
 #### 15/10/2025 - Campus Chácara {.unnumbered}
 
+------------------------------------------------------------------------
 
+| Questão 1 |
+|----|
+| Quantos processos de Governança (EDM) e quantos processos de Gestão (PBRM) o Modelo de Referência de Processos (PRM) do COBIT 5 define, e qual é o total de processos? |
+| a) 6 processos de Governança e 31 de Gestão, total = 37 |
+| b) 4 processos de Governança e 33 de Gestão, total = 37 |
+| c) 5 processos de Governança e 32 de Gestão, total = 37 |
+| d) 5 processos de Governança e 37 de Gestão, total = 42 |
+| e) 7 processos de Governança e 30 de Gestão, total = 37 |
+
+------------------------------------------------------------------------
+
+| Questão 2 |
+|----|
+| O Modelo de Referência de Processos COBIT 5 é um sucessor que integrou modelos anteriores da ISACA. Quais *frameworks* foram especificamente integrados ao PRM do COBIT 5? |
+| a) ITIL, TOGAF e ISO/IEC 27000 |
+| b) COBIT 4.1, Risk IT e Val IT |
+| c) PMBOK, PRINCE2 e CMMI |
+| d) COSO, ISO 31000 e BMIS |
+| e) APO, BAI, DSS e MEA |
+
+------------------------------------------------------------------------
+
+| Questão 3 |
+|----|
+| Qual princípio fundamental do COBIT 5 é diretamente suportado e estruturado pela divisão do Modelo de Referência de Processos em EDM e PBRM? |
+| a) Princípio 1 — Atender às Necessidades das Partes Interessadas |
+| b) Princípio 3 — Aplicação de um Framework Único e Integrado |
+| c) Princípio 5 — Separação de Governança e Gestão |
+| d) Princípio 4 — Habilitar uma Abordagem Holística |
+| e) Princípio 2 — Cobrir a Empresa de Ponta a Ponta |
+
+------------------------------------------------------------------------
+
+| Questão 4 |
+|----|
+| Quais são as três práticas de alto nível que definem os processos do Domínio de Governança (EDM)? |
+| a) Planejar, Construir e Executar (PBE) |
+| b) Alinhar, Planejar e Organizar (APO) |
+| c) Avaliar, Dirigir e Monitorar (Evaluate, Direct and Monitor) |
+| d) Monitorar, Avaliar e Avaliar (MEA) |
+| e) Definir, Implementar e Gerenciar (DIM) |
+
+------------------------------------------------------------------------
+
+| Questão 5 |
+|----|
+| O domínio de Gestão (PBRM) é dividido em quatro domínios, fornecendo cobertura de ponta a ponta da TI. Quais são as siglas desses quatro domínios? |
+| a) EDM, APO, BAI, DSS |
+| b) P, B, R, M |
+| c) APO, BAI, DSS e MEA |
+| d) APO, BAI, DSS e PBRM |
+| e) R, A, C, I |
+
+------------------------------------------------------------------------
+
+| Questão 6 |
+|----|
+| Qual processo do domínio EDM é o principal responsável por garantir que o apetite e a tolerância ao risco da empresa sejam comunicados e que o risco relacionado ao uso da TI seja identificado e gerenciado? |
+| a) EDM02 — Ensure Benefits Delivery |
+| b) EDM04 — Ensure Resource Optimisation |
+| c) EDM03 — Ensure Risk Optimisation |
+| d) EDM01 — Ensure Governance Framework Setting and Maintenance |
+| e) EDM05 — Ensure Stakeholder Transparency |
+
+------------------------------------------------------------------------
+
+| Questão 7 |
+|----|
+| Qual dos processos a seguir pertence ao domínio BAI (*Build, Acquire and Implement*) e é responsável por manter a disponibilidade de conhecimento relevante, atualizado e confiável para facilitar a tomada de decisões? |
+| a) BAI01 — Manage Programmes and Projects |
+| b) BAI03 — Manage Solutions Identification and Build |
+| c) BAI09 — Manage Assets |
+| d) BAI08 — Manage Knowledge |
+| e) BAI10 — Manage Configuration |
+
+------------------------------------------------------------------------
+
+| Questão 8 |
+|----|
+| O processo de Gestão APO12, *Manage Risk*, está contido em qual domínio e qual é seu propósito principal? |
+| a) BAI — Construir novos controles e soluções de segurança |
+| b) DSS — Responder a incidentes e problemas de segurança |
+| c) MEA — Monitorar conformidade com requisitos regulatórios |
+| d) APO — Integrar a gestão de risco de TI ao gerenciamento de risco empresarial (ERM), identificando, avaliando e mitigando continuamente riscos |
+| e) EDM — Comunicar o apetite ao risco à gestão |
+
+------------------------------------------------------------------------
+
+| Questão 9 |
+|----|
+| O que o COBIT 5 recomenda em relação à flexibilidade do Modelo de Referência de Processos (PRM)? |
+| a) O PRM deve ser adotado exatamente como é, pois é um padrão ISO |
+| b) O PRM deve ser usado apenas como uma lista de verificação |
+| c) Não é prescritivo — cada empresa deve definir seu próprio conjunto de processos e adaptar o modelo genérico conforme sua realidade |
+| d) O modelo de 37 processos só se aplica a grandes empresas |
+| e) A Governança pode alterar os processos de Gestão, mas não os EDM |
+
+------------------------------------------------------------------------
+
+| Questão 10 |
+|----|
+| O domínio MEA (*Monitor, Evaluate and Assess*) contém apenas três processos de gestão. Qual é o papel principal desse domínio? |
+| a) Definir a arquitetura empresarial e a inovação (APO) |
+| b) Garantir a entrega de serviços operacionais (DSS) |
+| c) Coletar, validar e avaliar metas e métricas de negócios, TI e processos, monitorando desempenho e conformidade (MEA01–03) |
+| d) Gerenciar projetos e programas (BAI) |
+| e) Alinhar a estratégia de TI com a de negócios (APO) |
+
+------------------------------------------------------------------------
+
+## Gabarito
+
+| Nº | Resposta Correta | Domínio / Tema |
+|:--:|:---|:---|
+| 1 | c) 5 EDM + 32 PBRM = 37 processos | Estrutura do PRM |
+| 2 | b) COBIT 4.1, Risk IT e Val IT | Integração de frameworks |
+| 3 | c) Princípio 5 — Separação de Governança e Gestão | Princípios COBIT |
+| 4 | c) Avaliar, Dirigir e Monitorar (EDM) | Domínio EDM |
+| 5 | c) APO, BAI, DSS e MEA | Domínios de Gestão |
+| 6 | c) EDM03 — Ensure Risk Optimisation | Risco e Governança |
+| 7 | d) BAI08 — Manage Knowledge | Conhecimento e Melhoria |
+| 8 | d) APO12 — Manage Risk | Gestão de Risco |
+| 9 | c) Modelo não prescritivo | Flexibilidade do PRM |
+| 10 | c) MEA01–03 — Monitorar Desempenho e Conformidade | Avaliação e Melhoria |

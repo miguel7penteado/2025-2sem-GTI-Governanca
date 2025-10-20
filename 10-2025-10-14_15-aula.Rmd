@@ -1,6 +1,238 @@
-# Governança da Informação - COBIT 5.0 - Implantação
+# Aula 10: Os 37 Processos de Governança (EDM) e Gestão (PBRM) do COBIT 5
 
 #### 14/10/2025 - Campus Marquês {.unnumbered}
+
 #### 15/10/2025 - Campus Chácara {.unnumbered}
 
+## O Modelo de Referência de Processos (PRM) do COBIT 5.0
 
+Esse é o significado do 5o. Princípio do COBIT 5 : "Separarás a Governança da Gestão!"
+
+```{plantuml Exemplo-01, plantuml.path="images"}
+
+@startuml
+skinparam backgroundColor #ffffff
+skinparam rectangle {
+  BackgroundColor #F5F7FB
+  BorderColor #3B73B9
+  RoundCorner 10
+}
+
+rectangle "EDM (Governança)\nEvaluate • Direct • Monitor" as EDM {
+  rectangle "EDM01\nGovernance Framework \n(Processo \nGarantir Manutenção do \nFramework de Governança)" as EDM01
+  rectangle "EDM02\nBenefits Delivery" as EDM02
+  rectangle "EDM03\nRisk Optimization" as EDM03
+  rectangle "EDM04\nResource Optimization" as EDM04
+  rectangle "EDM05\nStakeholder Transparency" as EDM05
+}
+
+rectangle "APO\nAlign • Plan • Organize" as APO
+rectangle "BAI\nBuild • Acquire • Implement" as BAI
+rectangle "DSS\nDeliver • Service • Support" as DSS
+rectangle "MEA\nMonitor • Evaluate • Assess" as MEA
+
+EDM --> APO : Direciona
+APO --> BAI : Define e viabiliza
+BAI --> DSS : Entrega para operação
+DSS --> MEA : Gera desempenho/conformidade
+MEA --> EDM : Reporta/retroalimenta
+
+
+```
+
+> **Ideia-força:** O **Modelo de Referência de Processos (PRM)** do COBIT 5 é o núcleo do habilitador **Processos** e materializa o **Princípio 5 — Separar Governança e Gestão**. O PRM reúne **37 processos**: **5** de **Governança (EDM)** e **32** de **Gestão (APO, BAI, DSS, MEA)**, integrando e atualizando a orientação dos frameworks anteriores da ISACA (COBIT 4.1, Val IT, Risk IT).
+
+------------------------------------------------------------------------
+
+## 0) Visão Geral — Como o PRM se conecta aos Princípios
+
+-   **Princípio 1 (Stakeholders):** processos traduzem necessidades das partes interessadas em resultados operacionais.
+-   **Princípio 2 (Ponta a ponta):** cobertura de toda a organização, não apenas TI.
+-   **Princípio 3 (Único e integrado):** o PRM “costura” COBIT com ITIL/ISO/PMBOK/TOGAF.
+-   **Princípio 4 (Holístico):** processos interagem com os demais **habilitadores** (pessoas, informação, estruturas, etc.).
+-   **Princípio 5 (Governança ≠ Gestão):** **EDM** decide/direciona/monitora; **APO/BAI/DSS/MEA** planejam/constroem/entregam/monitoram.
+
+------------------------------------------------------------------------
+
+## 1) Domínio de Governança — **EDM (Evaluate, Direct and Monitor)**
+
+> **Responsável:** Conselho/Alta Administração. **Propósito:** Avaliar necessidades das partes interessadas, **direcionar** a gestão e **monitorar** desempenho e conformidade.
+
+| Código | Processo (EN) | Tradução sugerida | Propósito em 1 linha |
+|-----------------:|------------------|------------------|------------------|
+| **EDM01** | Ensure Governance Framework Setting and Maintenance | Garantir a definição/manutenção do framework de governança | Estabelecer princípios, estruturas e responsabilidades de GEIT. |
+| **EDM02** | Ensure Benefits Delivery | Garantir a entrega de benefícios | Maximizar valor dos investimentos/serviços de TI. |
+| **EDM03** | Ensure Risk Optimization | Garantir a otimização de risco | Alinhar apetite/tolerância e gerir riscos de TI. |
+| **EDM04** | Ensure Resource Optimization | Garantir a otimização de recursos | Otimizar uso de pessoas, aplicativos, dados, infraestrutura. |
+| **EDM05** | Ensure Stakeholder Transparency | Garantir transparência aos stakeholders | Medir e reportar desempenho e conformidade com clareza. |
+
+**Exemplos de indicadores EDM**
+
+-   **EDM02:** % de metas de benefícios atingidas; valor líquido de portfólio entregue/previsto.
+-   **EDM03:** % de riscos de TI no nível de apetite aprovado; tempo de resposta a riscos críticos.
+-   **EDM05:** periodicidade e abrangência dos relatórios para partes interessadas.
+
+------------------------------------------------------------------------
+
+## 2) Domínios de Gestão — **PBRM (Plan, Build, Run, Monitor)**
+
+> **Responsável:** Administração executiva/gestores. **Propósito:** Tornar efetivo o direcionamento de governança por meio do **planejamento (APO)**, **construção/aquisição/implantação (BAI)**, **entrega/suporte (DSS)** e **monitoramento/avaliação (MEA)**.
+
+### 2.1) **APO — Align, Plan and Organize** (13 processos)
+
+> Estratégia, arquitetura, portfólio, orçamento, riscos, segurança, qualidade e pessoas.
+
+| **Código** | **Nome do Processo (Inglês)** | **Tradução / Propósito Principal** |
+|:----------------------:|:-----------------------|:-----------------------|
+| **APO01** | Manage the IT Management Framework | Gerenciar o framework de gestão de TI e suas políticas. |
+| **APO02** | Manage Strategy | Gerenciar a estratégia de TI alinhada aos objetivos de negócio. |
+| **APO03** | Manage Enterprise Architecture | Gerenciar a arquitetura corporativa e a padronização de soluções. |
+| **APO04** | Manage Innovation | Promover e gerenciar a inovação tecnológica. |
+| **APO05** | Manage Portfolio | Gerenciar o portfólio de programas, projetos e serviços de TI. |
+| **APO06** | Manage Budget and Costs | Gerenciar o orçamento, custos e investimentos de TI. |
+| **APO07** | Manage Human Resources | Gerenciar pessoas, competências e responsabilidades de TI. |
+| **APO08** | Manage Relationships | Gerenciar relacionamentos com stakeholders internos e externos. |
+| **APO09** | Manage Service Agreements | Gerenciar acordos de serviços (SLAs e OLAs). |
+| **APO10** | Manage Suppliers | Gerenciar fornecedores e contratos de TI. |
+| **APO11** | Manage Quality | Garantir a qualidade dos serviços, produtos e processos de TI. |
+| **APO12** | Manage Risk | Gerenciar riscos de TI de forma integrada à governança corporativa. |
+| **APO13** | Manage Security | Garantir a segurança da informação e a conformidade com políticas e normas. |
+
+**Exemplos de indicadores APO**
+
+-   **APO05:** % do portfólio alinhado às metas estratégicas; taxa de sucesso do portfólio.
+-   **APO12:** cobertura de riscos críticos; tempo médio para tratamento.
+-   **APO13:** taxa de cumprimento de controles de segurança; incidentes por severidade.
+
+------------------------------------------------------------------------
+
+### 2.2) **BAI — Build, Acquire and Implement** (10 processos)
+
+> Requisitos, desenvolvimento/aquisição, mudanças e transição, capacidade, conhecimento e ativos.
+
+| **Código** | **Nome do Processo (Inglês)** | **Tradução / Propósito Principal** |
+|:----------------------:|:-----------------------|:-----------------------|
+| **BAI01** | Manage Programs and Projects | Gerenciar programas e projetos, assegurando a entrega dos resultados dentro do escopo, prazo e orçamento. |
+| **BAI02** | Manage Requirements Definition | Gerenciar a definição e validação dos requisitos de negócio e técnicos das soluções. |
+| **BAI03** | Manage Solutions Identification and Build | Identificar, desenvolver e implementar soluções tecnológicas adequadas. |
+| **BAI04** | Manage Availability and Capacity | Garantir que a capacidade e disponibilidade das soluções atendam às necessidades do negócio. |
+| **BAI05** | Manage Organizational Change Enablement | Promover a adoção e o engajamento organizacional nas mudanças de processos e sistemas. |
+| **BAI06** | Manage Changes | Gerenciar mudanças de forma estruturada, minimizando riscos e interrupções. |
+| **BAI07** | Manage Change Acceptance and Transitioning | Gerenciar a aceitação, testes e transição de soluções para o ambiente de produção. |
+| **BAI08** | Manage Knowledge | Capturar, organizar e compartilhar o conhecimento necessário à operação e melhoria contínua. |
+| **BAI09** | Manage Assets | Gerenciar o ciclo de vida dos ativos de TI, garantindo rastreabilidade e valor de uso. |
+| **BAI10** | Manage Configuration | Controlar os itens de configuração e manter a integridade das informações sobre os componentes de TI. |
+
+**Exemplos de indicadores BAI**
+
+-   **BAI01:** índice de projetos no prazo/orçamento/escopo (triângulo de ferro).
+-   **BAI06/BAI07:** taxa de sucesso de mudanças; falhas pós-mudança; MTTR pós-implantação.
+-   **BAI04:** % de aderência a SLAs de capacidade/disponibilidade.
+
+------------------------------------------------------------------------
+
+### 2.3) **DSS — Deliver, Service and Support** (6 processos)
+
+> Operações, requisições/incidentes/problemas, continuidade, segurança de serviços e controles de processos de negócio.
+
+| **Código** | **Nome do Processo (Inglês)** | **Tradução / Propósito Principal** |
+|:----------------------:|:-----------------------|:-----------------------|
+| **DSS01** | Manage Operations | Gerenciar as operações diárias de TI, assegurando a execução eficiente e o desempenho dos serviços. |
+| **DSS02** | Manage Service Requests and Incidents | Gerenciar solicitações e incidentes para restaurar serviços normais rapidamente e minimizar impactos. |
+| **DSS03** | Manage Problems | Identificar e tratar causas-raiz de incidentes para prevenir recorrências e melhorar a estabilidade. |
+| **DSS04** | Manage Continuity | Garantir a continuidade dos serviços de TI e do negócio em caso de interrupções ou desastres. |
+| **DSS05** | Manage Security Services | Implementar e monitorar controles de segurança para proteger ativos de informação e infraestrutura. |
+| **DSS06** | Manage Business Process Controls | Manter e revisar controles de TI embutidos nos processos de negócio, garantindo conformidade e integridade operacional. |
+
+**Exemplos de indicadores DSS**
+
+-   **DSS02:** SLA de atendimento; tempo de resolução; satisfação do usuário.
+-   **DSS03:** taxa de problemas recorrentes; tempo de análise de causa-raiz.
+-   **DSS04:** RTO/RPO atingidos; sucesso em testes de continuidade.
+
+------------------------------------------------------------------------
+
+### 2.4) **MEA — Monitor, Evaluate and Assess** (3 processos)
+
+> Medição de desempenho e conformidade, sistema de controle interno e requisitos externos.
+
+| **Código** | **Nome do Processo (Inglês)** | **Tradução / Propósito Principal** |
+|:----------------------:|:-----------------------|:-----------------------|
+| **MEA01** | Monitor, Evaluate and Assess Performance and Conformance | Monitorar, avaliar e mensurar o desempenho e a conformidade das práticas de TI em relação às metas de governança e negócio. |
+| **MEA02** | Monitor, Evaluate and Assess the System of Internal Control | Avaliar e monitorar a eficácia do sistema de controles internos, garantindo confiabilidade e integridade operacional. |
+| **MEA03** | Monitor, Evaluate and Assess Compliance With External Requirements | Monitorar e assegurar a conformidade com leis, regulamentos e políticas externas aplicáveis à TI e ao negócio. |
+
+**Exemplos de indicadores MEA**
+
+-   **MEA01:** cobertura e acurácia de KPIs/SLAs; desvios e ações corretivas.
+-   **MEA02:** efetividade de controles; achados de auditoria tratados no prazo.
+-   **MEA03:** não conformidades legais/regulatórias; tempo de regularização.
+
+------------------------------------------------------------------------
+
+## 3) “Cheat Sheet” — Lista Compacta dos **37 Processos**
+
+-   **EDM (5):** EDM01, EDM02, EDM03, EDM04, EDM05
+-   **APO (13):** APO01–APO13
+-   **BAI (10):** BAI01–BAI10
+-   **DSS (6):** DSS01–DSS06
+-   **MEA (3):** MEA01–MEA03
+
+> Soma: **5 + 13 + 10 + 6 + 3 = 37 processos**
+
+------------------------------------------------------------------------
+
+## 4) Mapeamentos úteis (do “porquê” ao “como”)
+
+-   **EDM02 → APO05 → BAI01 → DSS01/DSS02 → MEA01** (Benefícios orientam portfólio; projetos entregam; operação sustenta; desempenho é medido.)
+-   **EDM03 → APO12/13 → BAI06/07 → DSS05 → MEA02/03** (Risco/segurança definidos em gestão; mudanças e transição controladas; serviços seguros; controles e conformidade avaliados.)
+
+------------------------------------------------------------------------
+
+## 5) Boas Práticas de Implementação (Dicas Pedagógicas)
+
+-   **RACI e papéis claros:** conecte cada processo a **responsáveis/contatos**.
+-   **Poucos KPIs bons \> muitos KPIs fracos:** selecione indicadores **alinhados ao valor**.
+-   **Ciclo de melhoria contínua:** use **MEA01** para retroalimentar **APO/BAI/DSS** e atualizar políticas (**EDM01**).
+-   **Evite silos:** promova **APO08 (Relationships)** para reduzir atritos entre áreas.
+-   **Gestão de mudanças organizacionais (BAI05):** trate **adoção** como parte do escopo (comunicação, treinamento, patrocínio).
+
+------------------------------------------------------------------------
+
+## 6) Exemplo (adaptável) — Conexão com um órgão público
+
+-   **EDM05 (Transparência):** relatórios periódicos para a sociedade/órgãos de controle.
+-   **APO05 (Portfólio):** priorização de projetos alinhados ao plano estratégico institucional.
+-   **BAI07 (Transição):** checklists de prontidão antes de “entrar em produção”.
+-   **DSS04 (Continuidade):** testes anuais de contingência para operações críticas.
+-   **MEA03 (Conformidade):** aderência a LGPD, normas de auditoria e requisitos setoriais.
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Referências
+
+[1] ISACA. ***COBIT 5: A Business Framework for the Governance and Management of Enterprise IT**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-237-3
+
+[2] ISACA. ***COBIT 5: Enabling Processes**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-241-0
+
+[3] ISACA. ***COBIT 5: Enabling Information**.* Rolling Meadows (IL): ISACA; 2013. ISBN 978-1-60420-242-7
+
+[4] ISACA. ***COBIT 5 Implementation**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-240-3
+
+[5] ISACA. ***COBIT 5 For Information Security**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-254-0
+
+[6] ISACA. ***COBIT 5 For Assurance**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-339-4
+
+[7] ISACA. ***COBIT 5 For Risk**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-457-5
+
+### Anexos úteis (sugestões de atividade)
+
+-   **Exercício 1:** mapeie um projeto real do seu portfólio nos processos BAI01/BAI06/BAI07 e defina 3 KPIs.
+-   **Exercício 2:** construa um **RACI** mínimo para **EDM02, APO05, BAI01, DSS02, MEA01**.
+-   **Exercício 3:** escolha 1 risco crítico de TI e percorra **EDM03 → APO12/13 → DSS05 → MEA02** definindo decisões, controles e métricas.
+
+```{r teste-03, eval=FALSE, include=FALSE}
+rmarkdown::render("10-2025-10-14_15-aula.Rmd", output_dir="docs", output_file ="temporario.html" , output_format = "html_document") ; utils::browseURL("docs/temporario.html")
+```

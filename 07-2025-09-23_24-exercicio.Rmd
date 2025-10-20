@@ -1,5 +1,41 @@
+---
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
 ## Exercícios
 
 #### 23/09/2025 - Campus Marquês {.unnumbered}
+
 #### 24/09/2025 - Campus Chácara {.unnumbered}
 
+## Referências
+
+[1] ISACA.
+***COBIT 5: A Business Framework for the Governance and Management of Enterprise IT**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-237-3
+
+[2] ISACA.
+***COBIT 5: Enabling Processes**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-241-0
+
+[3] ISACA.
+***COBIT 5: Enabling Information**.* Rolling Meadows (IL): ISACA; 2013.
+ISBN 978-1-60420-242-7
+
+[4] ISACA.
+***COBIT 5 Implementation**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-240-3
+
+[5] ISACA.
+***COBIT 5 For Information Security**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-254-0
+
+[6] ISACA.
+***COBIT 5 For Assurance**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-339-4
+
+[7] ISACA.
+***COBIT 5 For Risk**.* Rolling Meadows (IL): ISACA; 2012.
+ISBN 978-1-60420-457-5

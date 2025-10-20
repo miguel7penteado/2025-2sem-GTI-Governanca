@@ -8,4 +8,4 @@ rmd_files: [ "index.Rmd", "01-2025-08-05_06-aula-inaugural.Rmd", "02-2025-08-12_
   "11-2025-10-21_22-aula.Rmd", "11-2025-10-21_22-exercicio.Rmd", "12-2025-10-28_29-aula.Rmd", "12-2025-10-28_29-exercicio.Rmd" ]
 language:
   ui:
-    chapter_name: "Slide "
+    chapter_name: "Capítulo "

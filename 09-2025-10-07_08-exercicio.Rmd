@@ -1,7 +1,157 @@
 ## Exercícios
 
-
 #### 07/10/2025 - Campus Marquês {.unnumbered}
+
 #### 08/10/2025 - Campus Chácara {.unnumbered}
 
+### Testes de Múltipla Escolha — Os 7 Habilitadores (Capacitadores) do COBIT 5.0
 
+------------------------------------------------------------------------
+
+| Questão 1 |
+|------------------------------------------------------------------------|
+| Qual Princípio do COBIT 5 exige a consideração de vários componentes interativos (Habilitadores) para garantir a governança e gestão eficazes da TI corporativa? |
+| a) Princípio 1: Atender às Necessidades das Partes Interessadas. |
+| b) Princípio 2: Cobrir a Empresa de Ponta a Ponta. |
+| c) Princípio 3: Aplicação de um Framework Único e Integrado. |
+| **d) Princípio 4: Habilitar uma Abordagem Holística.** |
+| e) Princípio 5: Separação de Governança e Gestão. |
+
+------------------------------------------------------------------------
+
+| Questão 2 |
+|------------------------------------------------------------------------|
+| O Habilitador "Processos" descreve um conjunto organizado de práticas e atividades. Qual modelo é usado no COBIT 5 para definir e descrever detalhadamente esses processos? |
+| a) O Modelo de Maturidade (CMM-based) do COBIT 4.1. |
+| b) O Modelo de Avaliação de Risco (*Risk Assessment Model*). |
+| **c) O Modelo de Referência de Processos COBIT 5.** |
+| d) O Modelo de Competência de Processo ISO/IEC 15504 (PCM). |
+| e) O Ciclo de Vida de Melhoria Contínua. |
+
+------------------------------------------------------------------------
+
+| Questão 3 |
+|------------------------------------------------------------------------|
+| Quais são as quatro dimensões comuns usadas para descrever e gerenciar a complexidade de **todos** os Habilitadores do COBIT 5? |
+| a) Avaliação, Direção, Monitoramento e Execução (EDME). |
+| b) Estratégia, Estrutura, Cultura e Informação. |
+| c) Programas, Projetos, Serviços e Ativos. |
+| **d) Partes Interessadas (*Stakeholders*), Metas (*Goals*), Ciclo de Vida (*Life Cycle*) e Boas Práticas (*Good Practices*).** |
+| e) Qualidade Intrínseca, Qualidade Contextual, Segurança e Acessibilidade. |
+
+------------------------------------------------------------------------
+
+| Questão 4 |
+|------------------------------------------------------------------------|
+| O Habilitador "Informação" expressa suas metas como critérios de qualidade. Em quais três subdimensões principais esses critérios são divididos? |
+| a) Dados, Conhecimento e Sabedoria. |
+| b) Confiabilidade, Integridade e Disponibilidade. |
+| c) Propriedade, Coleta e Processamento. |
+| **d) Qualidade Intrínseca, Qualidade Contextual e Segurança/Acessibilidade.** |
+| e) Eficácia, Eficiência e *Compliance*. |
+
+------------------------------------------------------------------------
+
+| Questão 5 |
+|------------------------------------------------------------------------|
+| O Habilitador "Cultura, Ética e Comportamento" é crucial para o sucesso da GEIT. Qual aspecto principal é enfatizado em relação a este Habilitador, especialmente no contexto de Governança de Risco? |
+| a) A necessidade de processos formais de auditoria contínua. |
+| b) A obrigatoriedade de usar gráficos RACI. |
+| **c) É frequentemente subestimado como um fator de sucesso e envolve uma ligação clara entre o comportamento individual e os incentivos/dissuasores.** |
+| d) Define o *framework* abrangente para a gestão de ativos de TI. |
+| e) Garante o alinhamento estrito com os princípios de arquitetura. |
+
+------------------------------------------------------------------------
+
+| Questão 6 |
+|------------------------------------------------------------------------|
+| Qual ferramenta ou gráfico é explicitamente referenciado no COBIT 5 como uma boa prática, inclusa no Habilitador "Estruturas Organizacionais", para definir papéis e responsabilidades nos processos de gestão? |
+| a) Gráfico de Fluxo de Processo (PFG). |
+| b) Diagrama de Rede de Tarefas (PND). |
+| c) Modelo de Análise SWOT. |
+| **d) Gráficos RACI (*Responsible, Accountable, Consulted, Informed*).** |
+| e) Diagrama de Entidade-Relacionamento (ERD). |
+
+------------------------------------------------------------------------
+
+| Questão 7 |
+|------------------------------------------------------------------------|
+| O Habilitador "Princípios, Políticas e Frameworks" serve como o veículo para qual propósito principal? |
+| a) Garantir a conformidade legal com os requisitos externos. |
+| b) Definir as métricas de desempenho (*lag indicators*). |
+| **c) Traduzir o comportamento desejado em orientação prática para a gestão diária.** |
+| d) Prover a infraestrutura física e lógica para o processamento de dados. |
+| e) Assegurar que os processos sejam avaliados usando o ISO/IEC 15504. |
+
+------------------------------------------------------------------------
+
+| Questão 8 |
+|------------------------------------------------------------------------|
+| Qual processo de gestão (domínio APO) do COBIT 5 aborda especificamente a manutenção e desenvolvimento do Habilitador "Pessoas, Habilidades e Competências", incluindo a avaliação do desempenho dos funcionários? |
+| a) APO01 Manage the IT Management Framework. |
+| b) APO05 Manage Portfolio. |
+| c) APO06 Manage Budget and Costs. |
+| d) APO08 Manage Relationships. |
+| **e) APO07 Manage Human Resources.** |
+
+------------------------------------------------------------------------
+
+| Questão 9 |
+|------------------------------------------------------------------------|
+| O ciclo de vida (*Life Cycle*) é uma das dimensões comuns dos Habilitadores. Quais são as fases que compõem o ciclo de vida de um Habilitador? |
+| a) Planejar, Fazer, Checar e Agir (PDCA). |
+| b) Alinhar, Planejar, Organizar e Monitorar (APOM). |
+| **c) Planejar, Projetar, Construir/Adquirir/Criar/Implementar, Usar/Operar, Avaliar/Monitorar e Atualizar/Descartar.** |
+| d) Definição, Implantação, Medição e Otimização. |
+| e) Iniciação, Planejamento, Execução e Encerramento. |
+
+------------------------------------------------------------------------
+
+| Questão 10 |
+|------------------------------------------------------------------------|
+| O Habilitador "Serviços, Infraestrutura e Aplicações" refere-se a quais tipos de recursos? |
+| a) Apenas aos componentes de software e aplicações. |
+| b) Somente aos ativos de hardware e rede (infraestrutura física). |
+| **c) Aplicações e infraestrutura que são alavancadas na entrega de serviços relacionados à TI.** |
+| d) Dados não estruturados e sistemas de armazenamento de conhecimento. |
+| e) Políticas e procedimentos operacionais diários. |
+
+------------------------------------------------------------------------
+
+### Gabarito - Testes - 7 Habilitadores
+
+| Gabarito |
+|------------------------------------------------------------------------|
+| 1\. d) Princípio 4: Habilitar uma Abordagem Holística. |
+| 2\. c) O Modelo de Referência de Processos COBIT 5. |
+| 3\. d) Partes Interessadas (*Stakeholders*), Metas (*Goals*), Ciclo de Vida (*Life Cycle*) e Boas Práticas (*Good Practices*). |
+| 4\. d) Qualidade Intrínseca, Qualidade Contextual e Segurança/Acessibilidade. |
+| 5\. c) É frequentemente subestimado como um fator de sucesso e envolve uma ligação clara entre o comportamento individual e os incentivos/dissuasores. |
+| 6\. d) Gráficos RACI (*Responsible, Accountable, Consulted, Informed*). |
+| 7\. c) Traduzir o comportamento desejado em orientação prática para a gestão diária. |
+| 8\. e) APO07 Manage Human Resources. |
+| 9\. c) Planejar, Projetar, Construir/Adquirir/Criar/Implementar, Usar/Operar, Avaliar/Monitorar e Atualizar/Descartar. |
+| 10\. c) Aplicações e infraestrutura que são alavancadas na entrega de serviços relacionados à TI. |
+
+------------------------------------------------------------------------
+
+## Referências
+
+[1] ISACA. ***COBIT 5: A Business Framework for the Governance and Management of Enterprise IT**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-237-3
+
+[2] ISACA. ***COBIT 5: Enabling Processes**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-241-0
+
+[3] ISACA. ***COBIT 5: Enabling Information**.* Rolling Meadows (IL): ISACA; 2013. ISBN 978-1-60420-242-7
+
+[4] ISACA. ***COBIT 5 Implementation**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-240-3
+
+[5] ISACA. ***COBIT 5 For Information Security**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-254-0
+
+[6] ISACA. ***COBIT 5 For Assurance**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-339-4
+
+[7] ISACA. ***COBIT 5 For Risk**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-457-5
+
+
+```{r teste-02, eval=FALSE, include=FALSE}
+rmarkdown::render("09-2025-10-07_08-exercicio.Rmd", output_dir="docs", output_file ="temporario.html" , output_format = "html_document") ; utils::browseURL("docs/temporario.html")
+```
