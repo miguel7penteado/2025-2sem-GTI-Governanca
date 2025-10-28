@@ -182,6 +182,7 @@ arquitetura-e-formato-do-cobit-5
 cobit-5-e-outros-frameworks-e-normas
 referências-6
 exercícios-5
+gabarito-consolidado
 referências-7
 governança-da-informação---cobit-5.0---os-5-princípios
 os-5-princípios-do-cobit
