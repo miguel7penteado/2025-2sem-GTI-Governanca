@@ -10,6 +10,138 @@ editor_options:
 
 #### 24/09/2025 - Campus Chácara {.unnumbered}
 
+| Questão 1                                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Cobrir de Ponta a Ponta:** Qual é um dos motivadores centrais para o desenvolvimento do COBIT 5, reconhecendo a onipresença da Tecnologia da Informação na organização (*TI pervasiva*)? |
+| a) Definir a TI como responsabilidade exclusiva da área de tecnologia.                                                                                                                     |
+| b) Garantir que o escopo de aplicação do COBIT 5 se limite à governança do Conselho de Administração (EDM).                                                                                |
+| **c) Cobrir as responsabilidades do negócio e TI de ponta a ponta na organização, indo além das fronteiras estritas da TI.**                                                               |
+| d) Assegurar que a TI seja separada do negócio para manter a autonomia operacional.                                                                                                        |
+| e) Focar apenas na governança de TI em empresas globais e multinacionais.                                                                                                                  |
+
+---
+
+| Questão 2                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Criação de Valor:** As organizações estão sob constante pressão para garantir que os investimentos em TI gerem resultados positivos. Qual motivador se relaciona diretamente com o propósito primordial da governança? |
+| a) Garantir que a avaliação dos processos de TI seja sempre baseada em critérios subjetivos (CMMI).                                                                                                                      |
+| b) Concentrar o planejamento de recursos apenas nas atividades operacionais do dia a dia.                                                                                                                                |
+| **c) Assegurar a criação de mais valor para as partes interessadas através do uso efetivo e inovador da TI corporativa.**                                                                                                |
+| d) Reduzir o escopo da governança para excluir os custos de hardware e software.                                                                                                                                         |
+| e) Priorizar a auditoria interna sobre a auditoria externa para controlar a documentação.                                                                                                                                |
+
+---
+
+| Questão 3                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Satisfação e Relacionamento:** O COBIT 5 foi motivado pela necessidade de melhorar a interação entre a TI e as áreas de negócio. Qual item abaixo representa um motivador focado na qualidade dessa relação? |
+| a) Promover a implementação de práticas de gerenciamento de projetos como o PMBOK.                                                                                                                             |
+| b) Reduzir o número de princípios de governança para aumentar a flexibilidade.                                                                                                                                 |
+| **c) Obter a satisfação dos usuários de negócio e melhorar a relação entre negócios e TI.**                                                                                                                    |
+| d) Centralizar todas as decisões financeiras no Escritório de Gestão de Valor (VMO).                                                                                                                           |
+| e) Excluir a discussão sobre cultura, ética e comportamento por serem aspectos subjetivos.                                                                                                                     |
+
+---
+
+| Questão 4                                                                                                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Controle de Risco e Custos:** As necessidades de negócio que impulsionaram o COBIT 5 incluíam o endereçamento de pressões financeiras e de segurança. Quais pressões principais as organizações buscam conter ou manter em níveis aceitáveis? |
+| a) Aumentar o retorno da governança sobre a TI corporativa e maximizar os investimentos.                                                                                                                                                        |
+| **b) Manter os riscos de TI em níveis aceitáveis e conter os custos de serviços e tecnologia de TI.**                                                                                                                                           |
+| c) Assegurar que os processos estejam no Nível 5 de Capacidade (Otimizado) em todas as avaliações.                                                                                                                                              |
+| d) Priorizar a redução de custos de pessoal em detrimento dos riscos operacionais.                                                                                                                                                              |
+| e) Implementar práticas apenas para clientes externos, ignorando os custos de suporte interno.                                                                                                                                                  |
+
+---
+
+| Questão 5                                                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Conformidade:** A preocupação com o ambiente regulatório crescente serviu como um forte motivador para o desenvolvimento do COBIT 5. Qual aspecto da conformidade o framework buscou cobrir? |
+| a) Implementar apenas regulamentações internas definidas pela alta gestão.                                                                                                                     |
+| b) Alinhar o COBIT com frameworks internos específicos do setor financeiro.                                                                                                                    |
+| **c) Alcançar a conformidade com leis, regulamentos e políticas relevantes.**                                                                                                                  |
+| d) Reduzir a influência de órgãos reguladores externos como CGU e TCU.                                                                                                                         |
+| e) Garantir que as auditorias de processos sejam sempre autoavaliações (internas).                                                                                                             |
+
+---
+
+| Questão 6                                                                                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Novas Estruturas e Tecnologias:** O COBIT 5 buscou fornecer orientações para que as organizações lidassem com a inovação. Que tipo de orientação o framework se propôs a cobrir em resposta a este motivador? |
+| a) A eliminação completa do gerenciamento de ativos de TI em favor de serviços de nuvem.                                                                                                                        |
+| b) A substituição do BSC (Balanced Scorecard) pela Matriz RACI para medição de desempenho.                                                                                                                      |
+| **c) Fornecer orientação em Arquitetura Corporativa e Gestão de Ativos e Serviços.**                                                                                                                            |
+| d) Definir que todas as empresas devem adotar a metodologia Waterfall para o desenvolvimento de soluções.                                                                                                       |
+| e) Fornecer orientação para a transição do modelo de capacidade de processo (PAM) para o modelo de maturidade (CMMI).                                                                                           |
+
+---
+
+| Questão 7                                                                                                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Unificação de Ativos da ISACA:** Qual foi uma das diretivas do conselho executivo da ISACA que motivou o desenvolvimento do COBIT 5, visando a consolidação do conhecimento? |
+| **a) Unir e reforçar todos os ativos de conhecimento da ISACA (como Val IT e Risk IT) com o COBIT.**                                                                           |
+| b) Integrar a gestão de riscos e valor como publicações independentes, separadas do COBIT.                                                                                     |
+| c) Mudar o foco da governança para a gestão, reduzindo os processos EDM.                                                                                                       |
+| d) Adotar a linguagem exclusivamente técnica para melhor comunicação com a TI.                                                                                                 |
+| e) Aumentar a subjetividade na avaliação de processos para acomodar diferentes culturas.                                                                                       |
+
+---
+
+| Questão 8                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Integração de Frameworks:** A necessidade de integrar-se a outros frameworks de mercado (como ITIL, PMBOK e normas ISO) foi um forte motivador para o COBIT 5. Qual termo foi usado para descrever o cenário de múltiplos frameworks que o COBIT 5 buscou resolver? |
+| a) A consistência da linguagem comum de TI.                                                                                                                                                                                                                           |
+| b) O alto custo de licenças de software para gestão de serviços.                                                                                                                                                                                                      |
+| **c) O “inferno” (opressão) de práticas e modelos existentes no mercado.**                                                                                                                                                                                            |
+| d) A baixa taxa de certificação no nível Foundation da ITIL.                                                                                                                                                                                                          |
+| e) A falta de princípios universais para a construção de modelos de governança.                                                                                                                                                                                       |
+
+---
+
+| Questão 9                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Abrangência do Escopo (Meio da Informação):** O escopo do COBIT 5 é considerado abrangente. O framework é aplicado para a governança e gerenciamento da informação em qualquer que seja o meio utilizado. Quais meios são explicitamente considerados pelo COBIT 5? |
+| a) Apenas meios digitais e eletrônicos, excluindo documentos impressos.                                                                                                                                                                                               |
+| b) Exclusivamente a informação usada em empresas globais e governos nacionais.                                                                                                                                                                                        |
+| **c) Em qualquer que seja o meio utilizado (por exemplo, físico, digital, etc.).**                                                                                                                                                                                    |
+| d) Somente a informação estratégica de alto nível, ignorando dados operacionais.                                                                                                                                                                                      |
+| e) A informação que não exige proteção de segurança (não confidencial).                                                                                                                                                                                               |
+
+---
+
+| Questão 10                                                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Integração de Controles (Unificação):** A versão anterior do COBIT (4.1) já abordava segurança da informação, controle de investimento e risco de TI. Qual foi o motivador específico da evolução para o COBIT 5 em relação a essas práticas? |
+| a) Reduzir a atenção corporativa para que a TI pudesse ter mais autonomia.                                                                                                                                                                      |
+| **b) Integrar as práticas do Val IT e Risk IT como parte integrante do framework único do COBIT 5.**                                                                                                                                            |
+| c) Substituir o uso de todos os frameworks concorrentes de governança, como o COSO.                                                                                                                                                             |
+| d) Reduzir o número de processos de governança de cinco para três.                                                                                                                                                                              |
+| e) Eliminar os Princípios do COBIT, focando apenas nos Habilitadores.                                                                                                                                                                           |
+
+---
+
+## 📋 Gabarito Consolidado
+
+| Questão | Resposta | Tema / Motivador                       |
+| :-----: | :------- | :------------------------------------- |
+|    1    | c)       | Cobrir a empresa de ponta a ponta      |
+|    2    | c)       | Criação de valor para stakeholders     |
+|    3    | c)       | Satisfação e relacionamento negócio–TI |
+|    4    | b)       | Controle de risco e custos             |
+|    5    | c)       | Conformidade regulatória               |
+|    6    | c)       | Estruturas e tecnologias emergentes    |
+|    7    | a)       | Unificação de ativos da ISACA          |
+|    8    | c)       | Integração de frameworks de mercado    |
+|    9    | c)       | Abrangência do escopo da informação    |
+|    10   | b)       | Integração de controles e frameworks   |
+
+---
+
+📘 **Fonte de Referência:**
+ISACA. *COBIT 5: A Business Framework for the Governance and Management of Enterprise IT.* Rolling Meadows (IL): ISACA; 2012.
+
+
+
 ## Referências
 
 [1] ISACA.
@@ -39,3 +171,4 @@ ISBN 978-1-60420-339-4
 [7] ISACA.
 ***COBIT 5 For Risk**.* Rolling Meadows (IL): ISACA; 2012.
 ISBN 978-1-60420-457-5
+
