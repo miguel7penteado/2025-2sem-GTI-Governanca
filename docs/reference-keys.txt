@@ -181,6 +181,7 @@ benefícios-corporativos
 arquitetura-e-formato-do-cobit-5
 cobit-5-e-outros-frameworks-e-normas
 referências-6
+teste-interativo---aula-07
 exercícios-5
 gabarito-consolidado
 referências-7
