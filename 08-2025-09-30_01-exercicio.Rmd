@@ -4,6 +4,10 @@ editor_options:
     wrap: sentence
 ---
 
+### Teste Interativo - Aula 08
+
+![](images/clipboard-1276398112.png)
+
 ## Exercícios: Os 5 Princípios do COBIT 5
 
 ### Questão 1

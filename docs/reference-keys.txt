@@ -197,6 +197,7 @@ exercícios-de-fixação-1
 testes-de-múltipla-escolha-1
 resposta-dos-testes-de-multipla-escolha-1
 referências-8
+teste-interativo---aula-08
 exercícios-os-5-princípios-do-cobit-5
 questão-1
 questão-2
