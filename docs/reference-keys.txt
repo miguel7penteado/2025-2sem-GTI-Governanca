@@ -266,4 +266,6 @@ gabarito
 governança-da-informação---cobit-2019---o-que-mudou-em-relação-ao-5.0
 exercícios-7
 governança-da-informação---revisão
+tabela-1.-relação-com-os-5-princípios-do-cobit-5.1
+tabela-2.-alinhamento-com-os-7-habilitadores-do-cobit-5.1
 exercícios-8

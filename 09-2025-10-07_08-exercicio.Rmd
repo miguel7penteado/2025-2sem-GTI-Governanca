@@ -14,7 +14,7 @@
 | a) Princípio 1: Atender às Necessidades das Partes Interessadas. |
 | b) Princípio 2: Cobrir a Empresa de Ponta a Ponta. |
 | c) Princípio 3: Aplicação de um Framework Único e Integrado. |
-| **d) Princípio 4: Habilitar uma Abordagem Holística.** |
+| d) Princípio 4: Habilitar uma Abordagem Holística. |
 | e) Princípio 5: Separação de Governança e Gestão. |
 
 ------------------------------------------------------------------------
@@ -24,7 +24,7 @@
 | O Habilitador "Processos" descreve um conjunto organizado de práticas e atividades. Qual modelo é usado no COBIT 5 para definir e descrever detalhadamente esses processos? |
 | a) O Modelo de Maturidade (CMM-based) do COBIT 4.1. |
 | b) O Modelo de Avaliação de Risco (*Risk Assessment Model*). |
-| **c) O Modelo de Referência de Processos COBIT 5.** |
+| c) O Modelo de Referência de Processos COBIT 5. |
 | d) O Modelo de Competência de Processo ISO/IEC 15504 (PCM). |
 | e) O Ciclo de Vida de Melhoria Contínua. |
 
@@ -32,11 +32,11 @@
 
 | Questão 3 |
 |------------------------------------------------------------------------|
-| Quais são as quatro dimensões comuns usadas para descrever e gerenciar a complexidade de **todos** os Habilitadores do COBIT 5? |
+| Quais são as quatro dimensões comuns usadas para descrever e gerenciar a complexidade de todos os Habilitadores do COBIT 5? |
 | a) Avaliação, Direção, Monitoramento e Execução (EDME). |
 | b) Estratégia, Estrutura, Cultura e Informação. |
 | c) Programas, Projetos, Serviços e Ativos. |
-| **d) Partes Interessadas (*Stakeholders*), Metas (*Goals*), Ciclo de Vida (*Life Cycle*) e Boas Práticas (*Good Practices*).** |
+| d) Partes Interessadas (*Stakeholders*), Metas (*Goals*), Ciclo de Vida (*Life Cycle*) e Boas Práticas (*Good Practices*). |
 | e) Qualidade Intrínseca, Qualidade Contextual, Segurança e Acessibilidade. |
 
 ------------------------------------------------------------------------
@@ -47,7 +47,7 @@
 | a) Dados, Conhecimento e Sabedoria. |
 | b) Confiabilidade, Integridade e Disponibilidade. |
 | c) Propriedade, Coleta e Processamento. |
-| **d) Qualidade Intrínseca, Qualidade Contextual e Segurança/Acessibilidade.** |
+| d) Qualidade Intrínseca, Qualidade Contextual e Segurança/Acessibilidade. |
 | e) Eficácia, Eficiência e *Compliance*. |
 
 ------------------------------------------------------------------------
@@ -57,7 +57,7 @@
 | O Habilitador "Cultura, Ética e Comportamento" é crucial para o sucesso da GEIT. Qual aspecto principal é enfatizado em relação a este Habilitador, especialmente no contexto de Governança de Risco? |
 | a) A necessidade de processos formais de auditoria contínua. |
 | b) A obrigatoriedade de usar gráficos RACI. |
-| **c) É frequentemente subestimado como um fator de sucesso e envolve uma ligação clara entre o comportamento individual e os incentivos/dissuasores.** |
+| c) É frequentemente subestimado como um fator de sucesso e envolve uma ligação clara entre o comportamento individual e os incentivos/dissuasores. |
 | d) Define o *framework* abrangente para a gestão de ativos de TI. |
 | e) Garante o alinhamento estrito com os princípios de arquitetura. |
 
@@ -69,7 +69,7 @@
 | a) Gráfico de Fluxo de Processo (PFG). |
 | b) Diagrama de Rede de Tarefas (PND). |
 | c) Modelo de Análise SWOT. |
-| **d) Gráficos RACI (*Responsible, Accountable, Consulted, Informed*).** |
+| d) Gráficos RACI (*Responsible, Accountable, Consulted, Informed*). |
 | e) Diagrama de Entidade-Relacionamento (ERD). |
 
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@
 | O Habilitador "Princípios, Políticas e Frameworks" serve como o veículo para qual propósito principal? |
 | a) Garantir a conformidade legal com os requisitos externos. |
 | b) Definir as métricas de desempenho (*lag indicators*). |
-| **c) Traduzir o comportamento desejado em orientação prática para a gestão diária.** |
+| c) Traduzir o comportamento desejado em orientação prática para a gestão diária. |
 | d) Prover a infraestrutura física e lógica para o processamento de dados. |
 | e) Assegurar que os processos sejam avaliados usando o ISO/IEC 15504. |
 
@@ -92,7 +92,7 @@
 | b) APO05 Manage Portfolio. |
 | c) APO06 Manage Budget and Costs. |
 | d) APO08 Manage Relationships. |
-| **e) APO07 Manage Human Resources.** |
+| e) APO07 Manage Human Resources. |
 
 ------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@
 | O ciclo de vida (*Life Cycle*) é uma das dimensões comuns dos Habilitadores. Quais são as fases que compõem o ciclo de vida de um Habilitador? |
 | a) Planejar, Fazer, Checar e Agir (PDCA). |
 | b) Alinhar, Planejar, Organizar e Monitorar (APOM). |
-| **c) Planejar, Projetar, Construir/Adquirir/Criar/Implementar, Usar/Operar, Avaliar/Monitorar e Atualizar/Descartar.** |
+| c) Planejar, Projetar, Construir/Adquirir/Criar/Implementar, Usar/Operar, Avaliar/Monitorar e Atualizar/Descartar. |
 | d) Definição, Implantação, Medição e Otimização. |
 | e) Iniciação, Planejamento, Execução e Encerramento. |
 
@@ -112,7 +112,7 @@
 | O Habilitador "Serviços, Infraestrutura e Aplicações" refere-se a quais tipos de recursos? |
 | a) Apenas aos componentes de software e aplicações. |
 | b) Somente aos ativos de hardware e rede (infraestrutura física). |
-| **c) Aplicações e infraestrutura que são alavancadas na entrega de serviços relacionados à TI.** |
+| c) Aplicações e infraestrutura que são alavancadas na entrega de serviços relacionados à TI. |
 | d) Dados não estruturados e sistemas de armazenamento de conhecimento. |
 | e) Políticas e procedimentos operacionais diários. |
 

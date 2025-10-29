@@ -1,6 +1,29 @@
 # Governança da Informação - Revisão
 
 #### 28/10/2025 - Campus Marquês {.unnumbered}
+
 #### 29/10/2025 - Campus Chácara {.unnumbered}
 
+### Tabela 1. Relação com os 5 Princípios do COBIT 5.1
 
+| **Princípio COBIT 5.1** | **Descrição** | **Correspondência nos Documentos do IBGE** |
+|----|----|----|
+| **1. Atender às necessidades das partes interessadas** | Foco em geração de valor e satisfação da sociedade. | *Plano Estratégico*: Eixo “Sociedade”; *EGTI*: integração entre áreas e foco no usuário; *PDTI*: melhoria de serviços digitais. |
+| **2. Cobrir a organização de ponta a ponta** | TI integrada à estratégia organizacional. | *EGTI*: alinhamento ao PE e envolvimento de todas as diretorias; *PDTI*: integração de todos os processos de trabalho. |
+| **3. Aplicar um modelo único e integrado de governança** | Integração entre governança corporativa e de TI. | *PE*: modelo de governança e comitês; *EGTI*: CTIC e Comitê de Dados; *PDTI*: alinhamento com SISP e TCU. |
+| **4. Permitir uma abordagem holística** | Uso dos 7 habilitadores como sistema interconectado. | *PE*: cadeia de valor; *EGTI*: estrutura piramidal integrando TIC aos processos; *PDTI*: fatores críticos de sucesso e riscos. |
+| **5. Separar Governança de Gestão** | Delimita papéis e responsabilidades. | *PE* define o que deve ser feito; *EGTI* define como a TI deve contribuir; *PDTI* define como implementar e monitorar. |
+
+------------------------------------------------------------------------
+
+### Tabela 2. Alinhamento com os 7 Habilitadores do COBIT 5.1
+
+| **Habilitador COBIT 5.1** | **Descrição** | **Correspondência no IBGE** |
+|----|----|----|
+| **1. Princípios, Políticas e Estruturas** | Diretrizes que orientam decisões e comportamento. | *PE*: política institucional e integridade; *EGTI*: diretrizes de TIC; *PDTI*: normas SISP, ITIL e LGPD. |
+| **2. Processos** | Estruturas organizacionais e fluxos operacionais. | *EGTI*: gestão de TIC e governança de dados; *PDTI*: processos de aquisição e interoperabilidade. |
+| **3. Estruturas Organizacionais** | Órgãos de decisão e coordenação. | CGOV, CTIC, DTI e Comitês de Governança de Dados. |
+| **4. Cultura, Ética e Comportamento** | Valores e condutas institucionais. | *PE*: ética pública e integridade; *EGTI*: valorização do servidor e meritocracia. |
+| **5. Informação** | Dados e conhecimento como ativos estratégicos. | *EGTI* e *PDTI*: governança de dados, catálogo e interoperabilidade. |
+| **6. Serviços, Infraestrutura e Aplicativos** | Suporte tecnológico e automação. | *PDTI*: infraestrutura, segurança e data centers. |
+| **7. Pessoas, Habilidades e Competências** | Capacitação e gestão de talentos. | *PE*: gestão de pessoas e cultura institucional; *EGTI*: capacitação técnica em TIC. |

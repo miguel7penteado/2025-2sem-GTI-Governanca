@@ -212,29 +212,18 @@ editor_options:
 
 ### Gabarito - testes de 01 a 10
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Gabarito                                                                                                                                                                                                                      |
-+===============================================================================================================================================================================================================================+
-| 1\. c) Realização de Benefícios, Otimização de Risco e Otimização de Recursos.                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 2\. c) Avaliar, Dirigir e Monitorar (EDM) e Planejar, Construir, Executar e Monitorar (PBRM).                                                                                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3\. c) Integra a governança de TI na governança corporativa total, cobrindo todas as funções e processos dentro da empresa e tratando a informação e tecnologias relacionadas como ativos.                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 4\. d) Habilitadores (*Enablers*).                                                                                                                                                                                            |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5\. c) Metas de Desempenho e Indicadores Chave de Risco (KRI).                                                                                                                                                                |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Gabarito |
+|----|
+| 1\. c) Realização de Benefícios, Otimização de Risco e Otimização de Recursos. |
+| 2\. c) Avaliar, Dirigir e Monitorar (EDM) e Planejar, Construir, Executar e Monitorar (PBRM). |
+| 3\. c) Integra a governança de TI na governança corporativa total, cobrindo todas as funções e processos dentro da empresa e tratando a informação e tecnologias relacionadas como ativos. |
+| 4\. d) Habilitadores (*Enablers*). |
+| 5\. c) Metas de Desempenho e Indicadores Chave de Risco (KRI). |
 | 6\. c) Atua como um *framework* abrangente (*overarching*) que se alinha a outros padrões e *frameworks* relevantes (como ITIL, TOGAF e normas ISO), integrando o conhecimento prévio da ISACA (COBIT 4.1, Val IT e Risk IT). |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 7\. d) A Cascata de Objetivos (*Goals Cascade*).                                                                                                                                                                              |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 8\. b) A Governança avalia as necessidades das partes interessadas para definir objetivos, enquanto a Gestão alinha as atividades operacionais com a direção estabelecida pela Governança.                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 9\. d) Todos na empresa (*everyone in the enterprise*), assim como qualquer outro ativo.                                                                                                                                      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10\. d) Os Habilitadores (*Enablers)* são impulsionados pela Cascata de Objetivos, onde Metas Relacionadas à TI de nível superior definem o que os diferentes *Enablers* devem alcançar.                                      |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7\. d) A Cascata de Objetivos (*Goals Cascade*). |
+| 8\. b) A Governança avalia as necessidades das partes interessadas para definir objetivos, enquanto a Gestão alinha as atividades operacionais com a direção estabelecida pela Governança. |
+| 9\. d) Todos na empresa (*everyone in the enterprise*), assim como qualquer outro ativo. |
+| 10\. d) Os Habilitadores (*Enablers)* são impulsionados pela Cascata de Objetivos, onde Metas Relacionadas à TI de nível superior definem o que os diferentes *Enablers* devem alcançar. |
 
 ### Teste 1: Princípio 1 — Atender às Necessidades das Partes Interessadas
 

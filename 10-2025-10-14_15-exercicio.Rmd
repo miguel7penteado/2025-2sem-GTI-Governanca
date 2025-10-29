@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------
 
 | Questão 1 |
-|----|
+|------------------------------------------------------------------------|
 | Quantos processos de Governança (EDM) e quantos processos de Gestão (PBRM) o Modelo de Referência de Processos (PRM) do COBIT 5 define, e qual é o total de processos? |
 | a) 6 processos de Governança e 31 de Gestão, total = 37 |
 | b) 4 processos de Governança e 33 de Gestão, total = 37 |
@@ -18,7 +18,7 @@
 ------------------------------------------------------------------------
 
 | Questão 2 |
-|----|
+|------------------------------------------------------------------------|
 | O Modelo de Referência de Processos COBIT 5 é um sucessor que integrou modelos anteriores da ISACA. Quais *frameworks* foram especificamente integrados ao PRM do COBIT 5? |
 | a) ITIL, TOGAF e ISO/IEC 27000 |
 | b) COBIT 4.1, Risk IT e Val IT |
@@ -29,7 +29,7 @@
 ------------------------------------------------------------------------
 
 | Questão 3 |
-|----|
+|------------------------------------------------------------------------|
 | Qual princípio fundamental do COBIT 5 é diretamente suportado e estruturado pela divisão do Modelo de Referência de Processos em EDM e PBRM? |
 | a) Princípio 1 — Atender às Necessidades das Partes Interessadas |
 | b) Princípio 3 — Aplicação de um Framework Único e Integrado |
@@ -40,7 +40,7 @@
 ------------------------------------------------------------------------
 
 | Questão 4 |
-|----|
+|------------------------------------------------------------------------|
 | Quais são as três práticas de alto nível que definem os processos do Domínio de Governança (EDM)? |
 | a) Planejar, Construir e Executar (PBE) |
 | b) Alinhar, Planejar e Organizar (APO) |
@@ -51,7 +51,7 @@
 ------------------------------------------------------------------------
 
 | Questão 5 |
-|----|
+|------------------------------------------------------------------------|
 | O domínio de Gestão (PBRM) é dividido em quatro domínios, fornecendo cobertura de ponta a ponta da TI. Quais são as siglas desses quatro domínios? |
 | a) EDM, APO, BAI, DSS |
 | b) P, B, R, M |
@@ -62,7 +62,7 @@
 ------------------------------------------------------------------------
 
 | Questão 6 |
-|----|
+|------------------------------------------------------------------------|
 | Qual processo do domínio EDM é o principal responsável por garantir que o apetite e a tolerância ao risco da empresa sejam comunicados e que o risco relacionado ao uso da TI seja identificado e gerenciado? |
 | a) EDM02 — Ensure Benefits Delivery |
 | b) EDM04 — Ensure Resource Optimisation |
@@ -73,7 +73,7 @@
 ------------------------------------------------------------------------
 
 | Questão 7 |
-|----|
+|------------------------------------------------------------------------|
 | Qual dos processos a seguir pertence ao domínio BAI (*Build, Acquire and Implement*) e é responsável por manter a disponibilidade de conhecimento relevante, atualizado e confiável para facilitar a tomada de decisões? |
 | a) BAI01 — Manage Programmes and Projects |
 | b) BAI03 — Manage Solutions Identification and Build |
@@ -84,7 +84,7 @@
 ------------------------------------------------------------------------
 
 | Questão 8 |
-|----|
+|------------------------------------------------------------------------|
 | O processo de Gestão APO12, *Manage Risk*, está contido em qual domínio e qual é seu propósito principal? |
 | a) BAI — Construir novos controles e soluções de segurança |
 | b) DSS — Responder a incidentes e problemas de segurança |
@@ -95,7 +95,7 @@
 ------------------------------------------------------------------------
 
 | Questão 9 |
-|----|
+|------------------------------------------------------------------------|
 | O que o COBIT 5 recomenda em relação à flexibilidade do Modelo de Referência de Processos (PRM)? |
 | a) O PRM deve ser adotado exatamente como é, pois é um padrão ISO |
 | b) O PRM deve ser usado apenas como uma lista de verificação |
@@ -106,7 +106,7 @@
 ------------------------------------------------------------------------
 
 | Questão 10 |
-|----|
+|------------------------------------------------------------------------|
 | O domínio MEA (*Monitor, Evaluate and Assess*) contém apenas três processos de gestão. Qual é o papel principal desse domínio? |
 | a) Definir a arquitetura empresarial e a inovação (APO) |
 | b) Garantir a entrega de serviços operacionais (DSS) |
@@ -119,7 +119,7 @@
 ## Gabarito
 
 | Nº | Resposta Correta | Domínio / Tema |
-|:--:|:---|:---|
+|:----------------------:|:-----------------------|:-----------------------|
 | 1 | c) 5 EDM + 32 PBRM = 37 processos | Estrutura do PRM |
 | 2 | b) COBIT 4.1, Risk IT e Val IT | Integração de frameworks |
 | 3 | c) Princípio 5 — Separação de Governança e Gestão | Princípios COBIT |
