@@ -242,6 +242,7 @@ pessoas-habilitadores-e-competências-em-uma-frase-as-pessoas-são-o-elo-que-tra
 a-interconexão-entre-os-habilitadores
 relação-de-habilitadores-com-a-cascata-de-objetivos-goals-cascade
 referências-9
+teste-interativo---aula-09
 exercícios-6
 testes-de-múltipla-escolha-os-7-habilitadores-capacitadores-do-cobit-5.0
 gabarito---testes---7-habilitadores
@@ -261,6 +262,7 @@ boas-práticas-de-implementação-dicas-pedagógicas
 exemplo-adaptável-conexão-com-um-órgão-público
 referências-11
 anexos-úteis-sugestões-de-atividade
+teste-interativo---aula-10
 questões-de-múltipla-escolha
 gabarito
 governança-da-informação---cobit-2019---o-que-mudou-em-relação-ao-5.0

@@ -1,3 +1,7 @@
+### Teste Interativo - Aula 09
+
+![](images/09-2025-10-07/aula_09.png){width="635"}
+
 ## Exercícios
 
 #### 07/10/2025 - Campus Marquês {.unnumbered}
@@ -150,7 +154,6 @@
 [6] ISACA. ***COBIT 5 For Assurance**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-339-4
 
 [7] ISACA. ***COBIT 5 For Risk**.* Rolling Meadows (IL): ISACA; 2012. ISBN 978-1-60420-457-5
-
 
 ```{r teste-02, eval=FALSE, include=FALSE}
 rmarkdown::render("09-2025-10-07_08-exercicio.Rmd", output_dir="docs", output_file ="temporario.html" , output_format = "html_document") ; utils::browseURL("docs/temporario.html")
